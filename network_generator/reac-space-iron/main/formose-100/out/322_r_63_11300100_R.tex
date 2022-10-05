@@ -1,0 +1,15 @@
+\begin{tikzpicture}[remember picture, scale=\modGraphScale, baseline={([yshift={-0.5ex}]current bounding box)}, solid]
+\input{\modInputPrefix/out/320_r_63_mol_coord.tex}
+\node[modStyleGraphVertex, text=red, at=(\modIdPrefix v-coord-0)] (\modIdPrefix v-0) {O};
+\node[modStyleGraphVertex, at=(\modIdPrefix v-coord-1)] (\modIdPrefix v-1) {C};
+\node[modStyleGraphVertex, text=blue, at=(\modIdPrefix v-coord-2)] (\modIdPrefix v-2) {N};
+\node[modStyleGraphVertex, text=blue, at=(\modIdPrefix v-2.east), anchor=west] (\modIdPrefix v-2-aux) {H};
+\node[modStyleGraphVertex, at=(\modIdPrefix v-2-aux)] {\phantom{H}};
+\node[modStyleGraphVertex, text=blue, at=(\modIdPrefix v-coord-6)] (\modIdPrefix v-6) {N};
+\node[modStyleGraphVertex, text=blue, at=(\modIdPrefix v-6.east), anchor=west] (\modIdPrefix v-6-aux) {H$_{2}$};
+\node[modStyleGraphVertex, at=(\modIdPrefix v-6-aux), text depth=.25ex] {\phantom{H$_2$}};
+\node[modStyleGraphVertex, text=gray, at=(\modIdPrefix v-coord-7)] (\modIdPrefix v-7) {H};
+\modDrawDoubleBond{0}{1}{1}{1}{}{}
+\modDrawDoubleBond{1}{2}{1}{1}{Green, text=Green}{}
+\modDrawSingleBond{6}{7}{1}{1}{Green, text=Green}{}
+\end{tikzpicture}

@@ -1,0 +1,906 @@
+Source	Target	Reaction Name	Mass
+
+C=O	8_0	Aldol Condensation	30.010564684
+C(CO)=O	8_0	Aldol Condensation	60.021129368000004
+8_0	C(C(CO)O)=O	Aldol Condensation	90.031694052
+C=O	8_1	Knoevenagel H	30.010564684
+C(CO)=O	8_1	Knoevenagel H	60.021129368000004
+8_1	C(C(CO)O)=O	Knoevenagel H	90.031694052
+C(CO)=O	9_0	Keto-enol migration twice	60.021129368000004
+9_0	C(CO)=O	Keto-enol migration twice	60.021129368000004
+C=O	12_0	Cannizarro 2, HCHO (oxidation)	30.010564684
+C=O	12_0	Cannizarro 2, HCHO (oxidation)	30.010564684
+O	12_0	Cannizarro 2, HCHO (oxidation)	18.010564684
+12_0	C(O)=O	Cannizarro 2, HCHO (oxidation)	46.005479304
+12_0	CO	Cannizarro 2, HCHO (oxidation)	32.026214748
+C=O	12_1	Cannizarro 2, HCHO (reduction)	30.010564684
+C=O	12_1	Cannizarro 2, HCHO (reduction)	30.010564684
+O	12_1	Cannizarro 2, HCHO (reduction)	18.010564684
+12_1	C(O)=O	Cannizarro 2, HCHO (reduction)	46.005479304
+12_1	CO	Cannizarro 2, HCHO (reduction)	32.026214748
+C=O	14_0	Cannizarro 2, HCHO (oxidation)	30.010564684
+C(CO)=O	14_0	Cannizarro 2, HCHO (oxidation)	60.021129368000004
+O	14_0	Cannizarro 2, HCHO (oxidation)	18.010564684
+14_0	C(O)=O	Cannizarro 2, HCHO (oxidation)	46.005479304
+14_0	C(CO)O	Cannizarro 2, HCHO (oxidation)	62.036779432
+C=O	16_0	Cannizarro 2, HCHO (reduction)	30.010564684
+C(CO)=O	16_0	Cannizarro 2, HCHO (reduction)	60.021129368000004
+O	16_0	Cannizarro 2, HCHO (reduction)	18.010564684
+16_0	CO	Cannizarro 2, HCHO (reduction)	32.026214748
+16_0	C(CO)(O)=O	Cannizarro 2, HCHO (reduction)	76.01604398799999
+C(CO)=O	17_0	Fe3 ---> Fe2 Aldehyde to acid	60.021129368000004
+[OH-]	17_0	Fe3 ---> Fe2 Aldehyde to acid	17.003288232
+[Fe+3]	17_0	Fe3 ---> Fe2 Aldehyde to acid	55.933291759999996
+[Fe+3]	17_0	Fe3 ---> Fe2 Aldehyde to acid	55.933291759999996
+17_0	[H+]	Fe3 ---> Fe2 Aldehyde to acid	1.007276452
+17_0	[Fe+2]	Fe3 ---> Fe2 Aldehyde to acid	55.933840339999996
+17_0	[Fe+2]	Fe3 ---> Fe2 Aldehyde to acid	55.933840339999996
+17_0	C(CO)(O)=O	Fe3 ---> Fe2 Aldehyde to acid	76.01604398799999
+C(CO)=O	19_0	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	60.021129368000004
+[Fe+3]	19_0	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	55.933291759999996
+[Fe+3]	19_0	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	55.933291759999996
+19_0	[H+]	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	1.007276452
+19_0	[H+]	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	1.007276452
+19_0	[Fe+2]	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	55.933840339999996
+19_0	[Fe+2]	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	55.933840339999996
+19_0	C(C=O)=O	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	58.005479304000005
+O	20_0	Benzilic Acid Rearrangement	18.010564684
+C(C=O)=O	20_0	Benzilic Acid Rearrangement	58.005479304000005
+20_0	C(CO)(O)=O	Benzilic Acid Rearrangement	76.01604398799999
+O	20_1	Cannizarro 1	18.010564684
+C(C=O)=O	20_1	Cannizarro 1	58.005479304000005
+20_1	C(CO)(O)=O	Cannizarro 1	76.01604398799999
+C(CO)(O)=O	21_0	Benzilic Acid Rearrangement (inverse)	76.01604398799999
+21_0	O	Benzilic Acid Rearrangement (inverse)	18.010564684
+21_0	C(C=O)=O	Benzilic Acid Rearrangement (inverse)	58.005479304000005
+C(C(CO)O)=O	22_0	Retro Aldol	90.031694052
+22_0	C=O	Retro Aldol	30.010564684
+22_0	C(CO)=O	Retro Aldol	60.021129368000004
+C(C(CO)O)=O	22_1	Knoevenagel H (inv)	90.031694052
+22_1	C=O	Knoevenagel H (inv)	30.010564684
+22_1	C(CO)=O	Knoevenagel H (inv)	60.021129368000004
+C(C(CO)O)=O	24_0	Keto-enol migration twice	90.031694052
+24_0	C(CO)(CO)=O	Keto-enol migration twice	90.031694052
+C=O	26_0	Cannizarro 2, HCHO (oxidation)	30.010564684
+O	26_0	Cannizarro 2, HCHO (oxidation)	18.010564684
+C(C(CO)O)=O	26_0	Cannizarro 2, HCHO (oxidation)	90.031694052
+26_0	C(O)=O	Cannizarro 2, HCHO (oxidation)	46.005479304
+26_0	C(C(CO)O)O	Cannizarro 2, HCHO (oxidation)	92.047344116
+C=O	27_0	Cannizarro 2, HCHO (oxidation)	30.010564684
+O	27_0	Cannizarro 2, HCHO (oxidation)	18.010564684
+C(C=O)=O	27_0	Cannizarro 2, HCHO (oxidation)	58.005479304000005
+27_0	C(CO)=O	Cannizarro 2, HCHO (oxidation)	60.021129368000004
+27_0	C(O)=O	Cannizarro 2, HCHO (oxidation)	46.005479304
+C=O	29_0	Cannizarro 2, HCHO (reduction)	30.010564684
+O	29_0	Cannizarro 2, HCHO (reduction)	18.010564684
+C(C=O)=O	29_0	Cannizarro 2, HCHO (reduction)	58.005479304000005
+29_0	CO	Cannizarro 2, HCHO (reduction)	32.026214748
+29_0	C(C(O)=O)=O	Cannizarro 2, HCHO (reduction)	74.000393924
+C(C(CO)O)=O	31_0	Elimination + enol to keto	90.031694052
+31_0	O	Elimination + enol to keto	18.010564684
+31_0	C(C(C)=O)=O	Elimination + enol to keto	72.021129368
+C(C(CO)O)=O	33_0	Elimination + enol to keto	90.031694052
+33_0	O	Elimination + enol to keto	18.010564684
+33_0	C(CC=O)=O	Elimination + enol to keto	72.021129368
+C(CO)O	35_0	Elimination + enol to keto	62.036779432
+35_0	O	Elimination + enol to keto	18.010564684
+35_0	C(C)=O	Elimination + enol to keto	44.026214748
+[Fe+3]	37_0	Fe3 Complex Beta elimination from a sugar and Conversion to Acid	55.933291759999996
+C(C(CO)O)=O	37_0	Fe3 Complex Beta elimination from a sugar and Conversion to Acid	90.031694052
+37_0	[Fe+3]	Fe3 Complex Beta elimination from a sugar and Conversion to Acid	55.933291759999996
+37_0	C(C(C)O)(O)=O	Fe3 Complex Beta elimination from a sugar and Conversion to Acid	90.031694052
+[Fe+3]	39_0	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	55.933291759999996
+[Fe+3]	39_0	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	55.933291759999996
+C(C(CO)O)=O	39_0	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	90.031694052
+39_0	[H+]	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	1.007276452
+39_0	[H+]	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	1.007276452
+39_0	[Fe+2]	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	55.933840339999996
+39_0	[Fe+2]	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	55.933840339999996
+39_0	C(C(CO)=O)=O	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	88.016043988
+[H+]	40_0	Fe2 ---> Fe3 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group, inverse	1.007276452
+[H+]	40_0	Fe2 ---> Fe3 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group, inverse	1.007276452
+[Fe+2]	40_0	Fe2 ---> Fe3 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group, inverse	55.933840339999996
+[Fe+2]	40_0	Fe2 ---> Fe3 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group, inverse	55.933840339999996
+C(C=O)=O	40_0	Fe2 ---> Fe3 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group, inverse	58.005479304000005
+40_0	C(CO)=O	Fe2 ---> Fe3 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group, inverse	60.021129368000004
+40_0	[Fe+3]	Fe2 ---> Fe3 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group, inverse	55.933291759999996
+40_0	[Fe+3]	Fe2 ---> Fe3 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group, inverse	55.933291759999996
+[Fe+3]	41_0	Fe3 ---> Fe2 Conversion of Alpha Hydro Group of an ACID to Alpha Keto group	55.933291759999996
+[Fe+3]	41_0	Fe3 ---> Fe2 Conversion of Alpha Hydro Group of an ACID to Alpha Keto group	55.933291759999996
+C(CO)(O)=O	41_0	Fe3 ---> Fe2 Conversion of Alpha Hydro Group of an ACID to Alpha Keto group	76.01604398799999
+41_0	[H+]	Fe3 ---> Fe2 Conversion of Alpha Hydro Group of an ACID to Alpha Keto group	1.007276452
+41_0	[H+]	Fe3 ---> Fe2 Conversion of Alpha Hydro Group of an ACID to Alpha Keto group	1.007276452
+41_0	[Fe+2]	Fe3 ---> Fe2 Conversion of Alpha Hydro Group of an ACID to Alpha Keto group	55.933840339999996
+41_0	[Fe+2]	Fe3 ---> Fe2 Conversion of Alpha Hydro Group of an ACID to Alpha Keto group	55.933840339999996
+41_0	C(C(O)=O)=O	Fe3 ---> Fe2 Conversion of Alpha Hydro Group of an ACID to Alpha Keto group	74.000393924
+C(C)=O	43_0	Aldol Condensation	44.026214748
+C(C)=O	43_0	Aldol Condensation	44.026214748
+43_0	C(CC(C)O)=O	Aldol Condensation	88.052429496
+C=O	45_0	Aldol Condensation	30.010564684
+C(C)=O	45_0	Aldol Condensation	44.026214748
+45_0	C(CCO)=O	Aldol Condensation	74.036779432
+O	46_0	Benzilic Acid Rearrangement	18.010564684
+C(C(C)=O)=O	46_0	Benzilic Acid Rearrangement	72.021129368
+46_0	C(C(C)O)(O)=O	Benzilic Acid Rearrangement	90.031694052
+O	46_1	Cannizarro 1	18.010564684
+C(C(C)=O)=O	46_1	Cannizarro 1	72.021129368
+46_1	C(C(C)O)(O)=O	Cannizarro 1	90.031694052
+C(C(C)O)(O)=O	47_0	Benzilic Acid Rearrangement (inverse)	90.031694052
+47_0	O	Benzilic Acid Rearrangement (inverse)	18.010564684
+47_0	C(C(C)=O)=O	Benzilic Acid Rearrangement (inverse)	72.021129368
+C(C(CO)=O)=O	48_0	Retro Aldol	88.016043988
+48_0	C=O	Retro Aldol	30.010564684
+48_0	C(C=O)=O	Retro Aldol	58.005479304000005
+C(CO)(CO)=O	49_0	Keto-enol migration twice	90.031694052
+49_0	C(C(CO)O)=O	Keto-enol migration twice	90.031694052
+C(C(CO)=O)=O	51_0	Keto-enol migration twice	88.016043988
+51_0	C(C(C=O)O)=O	Keto-enol migration twice	88.016043988
+C=O	52_0	Cannizarro 2, HCHO (oxidation)	30.010564684
+O	52_0	Cannizarro 2, HCHO (oxidation)	18.010564684
+C(C(O)=O)=O	52_0	Cannizarro 2, HCHO (oxidation)	74.000393924
+52_0	C(O)=O	Cannizarro 2, HCHO (oxidation)	46.005479304
+52_0	C(CO)(O)=O	Cannizarro 2, HCHO (oxidation)	76.01604398799999
+C=O	54_0	Cannizarro 2, HCHO (oxidation)	30.010564684
+O	54_0	Cannizarro 2, HCHO (oxidation)	18.010564684
+C(C(C)=O)=O	54_0	Cannizarro 2, HCHO (oxidation)	72.021129368
+54_0	C(O)=O	Cannizarro 2, HCHO (oxidation)	46.005479304
+54_0	C(C)(CO)=O	Cannizarro 2, HCHO (oxidation)	74.036779432
+C=O	55_0	Cannizarro 2, HCHO (oxidation)	30.010564684
+O	55_0	Cannizarro 2, HCHO (oxidation)	18.010564684
+C(CC=O)=O	55_0	Cannizarro 2, HCHO (oxidation)	72.021129368
+55_0	C(O)=O	Cannizarro 2, HCHO (oxidation)	46.005479304
+55_0	C(CCO)=O	Cannizarro 2, HCHO (oxidation)	74.036779432
+C=O	57_0	Cannizarro 2, HCHO (oxidation)	30.010564684
+O	57_0	Cannizarro 2, HCHO (oxidation)	18.010564684
+C(C)=O	57_0	Cannizarro 2, HCHO (oxidation)	44.026214748
+57_0	C(O)=O	Cannizarro 2, HCHO (oxidation)	46.005479304
+57_0	CCO	Cannizarro 2, HCHO (oxidation)	46.041864812
+C=O	58_0	Cannizarro 2, HCHO (oxidation)	30.010564684
+O	58_0	Cannizarro 2, HCHO (oxidation)	18.010564684
+C(C(CO)=O)=O	58_0	Cannizarro 2, HCHO (oxidation)	88.016043988
+58_0	C(O)=O	Cannizarro 2, HCHO (oxidation)	46.005479304
+58_0	C(CO)(CO)=O	Cannizarro 2, HCHO (oxidation)	90.031694052
+C=O	60_0	Cannizarro 2, HCHO (reduction)	30.010564684
+O	60_0	Cannizarro 2, HCHO (reduction)	18.010564684
+C(C(O)=O)=O	60_0	Cannizarro 2, HCHO (reduction)	74.000393924
+60_0	CO	Cannizarro 2, HCHO (reduction)	32.026214748
+60_0	C(C(O)=O)(O)=O	Cannizarro 2, HCHO (reduction)	89.995308544
+C=O	62_0	Cannizarro 2, HCHO (reduction)	30.010564684
+O	62_0	Cannizarro 2, HCHO (reduction)	18.010564684
+C(C(C)=O)=O	62_0	Cannizarro 2, HCHO (reduction)	72.021129368
+62_0	CO	Cannizarro 2, HCHO (reduction)	32.026214748
+62_0	C(C(C)=O)(O)=O	Cannizarro 2, HCHO (reduction)	88.01604398799999
+C=O	64_0	Cannizarro 2, HCHO (reduction)	30.010564684
+O	64_0	Cannizarro 2, HCHO (reduction)	18.010564684
+C(CC=O)=O	64_0	Cannizarro 2, HCHO (reduction)	72.021129368
+64_0	CO	Cannizarro 2, HCHO (reduction)	32.026214748
+64_0	C(CC(O)=O)=O	Cannizarro 2, HCHO (reduction)	88.016043988
+C=O	66_0	Cannizarro 2, HCHO (reduction)	30.010564684
+O	66_0	Cannizarro 2, HCHO (reduction)	18.010564684
+C(C)=O	66_0	Cannizarro 2, HCHO (reduction)	44.026214748
+66_0	CO	Cannizarro 2, HCHO (reduction)	32.026214748
+66_0	C(C)(O)=O	Cannizarro 2, HCHO (reduction)	60.021129368
+C(C(CO)O)O	67_0	Elimination + enol to keto	92.047344116
+67_0	O	Elimination + enol to keto	18.010564684
+67_0	C(C)(CO)=O	Elimination + enol to keto	74.036779432
+C(C(CO)O)O	68_0	Elimination + enol to keto	92.047344116
+68_0	O	Elimination + enol to keto	18.010564684
+68_0	C(CCO)=O	Elimination + enol to keto	74.036779432
+C(C(C)O)(O)=O	70_0	Elimination2	90.031694052
+70_0	O	Elimination2	18.010564684
+70_0	C=CC(O)=O	Elimination2	72.021129368
+O	71_0	Hydration of C(=O)C	18.010564684
+C(C(C)=O)=O	71_0	Hydration of C(=O)C	72.021129368
+71_0	C(C(CO)O)=O	Hydration of C(=O)C	90.031694052
+O	72_0	Hydration of C(=O)C	18.010564684
+C(CC=O)=O	72_0	Hydration of C(=O)C	72.021129368
+72_0	C(C(CO)O)=O	Hydration of C(=O)C	90.031694052
+O	73_0	Hydration of C(=O)C	18.010564684
+C(C)=O	73_0	Hydration of C(=O)C	44.026214748
+73_0	C(CO)O	Hydration of C(=O)C	62.036779432
+C(C(O)=O)=O	75_0	Alpha-Keto Acid Decarboxylation	74.000393924
+75_0	C=O	Alpha-Keto Acid Decarboxylation	30.010564684
+75_0	C(=O)=O	Alpha-Keto Acid Decarboxylation	43.98982924
+[H+]	77_0	Fe2 ---> Fe3 Alpha Keto Reduction of a Carboxylic Acid (Fe2+ to Fe3+)	1.007276452
+[Fe+2]	77_0	Fe2 ---> Fe3 Alpha Keto Reduction of a Carboxylic Acid (Fe2+ to Fe3+)	55.933840339999996
+[Fe+2]	77_0	Fe2 ---> Fe3 Alpha Keto Reduction of a Carboxylic Acid (Fe2+ to Fe3+)	55.933840339999996
+C(C(O)=O)=O	77_0	Fe2 ---> Fe3 Alpha Keto Reduction of a Carboxylic Acid (Fe2+ to Fe3+)	74.000393924
+77_0	[Fe+3]	Fe2 ---> Fe3 Alpha Keto Reduction of a Carboxylic Acid (Fe2+ to Fe3+)	55.933291759999996
+77_0	[Fe+3]	Fe2 ---> Fe3 Alpha Keto Reduction of a Carboxylic Acid (Fe2+ to Fe3+)	55.933291759999996
+77_0	[CH](C(O)=O)O	Fe2 ---> Fe3 Alpha Keto Reduction of a Carboxylic Acid (Fe2+ to Fe3+)	75.008218956
+[H+]	79_0	Fe2 ---> Fe3 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group, inverse	1.007276452
+[H+]	79_0	Fe2 ---> Fe3 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group, inverse	1.007276452
+[Fe+2]	79_0	Fe2 ---> Fe3 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group, inverse	55.933840339999996
+[Fe+2]	79_0	Fe2 ---> Fe3 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group, inverse	55.933840339999996
+C(C(O)=O)=O	79_0	Fe2 ---> Fe3 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group, inverse	74.000393924
+79_0	[Fe+3]	Fe2 ---> Fe3 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group, inverse	55.933291759999996
+79_0	[Fe+3]	Fe2 ---> Fe3 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group, inverse	55.933291759999996
+79_0	C(C(O)O)=O	Fe2 ---> Fe3 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group, inverse	76.01604398799999
+[H+]	81_0	Fe2 ---> Fe3 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group, inverse	1.007276452
+[H+]	81_0	Fe2 ---> Fe3 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group, inverse	1.007276452
+[Fe+2]	81_0	Fe2 ---> Fe3 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group, inverse	55.933840339999996
+[Fe+2]	81_0	Fe2 ---> Fe3 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group, inverse	55.933840339999996
+C(C(C)=O)=O	81_0	Fe2 ---> Fe3 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group, inverse	72.021129368
+81_0	[Fe+3]	Fe2 ---> Fe3 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group, inverse	55.933291759999996
+81_0	[Fe+3]	Fe2 ---> Fe3 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group, inverse	55.933291759999996
+81_0	C(C(C)O)=O	Fe2 ---> Fe3 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group, inverse	74.036779432
+[H+]	82_0	Fe2 ---> Fe3 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group, inverse	1.007276452
+[H+]	82_0	Fe2 ---> Fe3 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group, inverse	1.007276452
+[Fe+2]	82_0	Fe2 ---> Fe3 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group, inverse	55.933840339999996
+[Fe+2]	82_0	Fe2 ---> Fe3 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group, inverse	55.933840339999996
+C(C(CO)=O)=O	82_0	Fe2 ---> Fe3 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group, inverse	88.016043988
+82_0	[Fe+3]	Fe2 ---> Fe3 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group, inverse	55.933291759999996
+82_0	[Fe+3]	Fe2 ---> Fe3 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group, inverse	55.933291759999996
+82_0	C(C(CO)O)=O	Fe2 ---> Fe3 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group, inverse	90.031694052
+[Fe+3]	83_0	Fe3 ---> Fe2 Conversion of Alpha Hydro Group of an ACID to Alpha Keto group	55.933291759999996
+[Fe+3]	83_0	Fe3 ---> Fe2 Conversion of Alpha Hydro Group of an ACID to Alpha Keto group	55.933291759999996
+C(C(C)O)(O)=O	83_0	Fe3 ---> Fe2 Conversion of Alpha Hydro Group of an ACID to Alpha Keto group	90.031694052
+83_0	[H+]	Fe3 ---> Fe2 Conversion of Alpha Hydro Group of an ACID to Alpha Keto group	1.007276452
+83_0	[H+]	Fe3 ---> Fe2 Conversion of Alpha Hydro Group of an ACID to Alpha Keto group	1.007276452
+83_0	[Fe+2]	Fe3 ---> Fe2 Conversion of Alpha Hydro Group of an ACID to Alpha Keto group	55.933840339999996
+83_0	[Fe+2]	Fe3 ---> Fe2 Conversion of Alpha Hydro Group of an ACID to Alpha Keto group	55.933840339999996
+83_0	C(C(C)=O)(O)=O	Fe3 ---> Fe2 Conversion of Alpha Hydro Group of an ACID to Alpha Keto group	88.01604398799999
+[H+]	84_0	Fe2 ---> Fe3 Conversion of Alpha Keto Group of an ACID to Alpha Hydro group	1.007276452
+[H+]	84_0	Fe2 ---> Fe3 Conversion of Alpha Keto Group of an ACID to Alpha Hydro group	1.007276452
+[Fe+2]	84_0	Fe2 ---> Fe3 Conversion of Alpha Keto Group of an ACID to Alpha Hydro group	55.933840339999996
+[Fe+2]	84_0	Fe2 ---> Fe3 Conversion of Alpha Keto Group of an ACID to Alpha Hydro group	55.933840339999996
+C(C(O)=O)=O	84_0	Fe2 ---> Fe3 Conversion of Alpha Keto Group of an ACID to Alpha Hydro group	74.000393924
+84_0	[Fe+3]	Fe2 ---> Fe3 Conversion of Alpha Keto Group of an ACID to Alpha Hydro group	55.933291759999996
+84_0	[Fe+3]	Fe2 ---> Fe3 Conversion of Alpha Keto Group of an ACID to Alpha Hydro group	55.933291759999996
+84_0	C(CO)(O)=O	Fe2 ---> Fe3 Conversion of Alpha Keto Group of an ACID to Alpha Hydro group	76.01604398799999
+C(C)=O	85_0	Aldol Condensation	44.026214748
+C(=O)=O	85_0	Aldol Condensation	43.98982924
+85_0	C(CC(O)=O)=O	Aldol Condensation	88.016043988
+C(CC(C)O)=O	86_0	Retro Aldol	88.052429496
+86_0	C(C)=O	Retro Aldol	44.026214748
+86_0	C(C)=O	Retro Aldol	44.026214748
+C(CCO)=O	87_0	Retro Aldol	74.036779432
+87_0	C=O	Retro Aldol	30.010564684
+87_0	C(C)=O	Retro Aldol	44.026214748
+C(CC(O)=O)=O	88_0	Retro Aldol	88.016043988
+88_0	C(C)=O	Retro Aldol	44.026214748
+88_0	C(=O)=O	Retro Aldol	43.98982924
+C(CC(O)=O)=O	88_1	Beta Decarboxylation	88.016043988
+88_1	C(C)=O	Beta Decarboxylation	44.026214748
+88_1	C(=O)=O	Beta Decarboxylation	43.98982924
+C(C(C=O)O)=O	89_0	Keto-enol migration twice	88.016043988
+89_0	C(C(CO)=O)=O	Keto-enol migration twice	88.016043988
+C(C)(CO)=O	90_0	Keto-enol migration twice	74.036779432
+90_0	C(C(C)O)=O	Keto-enol migration twice	74.036779432
+C(C(O)O)=O	91_0	Keto-enol migration twice	76.01604398799999
+91_0	C(CO)(O)=O	Keto-enol migration twice	76.01604398799999
+C(C(C)O)=O	92_0	Keto-enol migration twice	74.036779432
+92_0	C(C)(CO)=O	Keto-enol migration twice	74.036779432
+C=O	94_0	Cannizarro 2, HCHO (oxidation)	30.010564684
+O	94_0	Cannizarro 2, HCHO (oxidation)	18.010564684
+C(CC(C)O)=O	94_0	Cannizarro 2, HCHO (oxidation)	88.052429496
+94_0	C(O)=O	Cannizarro 2, HCHO (oxidation)	46.005479304
+94_0	CC(CCO)O	Cannizarro 2, HCHO (oxidation)	90.06807956
+C=O	96_0	Cannizarro 2, HCHO (oxidation)	30.010564684
+O	96_0	Cannizarro 2, HCHO (oxidation)	18.010564684
+C(CCO)=O	96_0	Cannizarro 2, HCHO (oxidation)	74.036779432
+96_0	C(O)=O	Cannizarro 2, HCHO (oxidation)	46.005479304
+96_0	C(CCO)O	Cannizarro 2, HCHO (oxidation)	76.052429496
+C=O	97_0	Cannizarro 2, HCHO (oxidation)	30.010564684
+O	97_0	Cannizarro 2, HCHO (oxidation)	18.010564684
+C(C(C=O)O)=O	97_0	Cannizarro 2, HCHO (oxidation)	88.016043988
+97_0	C(C(CO)O)=O	Cannizarro 2, HCHO (oxidation)	90.031694052
+97_0	C(O)=O	Cannizarro 2, HCHO (oxidation)	46.005479304
+C=O	99_0	Cannizarro 2, HCHO (oxidation)	30.010564684
+O	99_0	Cannizarro 2, HCHO (oxidation)	18.010564684
+C(CC(O)=O)=O	99_0	Cannizarro 2, HCHO (oxidation)	88.016043988
+99_0	C(O)=O	Cannizarro 2, HCHO (oxidation)	46.005479304
+99_0	C(CCO)(O)=O	Cannizarro 2, HCHO (oxidation)	90.031694052
+C=O	101_0	Cannizarro 2, HCHO (oxidation)	30.010564684
+O	101_0	Cannizarro 2, HCHO (oxidation)	18.010564684
+C(C(O)O)=O	101_0	Cannizarro 2, HCHO (oxidation)	76.01604398799999
+101_0	C(O)=O	Cannizarro 2, HCHO (oxidation)	46.005479304
+101_0	C(C(O)O)O	Cannizarro 2, HCHO (oxidation)	78.031694052
+C=O	103_0	Cannizarro 2, HCHO (oxidation)	30.010564684
+O	103_0	Cannizarro 2, HCHO (oxidation)	18.010564684
+C(C(C)O)=O	103_0	Cannizarro 2, HCHO (oxidation)	74.036779432
+103_0	C(O)=O	Cannizarro 2, HCHO (oxidation)	46.005479304
+103_0	CC(CO)O	Cannizarro 2, HCHO (oxidation)	76.052429496
+C=O	104_0	Cannizarro 2, HCHO (reduction)	30.010564684
+O	104_0	Cannizarro 2, HCHO (reduction)	18.010564684
+C(CCO)=O	104_0	Cannizarro 2, HCHO (reduction)	74.036779432
+104_0	CO	Cannizarro 2, HCHO (reduction)	32.026214748
+104_0	C(CCO)(O)=O	Cannizarro 2, HCHO (reduction)	90.031694052
+C=O	106_0	Cannizarro 2, HCHO (reduction)	30.010564684
+O	106_0	Cannizarro 2, HCHO (reduction)	18.010564684
+C(C(O)O)=O	106_0	Cannizarro 2, HCHO (reduction)	76.01604398799999
+106_0	CO	Cannizarro 2, HCHO (reduction)	32.026214748
+106_0	C(C(O)O)(O)=O	Cannizarro 2, HCHO (reduction)	92.010958608
+C=O	107_0	Cannizarro 2, HCHO (reduction)	30.010564684
+O	107_0	Cannizarro 2, HCHO (reduction)	18.010564684
+C(C(C)O)=O	107_0	Cannizarro 2, HCHO (reduction)	74.036779432
+107_0	CO	Cannizarro 2, HCHO (reduction)	32.026214748
+107_0	C(C(C)O)(O)=O	Cannizarro 2, HCHO (reduction)	90.031694052
+C(CC(C)O)=O	109_0	Elimination2	88.052429496
+109_0	O	Elimination2	18.010564684
+109_0	C(C)=CC=O	Elimination2	70.041864812
+C(CC(C)O)=O	111_0	Elimination2	88.052429496
+111_0	O	Elimination2	18.010564684
+111_0	C(CC=C)=O	Elimination2	70.041864812
+C(CCO)=O	113_0	Elimination2	74.036779432
+113_0	O	Elimination2	18.010564684
+113_0	C=CC=O	Elimination2	56.026214748
+CCO	115_0	Elimination2	46.041864812
+115_0	O	Elimination2	18.010564684
+115_0	C=C	Elimination2	28.031300127999998
+C(C(C)O)=O	116_0	Elimination2	74.036779432
+116_0	O	Elimination2	18.010564684
+116_0	C=CC=O	Elimination2	56.026214748
+O	117_0	Hydration of C(=O)C	18.010564684
+C(CCO)=O	117_0	Hydration of C(=O)C	74.036779432
+117_0	C(C(CO)O)O	Hydration of C(=O)C	92.047344116
+O	118_0	Hydration of C(=O)C	18.010564684
+C(C)(CO)=O	118_0	Hydration of C(=O)C	74.036779432
+118_0	C(C(CO)O)O	Hydration of C(=O)C	92.047344116
+O	119_0	Hydration of C=C(O)	18.010564684
+C=CC(O)=O	119_0	Hydration of C=C(O)	72.021129368
+119_0	C(CCO)(O)=O	Hydration of C=C(O)	90.031694052
+O	120_0	Hydration of C=C(O)	18.010564684
+C=CC(O)=O	120_0	Hydration of C=C(O)	72.021129368
+120_0	C(C(C)O)(O)=O	Hydration of C=C(O)	90.031694052
+C=CC(O)=O	121_0	Alpha-Beta Unsaturated Acid Decarboxylation	72.021129368
+121_0	C(=O)=O	Alpha-Beta Unsaturated Acid Decarboxylation	43.98982924
+121_0	C=C	Alpha-Beta Unsaturated Acid Decarboxylation	28.031300127999998
+C(C(O)=O)(O)=O	122_0	Alpha-Keto Acid Decarboxylation	89.995308544
+122_0	C(O)=O	Alpha-Keto Acid Decarboxylation	46.005479304
+122_0	C(=O)=O	Alpha-Keto Acid Decarboxylation	43.98982924
+C(C(C)=O)(O)=O	123_0	Alpha-Keto Acid Decarboxylation	88.01604398799999
+123_0	C(C)=O	Alpha-Keto Acid Decarboxylation	44.026214748
+123_0	C(=O)=O	Alpha-Keto Acid Decarboxylation	43.98982924
+[H+]	125_0	Fe2 ---> Fe3 Alpha Keto Reduction of a Carboxylic Acid (Fe2+ to Fe3+)	1.007276452
+[Fe+2]	125_0	Fe2 ---> Fe3 Alpha Keto Reduction of a Carboxylic Acid (Fe2+ to Fe3+)	55.933840339999996
+[Fe+2]	125_0	Fe2 ---> Fe3 Alpha Keto Reduction of a Carboxylic Acid (Fe2+ to Fe3+)	55.933840339999996
+C(C(O)=O)(O)=O	125_0	Fe2 ---> Fe3 Alpha Keto Reduction of a Carboxylic Acid (Fe2+ to Fe3+)	89.995308544
+125_0	[Fe+3]	Fe2 ---> Fe3 Alpha Keto Reduction of a Carboxylic Acid (Fe2+ to Fe3+)	55.933291759999996
+125_0	[Fe+3]	Fe2 ---> Fe3 Alpha Keto Reduction of a Carboxylic Acid (Fe2+ to Fe3+)	55.933291759999996
+125_0	[C](C(O)=O)(O)O	Fe2 ---> Fe3 Alpha Keto Reduction of a Carboxylic Acid (Fe2+ to Fe3+)	91.003133576
+[H+]	127_0	Fe2 ---> Fe3 Alpha Keto Reduction of a Carboxylic Acid (Fe2+ to Fe3+)	1.007276452
+[Fe+2]	127_0	Fe2 ---> Fe3 Alpha Keto Reduction of a Carboxylic Acid (Fe2+ to Fe3+)	55.933840339999996
+[Fe+2]	127_0	Fe2 ---> Fe3 Alpha Keto Reduction of a Carboxylic Acid (Fe2+ to Fe3+)	55.933840339999996
+C(C(C)=O)(O)=O	127_0	Fe2 ---> Fe3 Alpha Keto Reduction of a Carboxylic Acid (Fe2+ to Fe3+)	88.01604398799999
+127_0	[Fe+3]	Fe2 ---> Fe3 Alpha Keto Reduction of a Carboxylic Acid (Fe2+ to Fe3+)	55.933291759999996
+127_0	[Fe+3]	Fe2 ---> Fe3 Alpha Keto Reduction of a Carboxylic Acid (Fe2+ to Fe3+)	55.933291759999996
+127_0	C([C](C)O)(O)=O	Fe2 ---> Fe3 Alpha Keto Reduction of a Carboxylic Acid (Fe2+ to Fe3+)	89.02386901999999
+[OH-]	128_0	Fe3 ---> Fe2 Aldehyde to acid	17.003288232
+[Fe+3]	128_0	Fe3 ---> Fe2 Aldehyde to acid	55.933291759999996
+[Fe+3]	128_0	Fe3 ---> Fe2 Aldehyde to acid	55.933291759999996
+C(C(O)O)=O	128_0	Fe3 ---> Fe2 Aldehyde to acid	76.01604398799999
+128_0	[H+]	Fe3 ---> Fe2 Aldehyde to acid	1.007276452
+128_0	[Fe+2]	Fe3 ---> Fe2 Aldehyde to acid	55.933840339999996
+128_0	[Fe+2]	Fe3 ---> Fe2 Aldehyde to acid	55.933840339999996
+128_0	C(C(O)O)(O)=O	Fe3 ---> Fe2 Aldehyde to acid	92.010958608
+[OH-]	129_0	Fe3 ---> Fe2 Aldehyde to acid	17.003288232
+[Fe+3]	129_0	Fe3 ---> Fe2 Aldehyde to acid	55.933291759999996
+[Fe+3]	129_0	Fe3 ---> Fe2 Aldehyde to acid	55.933291759999996
+C(C(C)O)=O	129_0	Fe3 ---> Fe2 Aldehyde to acid	74.036779432
+129_0	[H+]	Fe3 ---> Fe2 Aldehyde to acid	1.007276452
+129_0	[Fe+2]	Fe3 ---> Fe2 Aldehyde to acid	55.933840339999996
+129_0	[Fe+2]	Fe3 ---> Fe2 Aldehyde to acid	55.933840339999996
+129_0	C(C(C)O)(O)=O	Fe3 ---> Fe2 Aldehyde to acid	90.031694052
+[Fe+3]	130_0	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	55.933291759999996
+[Fe+3]	130_0	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	55.933291759999996
+C(C(O)O)=O	130_0	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	76.01604398799999
+130_0	[H+]	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	1.007276452
+130_0	[H+]	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	1.007276452
+130_0	[Fe+2]	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	55.933840339999996
+130_0	[Fe+2]	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	55.933840339999996
+130_0	C(C(O)=O)=O	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	74.000393924
+[Fe+3]	131_0	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	55.933291759999996
+[Fe+3]	131_0	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	55.933291759999996
+C(C(C)O)=O	131_0	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	74.036779432
+131_0	[H+]	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	1.007276452
+131_0	[H+]	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	1.007276452
+131_0	[Fe+2]	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	55.933840339999996
+131_0	[Fe+2]	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	55.933840339999996
+131_0	C(C(C)=O)=O	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	72.021129368
+[H+]	132_0	Fe2 ---> Fe3 Conversion of Alpha Keto Group of an ACID to Alpha Hydro group	1.007276452
+[H+]	132_0	Fe2 ---> Fe3 Conversion of Alpha Keto Group of an ACID to Alpha Hydro group	1.007276452
+[Fe+2]	132_0	Fe2 ---> Fe3 Conversion of Alpha Keto Group of an ACID to Alpha Hydro group	55.933840339999996
+[Fe+2]	132_0	Fe2 ---> Fe3 Conversion of Alpha Keto Group of an ACID to Alpha Hydro group	55.933840339999996
+C(C(O)=O)(O)=O	132_0	Fe2 ---> Fe3 Conversion of Alpha Keto Group of an ACID to Alpha Hydro group	89.995308544
+132_0	[Fe+3]	Fe2 ---> Fe3 Conversion of Alpha Keto Group of an ACID to Alpha Hydro group	55.933291759999996
+132_0	[Fe+3]	Fe2 ---> Fe3 Conversion of Alpha Keto Group of an ACID to Alpha Hydro group	55.933291759999996
+132_0	C(C(O)O)(O)=O	Fe2 ---> Fe3 Conversion of Alpha Keto Group of an ACID to Alpha Hydro group	92.010958608
+[H+]	133_0	Fe2 ---> Fe3 Conversion of Alpha Keto Group of an ACID to Alpha Hydro group	1.007276452
+[H+]	133_0	Fe2 ---> Fe3 Conversion of Alpha Keto Group of an ACID to Alpha Hydro group	1.007276452
+[Fe+2]	133_0	Fe2 ---> Fe3 Conversion of Alpha Keto Group of an ACID to Alpha Hydro group	55.933840339999996
+[Fe+2]	133_0	Fe2 ---> Fe3 Conversion of Alpha Keto Group of an ACID to Alpha Hydro group	55.933840339999996
+C(C(C)=O)(O)=O	133_0	Fe2 ---> Fe3 Conversion of Alpha Keto Group of an ACID to Alpha Hydro group	88.01604398799999
+133_0	[Fe+3]	Fe2 ---> Fe3 Conversion of Alpha Keto Group of an ACID to Alpha Hydro group	55.933291759999996
+133_0	[Fe+3]	Fe2 ---> Fe3 Conversion of Alpha Keto Group of an ACID to Alpha Hydro group	55.933291759999996
+133_0	C(C(C)O)(O)=O	Fe2 ---> Fe3 Conversion of Alpha Keto Group of an ACID to Alpha Hydro group	90.031694052
+C(C(O)O)(O)=O	134_0	Benzilic Acid Rearrangement (inverse)	92.010958608
+134_0	O	Benzilic Acid Rearrangement (inverse)	18.010564684
+134_0	C(C(O)=O)=O	Benzilic Acid Rearrangement (inverse)	74.000393924
+C=O	136_0	Cannizarro 2, HCHO (oxidation)	30.010564684
+O	136_0	Cannizarro 2, HCHO (oxidation)	18.010564684
+C(C)=CC=O	136_0	Cannizarro 2, HCHO (oxidation)	70.041864812
+136_0	C(O)=O	Cannizarro 2, HCHO (oxidation)	46.005479304
+136_0	C(C)=CCO	Cannizarro 2, HCHO (oxidation)	72.057514876
+C=O	138_0	Cannizarro 2, HCHO (oxidation)	30.010564684
+O	138_0	Cannizarro 2, HCHO (oxidation)	18.010564684
+C(CC=C)=O	138_0	Cannizarro 2, HCHO (oxidation)	70.041864812
+138_0	C(O)=O	Cannizarro 2, HCHO (oxidation)	46.005479304
+138_0	C=CCCO	Cannizarro 2, HCHO (oxidation)	72.057514876
+C=O	140_0	Cannizarro 2, HCHO (oxidation)	30.010564684
+O	140_0	Cannizarro 2, HCHO (oxidation)	18.010564684
+C=CC=O	140_0	Cannizarro 2, HCHO (oxidation)	56.026214748
+140_0	C(O)=O	Cannizarro 2, HCHO (oxidation)	46.005479304
+140_0	C=CCO	Cannizarro 2, HCHO (oxidation)	58.041864812
+C=O	142_0	Cannizarro 2, HCHO (reduction)	30.010564684
+O	142_0	Cannizarro 2, HCHO (reduction)	18.010564684
+C(C)=CC=O	142_0	Cannizarro 2, HCHO (reduction)	70.041864812
+142_0	CO	Cannizarro 2, HCHO (reduction)	32.026214748
+142_0	C(C)=CC(O)=O	Cannizarro 2, HCHO (reduction)	86.036779432
+C=O	144_0	Cannizarro 2, HCHO (reduction)	30.010564684
+O	144_0	Cannizarro 2, HCHO (reduction)	18.010564684
+C(CC=C)=O	144_0	Cannizarro 2, HCHO (reduction)	70.041864812
+144_0	CO	Cannizarro 2, HCHO (reduction)	32.026214748
+144_0	C(CC=C)(O)=O	Cannizarro 2, HCHO (reduction)	86.036779432
+C=O	145_0	Cannizarro 2, HCHO (reduction)	30.010564684
+O	145_0	Cannizarro 2, HCHO (reduction)	18.010564684
+C=CC=O	145_0	Cannizarro 2, HCHO (reduction)	56.026214748
+145_0	CO	Cannizarro 2, HCHO (reduction)	32.026214748
+145_0	C=CC(O)=O	Cannizarro 2, HCHO (reduction)	72.021129368
+C(C(O)O)O	146_0	Elimination + enol to keto	78.031694052
+146_0	O	Elimination + enol to keto	18.010564684
+146_0	C(C)(O)=O	Elimination + enol to keto	60.021129368
+C(C(O)O)O	147_0	Elimination + enol to keto	78.031694052
+147_0	C(CO)=O	Elimination + enol to keto	60.021129368000004
+147_0	O	Elimination + enol to keto	18.010564684
+CC(CO)O	149_0	Elimination + enol to keto	76.052429496
+149_0	O	Elimination + enol to keto	18.010564684
+149_0	C(C)(C)=O	Elimination + enol to keto	58.041864812
+CC(CO)O	151_0	Elimination + enol to keto	76.052429496
+151_0	O	Elimination + enol to keto	18.010564684
+151_0	C(CC)=O	Elimination + enol to keto	58.041864812
+CC(CCO)O	153_0	Elimination2	90.06807956
+153_0	O	Elimination2	18.010564684
+153_0	C=CC(C)O	Elimination2	72.057514876
+CC(CCO)O	154_0	Elimination2	90.06807956
+154_0	O	Elimination2	18.010564684
+154_0	C(C)=CCO	Elimination2	72.057514876
+CC(CCO)O	155_0	Elimination2	90.06807956
+155_0	O	Elimination2	18.010564684
+155_0	C=CCCO	Elimination2	72.057514876
+C(CCO)O	156_0	Elimination2	76.052429496
+156_0	O	Elimination2	18.010564684
+156_0	C=CCO	Elimination2	58.041864812
+C(CCO)(O)=O	157_0	Elimination2	90.031694052
+157_0	O	Elimination2	18.010564684
+157_0	C=CC(O)=O	Elimination2	72.021129368
+CC(CO)O	158_0	Elimination2	76.052429496
+158_0	O	Elimination2	18.010564684
+158_0	C=CCO	Elimination2	58.041864812
+C([C](C)O)(O)=O	160_0	Elimination2	89.02386901999999
+160_0	O	Elimination2	18.010564684
+160_0	[C](C(O)=O)=C	Elimination2	71.013304336
+O	162_0	Hydration of C(=O)C	18.010564684
+C(CC=C)=O	162_0	Hydration of C(=O)C	70.041864812
+162_0	C=CC(CO)O	Hydration of C(=O)C	88.052429496
+O	163_0	Hydration of C=C(O)	18.010564684
+C(C)=CC=O	163_0	Hydration of C=C(O)	70.041864812
+163_0	C(CC(C)O)=O	Hydration of C=C(O)	88.052429496
+O	165_0	Hydration of C=C(O)	18.010564684
+C(C)=CC=O	165_0	Hydration of C=C(O)	70.041864812
+165_0	C(C(CC)O)=O	Hydration of C=C(O)	88.052429496
+O	167_0	Hydration of C=C(O)	18.010564684
+C(CC=C)=O	167_0	Hydration of C=C(O)	70.041864812
+167_0	C(CCCO)=O	Hydration of C=C(O)	88.052429496
+O	168_0	Hydration of C=C(O)	18.010564684
+C(CC=C)=O	168_0	Hydration of C=C(O)	70.041864812
+168_0	C(CC(C)O)=O	Hydration of C=C(O)	88.052429496
+O	169_0	Hydration of C=C(O)	18.010564684
+C=CC=O	169_0	Hydration of C=C(O)	56.026214748
+169_0	C(C(C)O)=O	Hydration of C=C(O)	74.036779432
+O	170_0	Hydration of C=C(O)	18.010564684
+C=CC=O	170_0	Hydration of C=C(O)	56.026214748
+170_0	C(CCO)=O	Hydration of C=C(O)	74.036779432
+O	171_0	Hydration of C=C(O)	18.010564684
+C=C	171_0	Hydration of C=C(O)	28.031300127999998
+171_0	CCO	Hydration of C=C(O)	46.041864812
+CO	172_0	Michael Addition 0,2, 	32.026214748
+C=CC=O	172_0	Michael Addition 0,2, 	56.026214748
+172_0	C(CCCO)=O	Michael Addition 0,2, 	88.052429496
+[Fe+3]	173_0	Fe3 ---> Fe2 Conversion of Alpha Hydro Group of an ACID to Alpha Keto group	55.933291759999996
+[Fe+3]	173_0	Fe3 ---> Fe2 Conversion of Alpha Hydro Group of an ACID to Alpha Keto group	55.933291759999996
+C(C(O)O)(O)=O	173_0	Fe3 ---> Fe2 Conversion of Alpha Hydro Group of an ACID to Alpha Keto group	92.010958608
+173_0	[H+]	Fe3 ---> Fe2 Conversion of Alpha Hydro Group of an ACID to Alpha Keto group	1.007276452
+173_0	[H+]	Fe3 ---> Fe2 Conversion of Alpha Hydro Group of an ACID to Alpha Keto group	1.007276452
+173_0	[Fe+2]	Fe3 ---> Fe2 Conversion of Alpha Hydro Group of an ACID to Alpha Keto group	55.933840339999996
+173_0	[Fe+2]	Fe3 ---> Fe2 Conversion of Alpha Hydro Group of an ACID to Alpha Keto group	55.933840339999996
+173_0	C(C(O)=O)(O)=O	Fe3 ---> Fe2 Conversion of Alpha Hydro Group of an ACID to Alpha Keto group	89.995308544
+C=O	175_0	Aldol Condensation	30.010564684
+C(C)(C)=O	175_0	Aldol Condensation	58.041864812
+175_0	C(C)(CCO)=O	Aldol Condensation	88.052429496
+C=O	177_0	Aldol Condensation	30.010564684
+C(CC)=O	177_0	Aldol Condensation	58.041864812
+177_0	C(C(C)CO)=O	Aldol Condensation	88.052429496
+C(C(CC)O)=O	179_0	Keto-enol migration twice	88.052429496
+179_0	C(CO)(CC)=O	Keto-enol migration twice	88.052429496
+C=O	181_0	Cannizarro 2, HCHO (oxidation)	30.010564684
+O	181_0	Cannizarro 2, HCHO (oxidation)	18.010564684
+C(CC)=O	181_0	Cannizarro 2, HCHO (oxidation)	58.041864812
+181_0	C(O)=O	Cannizarro 2, HCHO (oxidation)	46.005479304
+181_0	CCCO	Cannizarro 2, HCHO (oxidation)	60.057514876
+C=O	183_0	Cannizarro 2, HCHO (oxidation)	30.010564684
+O	183_0	Cannizarro 2, HCHO (oxidation)	18.010564684
+C(C(CC)O)=O	183_0	Cannizarro 2, HCHO (oxidation)	88.052429496
+183_0	C(O)=O	Cannizarro 2, HCHO (oxidation)	46.005479304
+183_0	CCC(CO)O	Cannizarro 2, HCHO (oxidation)	90.06807956
+C=O	185_0	Cannizarro 2, HCHO (oxidation)	30.010564684
+O	185_0	Cannizarro 2, HCHO (oxidation)	18.010564684
+C(CCCO)=O	185_0	Cannizarro 2, HCHO (oxidation)	88.052429496
+185_0	C(O)=O	Cannizarro 2, HCHO (oxidation)	46.005479304
+185_0	C(CCCO)O	Cannizarro 2, HCHO (oxidation)	90.06807956
+C=O	187_0	Cannizarro 2, HCHO (reduction)	30.010564684
+O	187_0	Cannizarro 2, HCHO (reduction)	18.010564684
+C(CC)=O	187_0	Cannizarro 2, HCHO (reduction)	58.041864812
+187_0	CO	Cannizarro 2, HCHO (reduction)	32.026214748
+187_0	C(CC)(O)=O	Cannizarro 2, HCHO (reduction)	74.036779432
+C=CC(CO)O	188_0	Elimination + enol to keto	88.052429496
+188_0	O	Elimination + enol to keto	18.010564684
+188_0	C(CC=C)=O	Elimination + enol to keto	70.041864812
+C=CC(CO)O	190_0	Elimination + enol to keto	88.052429496
+190_0	O	Elimination + enol to keto	18.010564684
+190_0	C=CC(C)=O	Elimination + enol to keto	70.041864812
+C=CCCO	192_0	Elimination2	72.057514876
+192_0	O	Elimination2	18.010564684
+192_0	C=CC=C	Elimination2	54.046950192
+C=CC(C)O	193_0	Elimination2	72.057514876
+193_0	O	Elimination2	18.010564684
+193_0	C=CC=C	Elimination2	54.046950192
+C(C(CC)O)=O	194_0	Elimination2	88.052429496
+194_0	O	Elimination2	18.010564684
+194_0	C(C)=CC=O	Elimination2	70.041864812
+C(CCCO)=O	195_0	Elimination2	88.052429496
+195_0	O	Elimination2	18.010564684
+195_0	C(CC=C)=O	Elimination2	70.041864812
+O	196_0	Hydration of C(=O)C	18.010564684
+C(C)(C)=O	196_0	Hydration of C(=O)C	58.041864812
+196_0	CC(CO)O	Hydration of C(=O)C	76.052429496
+O	197_0	Hydration of C(=O)C	18.010564684
+C(CC)=O	197_0	Hydration of C(=O)C	58.041864812
+197_0	CC(CO)O	Hydration of C(=O)C	76.052429496
+O	198_0	Hydration of C=C(O)	18.010564684
+C(C)=CCO	198_0	Hydration of C=C(O)	72.057514876
+198_0	CC(CCO)O	Hydration of C=C(O)	90.06807956
+O	199_0	Hydration of C=C(O)	18.010564684
+C(C)=CCO	199_0	Hydration of C=C(O)	72.057514876
+199_0	CCC(CO)O	Hydration of C=C(O)	90.06807956
+O	200_0	Hydration of C=C(O)	18.010564684
+C=CCCO	200_0	Hydration of C=C(O)	72.057514876
+200_0	C(CCCO)O	Hydration of C=C(O)	90.06807956
+O	201_0	Hydration of C=C(O)	18.010564684
+C=CCCO	201_0	Hydration of C=C(O)	72.057514876
+201_0	CC(CCO)O	Hydration of C=C(O)	90.06807956
+O	202_0	Hydration of C=C(O)	18.010564684
+C=CCO	202_0	Hydration of C=C(O)	58.041864812
+202_0	CC(CO)O	Hydration of C=C(O)	76.052429496
+O	203_0	Hydration of C=C(O)	18.010564684
+C=CCO	203_0	Hydration of C=C(O)	58.041864812
+203_0	C(CCO)O	Hydration of C=C(O)	76.052429496
+O	205_0	Hydration of C=C(O)	18.010564684
+C=CC(C)O	205_0	Hydration of C=C(O)	72.057514876
+205_0	CC(C(C)O)O	Hydration of C=C(O)	90.06807956
+O	206_0	Hydration of C=C(O)	18.010564684
+C=CC(C)O	206_0	Hydration of C=C(O)	72.057514876
+206_0	CC(CCO)O	Hydration of C=C(O)	90.06807956
+O	208_0	Hydration of C=C(O)	18.010564684
+[C](C(O)=O)=C	208_0	Hydration of C=C(O)	71.013304336
+208_0	C([CH]CO)(O)=O	Hydration of C=C(O)	89.02386901999999
+O	209_0	Hydration of C=C(O)	18.010564684
+[C](C(O)=O)=C	209_0	Hydration of C=C(O)	71.013304336
+209_0	C([C](C)O)(O)=O	Hydration of C=C(O)	89.02386901999999
+C(C)=CC(O)=O	211_0	Alpha-Beta Unsaturated Acid Decarboxylation	86.036779432
+211_0	C(=O)=O	Alpha-Beta Unsaturated Acid Decarboxylation	43.98982924
+211_0	C=CC	Alpha-Beta Unsaturated Acid Decarboxylation	42.046950192
+C(CC=C)(O)=O	212_0	Beta-gamma Unsaturated Acid Decarboxylation	86.036779432
+212_0	C(=O)=O	Beta-gamma Unsaturated Acid Decarboxylation	43.98982924
+212_0	C=CC	Beta-gamma Unsaturated Acid Decarboxylation	42.046950192
+C(CCCO)=O	214_0	Hemiacetal Formation for 5 membered rings	88.052429496
+214_0	C1CCC(O)O1	Hemiacetal Formation for 5 membered rings	88.052429496
+C(CCCO)=O	215_0	Michael Addition 0,2, (reverse)	88.052429496
+215_0	CO	Michael Addition 0,2, (reverse)	32.026214748
+215_0	C=CC=O	Michael Addition 0,2, (reverse)	56.026214748
+[Fe+3]	217_0	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	55.933291759999996
+[Fe+3]	217_0	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	55.933291759999996
+C(C(CC)O)=O	217_0	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	88.052429496
+217_0	[H+]	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	1.007276452
+217_0	[H+]	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	1.007276452
+217_0	[Fe+2]	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	55.933840339999996
+217_0	[Fe+2]	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	55.933840339999996
+217_0	C(C(CC)=O)=O	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	86.036779432
+C(C)(CCO)=O	218_0	Retro Aldol	88.052429496
+218_0	C=O	Retro Aldol	30.010564684
+218_0	C(C)(C)=O	Retro Aldol	58.041864812
+C(C(C)CO)=O	219_0	Retro Aldol	88.052429496
+219_0	C=O	Retro Aldol	30.010564684
+219_0	C(CC)=O	Retro Aldol	58.041864812
+C(CO)(CC)=O	220_0	Keto-enol migration twice	88.052429496
+220_0	C(C(CC)O)=O	Keto-enol migration twice	88.052429496
+C=O	222_0	Cannizarro 2, HCHO (oxidation)	30.010564684
+O	222_0	Cannizarro 2, HCHO (oxidation)	18.010564684
+C(C(C)CO)=O	222_0	Cannizarro 2, HCHO (oxidation)	88.052429496
+222_0	C(O)=O	Cannizarro 2, HCHO (oxidation)	46.005479304
+222_0	CC(CO)CO	Cannizarro 2, HCHO (oxidation)	90.06807956
+C=O	223_0	Cannizarro 2, HCHO (oxidation)	30.010564684
+O	223_0	Cannizarro 2, HCHO (oxidation)	18.010564684
+C(C(CC)=O)=O	223_0	Cannizarro 2, HCHO (oxidation)	86.036779432
+223_0	C(O)=O	Cannizarro 2, HCHO (oxidation)	46.005479304
+223_0	C(CO)(CC)=O	Cannizarro 2, HCHO (oxidation)	88.052429496
+CCC(CO)O	225_0	Elimination + enol to keto	90.06807956
+225_0	O	Elimination + enol to keto	18.010564684
+225_0	C(CCC)=O	Elimination + enol to keto	72.057514876
+CCC(CO)O	227_0	Elimination + enol to keto	90.06807956
+227_0	O	Elimination + enol to keto	18.010564684
+227_0	C(C)(CC)=O	Elimination + enol to keto	72.057514876
+CC(C(C)O)O	228_0	Elimination + enol to keto	90.06807956
+228_0	O	Elimination + enol to keto	18.010564684
+228_0	C(C)(CC)=O	Elimination + enol to keto	72.057514876
+C(C)(CCO)=O	229_0	Elimination2	88.052429496
+229_0	O	Elimination2	18.010564684
+229_0	C=CC(C)=O	Elimination2	70.041864812
+C(C(C)CO)=O	231_0	Elimination2	88.052429496
+231_0	O	Elimination2	18.010564684
+231_0	C=C(C=O)C	Elimination2	70.041864812
+CCCO	232_0	Elimination2	60.057514876
+232_0	O	Elimination2	18.010564684
+232_0	C=CC	Elimination2	42.046950192
+CCC(CO)O	233_0	Elimination2	90.06807956
+233_0	O	Elimination2	18.010564684
+233_0	C(C)=CCO	Elimination2	72.057514876
+C(CCCO)O	234_0	Elimination2	90.06807956
+234_0	O	Elimination2	18.010564684
+234_0	C=CCCO	Elimination2	72.057514876
+CC(C(C)O)O	235_0	Elimination2	90.06807956
+235_0	O	Elimination2	18.010564684
+235_0	C=CC(C)O	Elimination2	72.057514876
+C([CH]CO)(O)=O	236_0	Elimination2	89.02386901999999
+236_0	O	Elimination2	18.010564684
+236_0	[C](C(O)=O)=C	Elimination2	71.013304336
+C1CCC(O)O1	238_0	Elimination2	88.052429496
+238_0	O	Elimination2	18.010564684
+238_0	C1CCOC=1	Elimination2	70.041864812
+O	239_0	Hydration of C(=O)C	18.010564684
+C=CC(C)=O	239_0	Hydration of C(=O)C	70.041864812
+239_0	C=CC(CO)O	Hydration of C(=O)C	88.052429496
+O	240_0	Hydration of C=C(O)	18.010564684
+C=CC(C)=O	240_0	Hydration of C=C(O)	70.041864812
+240_0	C(C)(CCO)=O	Hydration of C=C(O)	88.052429496
+O	242_0	Hydration of C=C(O)	18.010564684
+C=CC(C)=O	242_0	Hydration of C=C(O)	70.041864812
+242_0	C(C)(C(C)O)=O	Hydration of C=C(O)	88.052429496
+O	243_0	Hydration of C=C(O)	18.010564684
+C=CC=C	243_0	Hydration of C=C(O)	54.046950192
+243_0	C=CC(C)O	Hydration of C=C(O)	72.057514876
+O	244_0	Hydration of C=C(O)	18.010564684
+C=CC=C	244_0	Hydration of C=C(O)	54.046950192
+244_0	C=CCCO	Hydration of C=C(O)	72.057514876
+O	246_0	Hydration of C=C(O)	18.010564684
+C=CC	246_0	Hydration of C=C(O)	42.046950192
+246_0	CC(C)O	Hydration of C=C(O)	60.057514876
+O	247_0	Hydration of C=C(O)	18.010564684
+C=CC	247_0	Hydration of C=C(O)	42.046950192
+247_0	CCCO	Hydration of C=C(O)	60.057514876
+C1CCC(O)O1	248_0	Hemiacetal Formation for 5 membered rings, inverse	88.052429496
+248_0	C(CCCO)=O	Hemiacetal Formation for 5 membered rings, inverse	88.052429496
+C=CC=O	250_0	Michael Addition 0,2, 	56.026214748
+C=CC	250_0	Michael Addition 0,2, 	42.046950192
+250_0	C(CCCC=C)=O	Michael Addition 0,2, 	98.07316494
+[H+]	251_0	Fe2 ---> Fe3 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group, inverse	1.007276452
+[H+]	251_0	Fe2 ---> Fe3 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group, inverse	1.007276452
+[Fe+2]	251_0	Fe2 ---> Fe3 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group, inverse	55.933840339999996
+[Fe+2]	251_0	Fe2 ---> Fe3 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group, inverse	55.933840339999996
+C(C(CC)=O)=O	251_0	Fe2 ---> Fe3 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group, inverse	86.036779432
+251_0	[Fe+3]	Fe2 ---> Fe3 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group, inverse	55.933291759999996
+251_0	[Fe+3]	Fe2 ---> Fe3 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group, inverse	55.933291759999996
+251_0	C(C(CC)O)=O	Fe2 ---> Fe3 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group, inverse	88.052429496
+C(C)(C(C)O)=O	252_0	Keto-enol migration twice	88.052429496
+252_0	C(C)(C(C)O)=O	Keto-enol migration twice	88.052429496
+C=O	254_0	Cannizarro 2, HCHO (oxidation)	30.010564684
+O	254_0	Cannizarro 2, HCHO (oxidation)	18.010564684
+C(CCC)=O	254_0	Cannizarro 2, HCHO (oxidation)	72.057514876
+254_0	C(O)=O	Cannizarro 2, HCHO (oxidation)	46.005479304
+254_0	CCCCO	Cannizarro 2, HCHO (oxidation)	74.07316494
+C=O	256_0	Cannizarro 2, HCHO (oxidation)	30.010564684
+O	256_0	Cannizarro 2, HCHO (oxidation)	18.010564684
+C=C(C=O)C	256_0	Cannizarro 2, HCHO (oxidation)	70.041864812
+256_0	C(O)=O	Cannizarro 2, HCHO (oxidation)	46.005479304
+256_0	C=C(C)CO	Cannizarro 2, HCHO (oxidation)	72.057514876
+C=O	258_0	Cannizarro 2, HCHO (reduction)	30.010564684
+O	258_0	Cannizarro 2, HCHO (reduction)	18.010564684
+C(CCC)=O	258_0	Cannizarro 2, HCHO (reduction)	72.057514876
+258_0	CO	Cannizarro 2, HCHO (reduction)	32.026214748
+258_0	C(CCC)(O)=O	Cannizarro 2, HCHO (reduction)	88.052429496
+C=O	260_0	Cannizarro 2, HCHO (reduction)	30.010564684
+O	260_0	Cannizarro 2, HCHO (reduction)	18.010564684
+C=C(C=O)C	260_0	Cannizarro 2, HCHO (reduction)	70.041864812
+260_0	CO	Cannizarro 2, HCHO (reduction)	32.026214748
+260_0	C=C(C(O)=O)C	Cannizarro 2, HCHO (reduction)	86.036779432
+CC(CO)CO	261_0	Elimination2	90.06807956
+261_0	O	Elimination2	18.010564684
+261_0	C=C(C)CO	Elimination2	72.057514876
+C(C)(C(C)O)=O	262_0	Elimination2	88.052429496
+262_0	O	Elimination2	18.010564684
+262_0	C=CC(C)=O	Elimination2	70.041864812
+CC(C)O	263_0	Elimination2	60.057514876
+263_0	O	Elimination2	18.010564684
+263_0	C=CC	Elimination2	42.046950192
+O	264_0	Hydration of C(=O)C	18.010564684
+C(CCC)=O	264_0	Hydration of C(=O)C	72.057514876
+264_0	CCC(CO)O	Hydration of C(=O)C	90.06807956
+O	265_0	Hydration of C(=O)C	18.010564684
+C(C)(CC)=O	265_0	Hydration of C(=O)C	72.057514876
+265_0	CCC(CO)O	Hydration of C(=O)C	90.06807956
+O	266_0	Hydration of C(=O)C	18.010564684
+C(C)(CC)=O	266_0	Hydration of C(=O)C	72.057514876
+266_0	CC(C(C)O)O	Hydration of C(=O)C	90.06807956
+O	268_0	Hydration of C=C(O)	18.010564684
+C=C(C=O)C	268_0	Hydration of C=C(O)	70.041864812
+268_0	C(C(C)(C)O)=O	Hydration of C=C(O)	88.052429496
+O	269_0	Hydration of C=C(O)	18.010564684
+C=C(C=O)C	269_0	Hydration of C=C(O)	70.041864812
+269_0	C(C(C)CO)=O	Hydration of C=C(O)	88.052429496
+O	271_0	Hydration of C=C(O)	18.010564684
+C1CCOC=1	271_0	Hydration of C=C(O)	70.041864812
+271_0	C1C(CCO1)O	Hydration of C=C(O)	88.052429496
+C(CCC)=O	273_0	Michael Addition 0,2, (reverse)	72.057514876
+273_0	C=CC=O	Michael Addition 0,2, (reverse)	56.026214748
+273_0	C	Michael Addition 0,2, (reverse)	16.031300127999998
+C(CCCC=C)=O	274_0	Michael Addition 0,2, (reverse)	98.07316494
+274_0	C=CC=O	Michael Addition 0,2, (reverse)	56.026214748
+274_0	C=CC	Michael Addition 0,2, (reverse)	42.046950192
+C=O	276_0	Cannizarro 2, HCHO (oxidation)	30.010564684
+O	276_0	Cannizarro 2, HCHO (oxidation)	18.010564684
+C(C(C)(C)O)=O	276_0	Cannizarro 2, HCHO (oxidation)	88.052429496
+276_0	C(O)=O	Cannizarro 2, HCHO (oxidation)	46.005479304
+276_0	CC(C)(CO)O	Cannizarro 2, HCHO (oxidation)	90.06807956
+CCCCO	278_0	Elimination2	74.07316494
+278_0	O	Elimination2	18.010564684
+278_0	C=CCC	Elimination2	56.062600255999996
+C(C(C)(C)O)=O	279_0	Elimination2	88.052429496
+279_0	O	Elimination2	18.010564684
+279_0	C=C(C=O)C	Elimination2	70.041864812
+C1C(CCO1)O	281_0	Elimination2	88.052429496
+281_0	O	Elimination2	18.010564684
+281_0	C1COCC=1	Elimination2	70.041864812
+O	282_0	Hydration of C=C(O)	18.010564684
+C=C(C)CO	282_0	Hydration of C=C(O)	72.057514876
+282_0	CC(C)(CO)O	Hydration of C=C(O)	90.06807956
+O	283_0	Hydration of C=C(O)	18.010564684
+C=C(C)CO	283_0	Hydration of C=C(O)	72.057514876
+283_0	CC(CO)CO	Hydration of C=C(O)	90.06807956
+C=CC(O)=O	284_0	Michael Addition 0,2, 	72.021129368
+C	284_0	Michael Addition 0,2, 	16.031300127999998
+284_0	C(CCC)(O)=O	Michael Addition 0,2, 	88.052429496
+C(C)=CC=O	286_0	Michael Addition 0,2, 	70.041864812
+C	286_0	Michael Addition 0,2, 	16.031300127999998
+286_0	C(CC(C)C)=O	Michael Addition 0,2, 	86.07316494
+C=CC=O	287_0	Michael Addition 0,2, 	56.026214748
+C	287_0	Michael Addition 0,2, 	16.031300127999998
+287_0	C(CCC)=O	Michael Addition 0,2, 	72.057514876
+[C](C(O)=O)=C	289_0	Michael Addition 0,2, 	71.013304336
+C	289_0	Michael Addition 0,2, 	16.031300127999998
+289_0	[CH](C(O)=O)CC	Michael Addition 0,2, 	87.044604464
+C=CC(C)=O	291_0	Michael Addition 0,2, 	70.041864812
+C	291_0	Michael Addition 0,2, 	16.031300127999998
+291_0	C(C)(CCC)=O	Michael Addition 0,2, 	86.07316494
+C=C(C=O)C	293_0	Michael Addition 0,2, 	70.041864812
+C	293_0	Michael Addition 0,2, 	16.031300127999998
+293_0	C(C(C)CC)=O	Michael Addition 0,2, 	86.07316494
+C(CCC)(O)=O	294_0	Michael Addition 0,2, (reverse)	88.052429496
+294_0	C=CC(O)=O	Michael Addition 0,2, (reverse)	72.021129368
+294_0	C	Michael Addition 0,2, (reverse)	16.031300127999998
+C=O	296_0	Cannizarro 2, HCHO (oxidation)	30.010564684
+O	296_0	Cannizarro 2, HCHO (oxidation)	18.010564684
+C(CC(C)C)=O	296_0	Cannizarro 2, HCHO (oxidation)	86.07316494
+296_0	C(O)=O	Cannizarro 2, HCHO (oxidation)	46.005479304
+296_0	CC(C)CCO	Cannizarro 2, HCHO (oxidation)	88.088815004
+C=O	298_0	Cannizarro 2, HCHO (oxidation)	30.010564684
+O	298_0	Cannizarro 2, HCHO (oxidation)	18.010564684
+C(C(C)CC)=O	298_0	Cannizarro 2, HCHO (oxidation)	86.07316494
+298_0	C(O)=O	Cannizarro 2, HCHO (oxidation)	46.005479304
+298_0	CC(CO)CC	Cannizarro 2, HCHO (oxidation)	88.088815004
+CC(C)(CO)O	300_0	Elimination + enol to keto	90.06807956
+300_0	O	Elimination + enol to keto	18.010564684
+300_0	C(C(C)C)=O	Elimination + enol to keto	72.057514876
+CC(C)(CO)O	301_0	Elimination2	90.06807956
+301_0	O	Elimination2	18.010564684
+301_0	C=C(C)CO	Elimination2	72.057514876
+O	303_0	Hydration of C=C(O)	18.010564684
+C=CCC	303_0	Hydration of C=C(O)	56.062600255999996
+303_0	CC(CC)O	Hydration of C=C(O)	74.07316494
+O	304_0	Hydration of C=C(O)	18.010564684
+C=CCC	304_0	Hydration of C=C(O)	56.062600255999996
+304_0	CCCCO	Hydration of C=C(O)	74.07316494
+O	305_0	Hydration of C=C(O)	18.010564684
+C1COCC=1	305_0	Hydration of C=C(O)	70.041864812
+305_0	C1C(CCO1)O	Hydration of C=C(O)	88.052429496
+C(CC(C)C)=O	306_0	Michael Addition 0,2, (reverse)	86.07316494
+306_0	C(C)=CC=O	Michael Addition 0,2, (reverse)	70.041864812
+306_0	C	Michael Addition 0,2, (reverse)	16.031300127999998
+[CH](C(O)=O)CC	307_0	Michael Addition 0,2, (reverse)	87.044604464
+307_0	[C](C(O)=O)=C	Michael Addition 0,2, (reverse)	71.013304336
+307_0	C	Michael Addition 0,2, (reverse)	16.031300127999998
+C(C)(CCC)=O	308_0	Michael Addition 0,2, (reverse)	86.07316494
+308_0	C=CC(C)=O	Michael Addition 0,2, (reverse)	70.041864812
+308_0	C	Michael Addition 0,2, (reverse)	16.031300127999998
+C(C(C)CC)=O	309_0	Michael Addition 0,2, (reverse)	86.07316494
+309_0	C=C(C=O)C	Michael Addition 0,2, (reverse)	70.041864812
+309_0	C	Michael Addition 0,2, (reverse)	16.031300127999998
+C=O	311_0	Cannizarro 2, HCHO (oxidation)	30.010564684
+O	311_0	Cannizarro 2, HCHO (oxidation)	18.010564684
+C(C(C)C)=O	311_0	Cannizarro 2, HCHO (oxidation)	72.057514876
+311_0	C(O)=O	Cannizarro 2, HCHO (oxidation)	46.005479304
+311_0	CC(C)CO	Cannizarro 2, HCHO (oxidation)	74.07316494
+C=O	313_0	Cannizarro 2, HCHO (reduction)	30.010564684
+O	313_0	Cannizarro 2, HCHO (reduction)	18.010564684
+C(C(C)C)=O	313_0	Cannizarro 2, HCHO (reduction)	72.057514876
+313_0	CO	Cannizarro 2, HCHO (reduction)	32.026214748
+313_0	C(C(C)C)(O)=O	Cannizarro 2, HCHO (reduction)	88.052429496
+CC(C)CCO	315_0	Elimination2	88.088815004
+315_0	O	Elimination2	18.010564684
+315_0	C=CC(C)C	Elimination2	70.07825032
+CC(CO)CC	317_0	Elimination2	88.088815004
+317_0	O	Elimination2	18.010564684
+317_0	C=C(C)CC	Elimination2	70.07825032
+CC(CC)O	318_0	Elimination2	74.07316494
+318_0	O	Elimination2	18.010564684
+318_0	C=CCC	Elimination2	56.062600255999996
+CC(CC)O	320_0	Elimination2	74.07316494
+320_0	O	Elimination2	18.010564684
+320_0	C(C)=CC	Elimination2	56.062600255999996
+O	321_0	Hydration of C(=O)C	18.010564684
+C(C(C)C)=O	321_0	Hydration of C(=O)C	72.057514876
+321_0	CC(C)(CO)O	Hydration of C(=O)C	90.06807956
+CC(C)CO	323_0	Elimination2	74.07316494
+323_0	O	Elimination2	18.010564684
+323_0	C=C(C)C	Elimination2	56.062600255999996
+O	325_0	Hydration of C=C(O)	18.010564684
+C=CC(C)C	325_0	Hydration of C=C(O)	70.07825032
+325_0	CC(C)C(C)O	Hydration of C=C(O)	88.088815004
+O	326_0	Hydration of C=C(O)	18.010564684
+C=CC(C)C	326_0	Hydration of C=C(O)	70.07825032
+326_0	CC(C)CCO	Hydration of C=C(O)	88.088815004
+O	327_0	Hydration of C=C(O)	18.010564684
+C=C(C)CC	327_0	Hydration of C=C(O)	70.07825032
+327_0	CC(CO)CC	Hydration of C=C(O)	88.088815004
+O	329_0	Hydration of C=C(O)	18.010564684
+C=C(C)CC	329_0	Hydration of C=C(O)	70.07825032
+329_0	CC(C)(CC)O	Hydration of C=C(O)	88.088815004
+O	330_0	Hydration of C=C(O)	18.010564684
+C(C)=CC	330_0	Hydration of C=C(O)	56.062600255999996
+330_0	CC(CC)O	Hydration of C=C(O)	74.07316494
+CC(C)C(C)O	331_0	Elimination2	88.088815004
+331_0	O	Elimination2	18.010564684
+331_0	C=CC(C)C	Elimination2	70.07825032
+CC(C)C(C)O	333_0	Elimination2	88.088815004
+333_0	O	Elimination2	18.010564684
+333_0	C(C)=C(C)C	Elimination2	70.07825032
+CC(C)(CC)O	334_0	Elimination2	88.088815004
+334_0	O	Elimination2	18.010564684
+334_0	C=C(C)CC	Elimination2	70.07825032
+CC(C)(CC)O	335_0	Elimination2	88.088815004
+335_0	O	Elimination2	18.010564684
+335_0	C(C)=C(C)C	Elimination2	70.07825032
+O	336_0	Hydration of C=C(O)	18.010564684
+C=C(C)C	336_0	Hydration of C=C(O)	56.062600255999996
+336_0	CC(C)CO	Hydration of C=C(O)	74.07316494
+O	338_0	Hydration of C=C(O)	18.010564684
+C=C(C)C	338_0	Hydration of C=C(O)	56.062600255999996
+338_0	CC(C)(C)O	Hydration of C=C(O)	74.07316494
+CC(C)(C)O	339_0	Elimination2	74.07316494
+339_0	O	Elimination2	18.010564684
+339_0	C=C(C)C	Elimination2	56.062600255999996
+O	340_0	Hydration of C=C(O)	18.010564684
+C(C)=C(C)C	340_0	Hydration of C=C(O)	70.07825032
+340_0	CC(C)(CC)O	Hydration of C=C(O)	88.088815004
+O	341_0	Hydration of C=C(O)	18.010564684
+C(C)=C(C)C	341_0	Hydration of C=C(O)	70.07825032
+341_0	CC(C)C(C)O	Hydration of C=C(O)	88.088815004

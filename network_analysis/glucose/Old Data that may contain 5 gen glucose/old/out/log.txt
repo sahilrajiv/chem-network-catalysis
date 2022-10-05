@@ -1,0 +1,1579 @@
+Running VM ---------------------------------------------------------
+Executing code from 'glucose_degradation.py'
+Executing code from '../main.py'
+Executing code from '../rules/all.py' ('../../rules/all.py')
+Executing code from 'common.py' ('../../rules/common.py')
+End of code from 'common.py' ('../../rules/common.py')
+Executing code from 'aldolCondensation.py' ('../../rules/aldolCondensation.py')
+End of code from 'aldolCondensation.py' ('../../rules/aldolCondensation.py')
+Executing code from 'benzilicAcidRearrangement.py' ('../../rules/benzilicAcidRearrangement.py')
+End of code from 'benzilicAcidRearrangement.py' ('../../rules/benzilicAcidRearrangement.py')
+Executing code from 'retroAldol.py' ('../../rules/retroAldol.py')
+End of code from 'retroAldol.py' ('../../rules/retroAldol.py')
+Executing code from 'ketoEnolisation.py' ('../../rules/ketoEnolisation.py')
+End of code from 'ketoEnolisation.py' ('../../rules/ketoEnolisation.py')
+Executing code from 'heyns_rearrangement.py' ('../../rules/heyns_rearrangement.py')
+End of code from 'heyns_rearrangement.py' ('../../rules/heyns_rearrangement.py')
+Executing code from 'esterFormationHydrolysisExchange.py' ('../../rules/esterFormationHydrolysisExchange.py')
+Executing code from 'common.py' ('../../rules/common.py')
+Skipping inclusion (already included)
+End of code from 'common.py' ('../../rules/common.py')
+End of code from 'esterFormationHydrolysisExchange.py' ('../../rules/esterFormationHydrolysisExchange.py')
+Executing code from 'cannizarro1.py' ('../../rules/cannizarro1.py')
+End of code from 'cannizarro1.py' ('../../rules/cannizarro1.py')
+Executing code from 'cannizarro2.py' ('../../rules/cannizarro2.py')
+WARNING: No viable geometries for O with bonds D = 1.
+WARNING: No viable geometries for O with bonds S = 2.
+WARNING: No viable geometries for O with bonds S = 2.
+WARNING: No viable geometries for O with bonds S = 2.
+WARNING: No viable geometries for O with bonds S = 2.
+WARNING: No viable geometries for O with bonds S = 2.
+WARNING: No viable geometries for O with bonds D = 1.
+WARNING: No viable geometries for O with bonds S = 2.
+End of code from 'cannizarro2.py' ('../../rules/cannizarro2.py')
+Executing code from 'alkyneAddition.py' ('../../rules/alkyneAddition.py')
+Executing code from 'common.py' ('../../rules/common.py')
+Skipping inclusion (already included)
+End of code from 'common.py' ('../../rules/common.py')
+WARNING: No viable geometries for O with bonds D = 1.
+WARNING: No viable geometries for O with bonds S = 2.
+WARNING: No viable geometries for O with bonds S = 2.
+WARNING: No viable geometries for O with bonds S = 2.
+WARNING: No viable geometries for O with bonds S = 2.
+WARNING: No viable geometries for O with bonds S = 2.
+WARNING: No viable geometries for O with bonds D = 1.
+WARNING: No viable geometries for O with bonds S = 2.
+WARNING: No viable geometries for O with bonds D = 1.
+WARNING: No viable geometries for O with bonds S = 2.
+WARNING: No viable geometries for O with bonds S = 2.
+WARNING: No viable geometries for O with bonds S = 2.
+WARNING: No viable geometries for O with bonds S = 2.
+WARNING: No viable geometries for O with bonds S = 2.
+WARNING: No viable geometries for O with bonds S = 2.
+WARNING: No viable geometries for O with bonds S = 2.
+End of code from 'alkyneAddition.py' ('../../rules/alkyneAddition.py')
+Executing code from 'knoevenagel.py' ('../../rules/knoevenagel.py')
+End of code from 'knoevenagel.py' ('../../rules/knoevenagel.py')
+Executing code from 'damnScission.py' ('../../rules/damnScission.py')
+Executing code from 'common.py' ('../../rules/common.py')
+Skipping inclusion (already included)
+End of code from 'common.py' ('../../rules/common.py')
+End of code from 'damnScission.py' ('../../rules/damnScission.py')
+Executing code from 'cyanogenAmmonolysis.py' ('../../rules/cyanogenAmmonolysis.py')
+Executing code from 'common.py' ('../../rules/common.py')
+Skipping inclusion (already included)
+End of code from 'common.py' ('../../rules/common.py')
+End of code from 'cyanogenAmmonolysis.py' ('../../rules/cyanogenAmmonolysis.py')
+Executing code from 'cyanamideHydration.py' ('../../rules/cyanamideHydration.py')
+Executing code from 'common.py' ('../../rules/common.py')
+Skipping inclusion (already included)
+End of code from 'common.py' ('../../rules/common.py')
+End of code from 'cyanamideHydration.py' ('../../rules/cyanamideHydration.py')
+Executing code from 'carbamylation.py' ('../../rules/carbamylation.py')
+Executing code from 'common.py' ('../../rules/common.py')
+Skipping inclusion (already included)
+End of code from 'common.py' ('../../rules/common.py')
+End of code from 'carbamylation.py' ('../../rules/carbamylation.py')
+Executing code from 'cyanateFromCyanogen.py' ('../../rules/cyanateFromCyanogen.py')
+End of code from 'cyanateFromCyanogen.py' ('../../rules/cyanateFromCyanogen.py')
+Executing code from 'ketoneCatalyzedDecarboxylation.py' ('../../rules/ketoneCatalyzedDecarboxylation.py')
+End of code from 'ketoneCatalyzedDecarboxylation.py' ('../../rules/ketoneCatalyzedDecarboxylation.py')
+Executing code from 'amadoriRearrangement.py' ('../../rules/amadoriRearrangement.py')
+End of code from 'amadoriRearrangement.py' ('../../rules/amadoriRearrangement.py')
+Executing code from 'thialThiene.py' ('../../rules/thialThiene.py')
+End of code from 'thialThiene.py' ('../../rules/thialThiene.py')
+Executing code from 'sulfideToNitrileAddition.py' ('../../rules/sulfideToNitrileAddition.py')
+End of code from 'sulfideToNitrileAddition.py' ('../../rules/sulfideToNitrileAddition.py')
+Executing code from 'thioamidineToAmideHydrolysis.py' ('../../rules/thioamidineToAmideHydrolysis.py')
+End of code from 'thioamidineToAmideHydrolysis.py' ('../../rules/thioamidineToAmideHydrolysis.py')
+Executing code from 'ketoneAldehydeToThioketoneThial.py' ('../../rules/ketoneAldehydeToThioketoneThial.py')
+Executing code from 'common.py' ('../../rules/common.py')
+Skipping inclusion (already included)
+End of code from 'common.py' ('../../rules/common.py')
+End of code from 'ketoneAldehydeToThioketoneThial.py' ('../../rules/ketoneAldehydeToThioketoneThial.py')
+Executing code from 'hcnToKetone.py' ('../../rules/hcnToKetone.py')
+End of code from 'hcnToKetone.py' ('../../rules/hcnToKetone.py')
+Executing code from 'streckerDegradationDicarbonyl.py' ('../../rules/streckerDegradationDicarbonyl.py')
+Executing code from 'common.py' ('../../rules/common.py')
+Skipping inclusion (already included)
+End of code from 'common.py' ('../../rules/common.py')
+End of code from 'streckerDegradationDicarbonyl.py' ('../../rules/streckerDegradationDicarbonyl.py')
+Executing code from 'schiffTautomerization.py' ('../../rules/schiffTautomerization.py')
+End of code from 'schiffTautomerization.py' ('../../rules/schiffTautomerization.py')
+Aldol Condensation can not be inverted yet.
+Benzilic Acid Rearrangement can not be inverted yet.
+Benzilic Acid Rearrangement (inverse) can not be inverted yet.
+Retro Aldol can not be inverted yet.
+Keto-enol migration twice can not be inverted yet.
+Amadori/Heyns Rearrangement can not be inverted yet.
+Ester Hydrolysis can not be inverted yet.
+Cannizarro 1 can not be inverted yet.
+Cannizarro 2, glucose (oxidation) can not be inverted yet.
+Cannizarro 2, glucose (reduction) can not be inverted yet.
+Alkyne Addition, N, HC can not be inverted yet.
+Alkyne Addition, N, CC can not be inverted yet.
+Alkyne Addition, S, C can not be inverted yet.
+Knoevenagel C can not be inverted yet.
+Knoevenagel H can not be inverted yet.
+Knoevenagel C (inverse) can not be inverted yet.
+Knoevenagel H (inv) can not be inverted yet.
+Carbamylation, N, HC can not be inverted yet.
+Carbamylation, N, CC can not be inverted yet.
+Ketone/Aldehyde to Thioketone/Thial, HC can not be inverted yet.
+Ketone/Aldehyde to Thioketone/Thial, CC can not be inverted yet.
+Strecker Degradation Dicarbonyl, H, H, H, C can not be inverted yet.
+Strecker Degradation Dicarbonyl, H, H, C, H can not be inverted yet.
+Strecker Degradation Dicarbonyl, H, H, C, C can not be inverted yet.
+Strecker Degradation Dicarbonyl, H, C, H, H can not be inverted yet.
+Strecker Degradation Dicarbonyl, H, C, H, C can not be inverted yet.
+Strecker Degradation Dicarbonyl, H, C, C, H can not be inverted yet.
+Strecker Degradation Dicarbonyl, H, C, C, C can not be inverted yet.
+Strecker Degradation Dicarbonyl, C, H, H, H can not be inverted yet.
+Strecker Degradation Dicarbonyl, C, H, H, C can not be inverted yet.
+Strecker Degradation Dicarbonyl, C, H, C, H can not be inverted yet.
+Strecker Degradation Dicarbonyl, C, H, C, C can not be inverted yet.
+Strecker Degradation Dicarbonyl, C, C, H, H can not be inverted yet.
+Strecker Degradation Dicarbonyl, C, C, H, C can not be inverted yet.
+Strecker Degradation Dicarbonyl, C, C, C, H can not be inverted yet.
+Strecker Degradation Dicarbonyl, C, C, C, C can not be inverted yet.
+Executing code from 'ring_hydrol.py' ('../../rules/ring_hydrol.py')
+Executing code from 'common.py' ('../../rules/common.py')
+Skipping inclusion (already included)
+End of code from 'common.py' ('../../rules/common.py')
+End of code from 'ring_hydrol.py' ('../../rules/ring_hydrol.py')
+Executing code from 'ester_ammonolysis.py' ('../../rules/ester_ammonolysis.py')
+End of code from 'ester_ammonolysis.py' ('../../rules/ester_ammonolysis.py')
+Executing code from 'isocyanate_hydrolysis.py' ('../../rules/isocyanate_hydrolysis.py')
+End of code from 'isocyanate_hydrolysis.py' ('../../rules/isocyanate_hydrolysis.py')
+Executing code from 'cyanamidation.py' ('../../rules/cyanamidation.py')
+Executing code from 'common.py' ('../../rules/common.py')
+Skipping inclusion (already included)
+End of code from 'common.py' ('../../rules/common.py')
+End of code from 'cyanamidation.py' ('../../rules/cyanamidation.py')
+Executing code from 'nitrile_amination.py' ('../../rules/nitrile_amination.py')
+End of code from 'nitrile_amination.py' ('../../rules/nitrile_amination.py')
+Executing code from 'hcn_addition.py' ('../../rules/hcn_addition.py')
+End of code from 'hcn_addition.py' ('../../rules/hcn_addition.py')
+Executing code from 'amideFormationHydrolysis.py' ('../../rules/amideFormationHydrolysis.py')
+Executing code from 'common.py' ('../../rules/common.py')
+Skipping inclusion (already included)
+End of code from 'common.py' ('../../rules/common.py')
+End of code from 'amideFormationHydrolysis.py' ('../../rules/amideFormationHydrolysis.py')
+Executing code from 'alkeneAddition.py' ('../../rules/alkeneAddition.py')
+Executing code from 'common.py' ('../../rules/common.py')
+Skipping inclusion (already included)
+End of code from 'common.py' ('../../rules/common.py')
+End of code from 'alkeneAddition.py' ('../../rules/alkeneAddition.py')
+Executing code from 'elimination.py' ('../../rules/elimination.py')
+End of code from 'elimination.py' ('../../rules/elimination.py')
+Executing code from 'hydration.py' ('../../rules/hydration.py')
+End of code from 'hydration.py' ('../../rules/hydration.py')
+Executing code from 'deamination_addition.py' ('../../rules/deamination_addition.py')
+End of code from 'deamination_addition.py' ('../../rules/deamination_addition.py')
+Executing code from 'cyanohydrin_formation.py' ('../../rules/cyanohydrin_formation.py')
+End of code from 'cyanohydrin_formation.py' ('../../rules/cyanohydrin_formation.py')
+Executing code from 'strecker_synthesis.py' ('../../rules/strecker_synthesis.py')
+End of code from 'strecker_synthesis.py' ('../../rules/strecker_synthesis.py')
+Executing code from 'decarboxylation_reactions.py' ('../../rules/decarboxylation_reactions.py')
+End of code from 'decarboxylation_reactions.py' ('../../rules/decarboxylation_reactions.py')
+Executing code from 'mannich.py' ('../../rules/mannich.py')
+End of code from 'mannich.py' ('../../rules/mannich.py')
+Executing code from 'hemiacetalFormation.py' ('../../rules/hemiacetalFormation.py')
+End of code from 'hemiacetalFormation.py' ('../../rules/hemiacetalFormation.py')
+Executing code from 'imineToCarbonyl.py' ('../../rules/imineToCarbonyl.py')
+End of code from 'imineToCarbonyl.py' ('../../rules/imineToCarbonyl.py')
+Executing code from 'amidineToAmideHydrolysis.py' ('../../rules/amidineToAmideHydrolysis.py')
+End of code from 'amidineToAmideHydrolysis.py' ('../../rules/amidineToAmideHydrolysis.py')
+Executing code from 'imineToEnamine.py' ('../../rules/imineToEnamine.py')
+End of code from 'imineToEnamine.py' ('../../rules/imineToEnamine.py')
+Executing code from 'nitrile_hydrolysis.py' ('../../rules/nitrile_hydrolysis.py')
+End of code from 'nitrile_hydrolysis.py' ('../../rules/nitrile_hydrolysis.py')
+Executing code from 'transamination.py' ('../../rules/transamination.py')
+End of code from 'transamination.py' ('../../rules/transamination.py')
+Executing code from 'alphaKetoAcidDecarboxylation.py' ('../../rules/alphaKetoAcidDecarboxylation.py')
+End of code from 'alphaKetoAcidDecarboxylation.py' ('../../rules/alphaKetoAcidDecarboxylation.py')
+Executing code from 'betaDecarboxylation2.py' ('../../rules/betaDecarboxylation2.py')
+Executing code from 'common.py' ('../../rules/common.py')
+Skipping inclusion (already included)
+End of code from 'common.py' ('../../rules/common.py')
+End of code from 'betaDecarboxylation2.py' ('../../rules/betaDecarboxylation2.py')
+Executing code from 'ringClosure.py' ('../../rules/ringClosure.py')
+Executing code from 'common.py' ('../../rules/common.py')
+Skipping inclusion (already included)
+End of code from 'common.py' ('../../rules/common.py')
+End of code from 'ringClosure.py' ('../../rules/ringClosure.py')
+Executing code from 'michaelAddition.py' ('../../rules/michaelAddition.py')
+Executing code from 'common.py' ('../../rules/common.py')
+Skipping inclusion (already included)
+End of code from 'common.py' ('../../rules/common.py')
+End of code from 'michaelAddition.py' ('../../rules/michaelAddition.py')
+Executing code from 'streckerDegradation.py' ('../../rules/streckerDegradation.py')
+Executing code from 'common.py' ('../../rules/common.py')
+Skipping inclusion (already included)
+End of code from 'common.py' ('../../rules/common.py')
+End of code from 'streckerDegradation.py' ('../../rules/streckerDegradation.py')
+End of code from '../rules/all.py' ('../../rules/all.py')
+Executing code from 'mod_to_neo4j_exporter.py' ('../mod_to_neo4j_exporter.py')
+End of code from 'mod_to_neo4j_exporter.py' ('../mod_to_neo4j_exporter.py')
+Executing code from 'data_exporter.py' ('../data_exporter.py')
+End of code from 'data_exporter.py' ('../data_exporter.py')
+MW limit =  200
+End of code from '../main.py'
+Executing code from '../mod_to_neo4j_exporter.py'
+Skipping inclusion (already included)
+End of code from '../mod_to_neo4j_exporter.py'
+Starting round 1
+Sequence: 4 substrategies
+  Sequence, substrategy 1:
+    AddSubset:
+  Sequence, substrategy 2:
+    AddUniverse:
+  Sequence, substrategy 3:
+    AddSubset:
+  Sequence, substrategy 4:
+    RightPredicate: FuncWrapper(<function pred at 0x7f9e9cc729d0>)
+Code from ../main.py:67 >>>>>
+def pred(derivation):
+	"""
+	Keyword arguments:
+	d --- a derivation graph object
+	"""
+	for g in derivation.right:
+		if g.exactMass >= max_mass_limit:
+			return False
+		for allowed in allowed_structs:
+			if g.monomorphism(allowed) > 0:
+				return True
+		# Allow masses only lower than a certain maximum
+		for fb in forbidden:
+			if fb.monomorphism(g, labelSettings=
+			LabelSettings(LabelType.Term, LabelRelation.Specialisation)) > 0:
+				return False
+		#print(g)
+	return True
+<<<<< Code from ../main.py:67
+      Parallel: 208 substrategies
+        Parallel, substrategy 1:
+          Rule: Aldol Condensation
+        Parallel, substrategy 2:
+          Rule: Benzilic Acid Rearrangement
+        Parallel, substrategy 3:
+          Rule: Benzilic Acid Rearrangement (inverse)
+        Parallel, substrategy 4:
+          Rule: Retro Aldol
+        Parallel, substrategy 5:
+          Rule: Keto-enol migration twice
+        Parallel, substrategy 6:
+          Rule: Amadori/Heyns Rearrangement
+        Parallel, substrategy 7:
+          Rule: Ester Hydrolysis
+        Parallel, substrategy 8:
+          Rule: Cannizarro 1
+        Parallel, substrategy 9:
+          Rule: Cannizarro 2, glucose (oxidation)
+        Parallel, substrategy 10:
+          Rule: Cannizarro 2, glucose (reduction)
+        Parallel, substrategy 11:
+          Rule: Alkyne Addition, N, HH
+        Parallel, substrategy 12:
+          Rule: Alkyne Addition, N, HC
+        Parallel, substrategy 13:
+          Rule: Alkyne Addition, N, CC
+        Parallel, substrategy 14:
+          Rule: Alkyne Addition, S, H
+        Parallel, substrategy 15:
+          Rule: Alkyne Addition, S, C
+        Parallel, substrategy 16:
+          Rule: Alkyne Addition, C
+        Parallel, substrategy 17:
+          Rule: Knoevenagel C
+        Parallel, substrategy 18:
+          Rule: Knoevenagel H
+        Parallel, substrategy 19:
+          Rule: Knoevenagel C (inverse)
+        Parallel, substrategy 20:
+          Rule: Knoevenagel H (inv)
+        Parallel, substrategy 21:
+          Rule: DAMN Scission
+        Parallel, substrategy 22:
+          Rule: Cyanogen Ammonolysis
+        Parallel, substrategy 23:
+          Rule: Cyanamide Hydration
+        Parallel, substrategy 24:
+          Rule: Carbamylation, SC
+        Parallel, substrategy 25:
+          Rule: Carbamylation, SH
+        Parallel, substrategy 26:
+          Rule: Carbamylation, N, HH
+        Parallel, substrategy 27:
+          Rule: Carbamylation, N, HC
+        Parallel, substrategy 28:
+          Rule: Carbamylation, N, CC
+        Parallel, substrategy 29:
+          Rule: Cyanate from cyanogen
+        Parallel, substrategy 30:
+          Rule: Ketone-Catalyzed Decarboxylation
+        Parallel, substrategy 31:
+          Rule: Amadori Rearrangement
+        Parallel, substrategy 32:
+          Rule: Thial -> Thiene
+        Parallel, substrategy 33:
+          Rule: Sulfide to Nitrile Addition
+        Parallel, substrategy 34:
+          Rule: Thioamidine to Amide Hydrolysis
+        Parallel, substrategy 35:
+          Rule: Ketone/Aldehyde to Thioketone/Thial, HH
+        Parallel, substrategy 36:
+          Rule: Ketone/Aldehyde to Thioketone/Thial, HC
+        Parallel, substrategy 37:
+          Rule: Ketone/Aldehyde to Thioketone/Thial, CC
+        Parallel, substrategy 38:
+          Rule: HCN to Ketone
+        Parallel, substrategy 39:
+          Rule: Strecker Degradation Dicarbonyl, H, H, H, H
+        Parallel, substrategy 40:
+          Rule: Strecker Degradation Dicarbonyl, H, H, H, C
+        Parallel, substrategy 41:
+          Rule: Strecker Degradation Dicarbonyl, H, H, C, H
+        Parallel, substrategy 42:
+          Rule: Strecker Degradation Dicarbonyl, H, H, C, C
+        Parallel, substrategy 43:
+          Rule: Strecker Degradation Dicarbonyl, H, C, H, H
+        Parallel, substrategy 44:
+          Rule: Strecker Degradation Dicarbonyl, H, C, H, C
+        Parallel, substrategy 45:
+          Rule: Strecker Degradation Dicarbonyl, H, C, C, H
+        Parallel, substrategy 46:
+          Rule: Strecker Degradation Dicarbonyl, H, C, C, C
+        Parallel, substrategy 47:
+          Rule: Strecker Degradation Dicarbonyl, C, H, H, H
+        Parallel, substrategy 48:
+          Rule: Strecker Degradation Dicarbonyl, C, H, H, C
+        Parallel, substrategy 49:
+          Rule: Strecker Degradation Dicarbonyl, C, H, C, H
+        Parallel, substrategy 50:
+          Rule: Strecker Degradation Dicarbonyl, C, H, C, C
+        Parallel, substrategy 51:
+          Rule: Strecker Degradation Dicarbonyl, C, C, H, H
+        Parallel, substrategy 52:
+          Rule: Strecker Degradation Dicarbonyl, C, C, H, C
+        Parallel, substrategy 53:
+          Rule: Strecker Degradation Dicarbonyl, C, C, C, H
+        Parallel, substrategy 54:
+          Rule: Strecker Degradation Dicarbonyl, C, C, C, C
+        Parallel, substrategy 55:
+          Rule: Schiff Tautomerization
+        Parallel, substrategy 56:
+          Rule: Alkyne Addition, N, HH, inverse
+        Parallel, substrategy 57:
+          Rule: Alkyne Addition, S, H, inverse
+        Parallel, substrategy 58:
+          Rule: Alkyne Addition, C, inverse
+        Parallel, substrategy 59:
+          Rule: DAMN Scission, inverse
+        Parallel, substrategy 60:
+          Rule: Cyanogen Ammonolysis, inverse
+        Parallel, substrategy 61:
+          Rule: Cyanamide Hydration, inverse
+        Parallel, substrategy 62:
+          Rule: Carbamylation, SC, inverse
+        Parallel, substrategy 63:
+          Rule: Carbamylation, SH, inverse
+        Parallel, substrategy 64:
+          Rule: Carbamylation, N, HH, inverse
+        Parallel, substrategy 65:
+          Rule: Cyanate from cyanogen, inverse
+        Parallel, substrategy 66:
+          Rule: Ketone-Catalyzed Decarboxylation, inverse
+        Parallel, substrategy 67:
+          Rule: Amadori Rearrangement, inverse
+        Parallel, substrategy 68:
+          Rule: Thial -> Thiene, inverse
+        Parallel, substrategy 69:
+          Rule: Sulfide to Nitrile Addition, inverse
+        Parallel, substrategy 70:
+          Rule: Thioamidine to Amide Hydrolysis, inverse
+        Parallel, substrategy 71:
+          Rule: Ketone/Aldehyde to Thioketone/Thial, HH, inverse
+        Parallel, substrategy 72:
+          Rule: HCN to Ketone, inverse
+        Parallel, substrategy 73:
+          Rule: Strecker Degradation Dicarbonyl, H, H, H, H, inverse
+        Parallel, substrategy 74:
+          Rule: 5 Membered Ring Exoamine Hydrolysis
+        Parallel, substrategy 75:
+          Rule: 6 Membered Ring Exoamine Hydrolysis
+        Parallel, substrategy 76:
+          Rule: Ammonolysis of Esters
+        Parallel, substrategy 77:
+          Rule: Isocyanate Hydrolysis
+        Parallel, substrategy 78:
+          Rule: Cyanamidation, SC
+        Parallel, substrategy 79:
+          Rule: Cyanamidation, SH
+        Parallel, substrategy 80:
+          Rule: Cyanamidation, N, HH
+        Parallel, substrategy 81:
+          Rule: Cyanamidation, N, HC
+        Parallel, substrategy 82:
+          Rule: Cyanamidation, N, CC
+        Parallel, substrategy 83:
+          Rule: Nitrile Amination
+        Parallel, substrategy 84:
+          Rule: HCN Addition to Nitriles
+        Parallel, substrategy 85:
+          Rule: CN addition to iminonitriles
+        Parallel, substrategy 86:
+          Rule: CN addition to aminodinitriles
+        Parallel, substrategy 87:
+          Rule: Amide Hydrolysis
+        Parallel, substrategy 88:
+          Rule: Amide Formation Hydrolysis, C
+        Parallel, substrategy 89:
+          Rule: Alkene Addition, CN
+        Parallel, substrategy 90:
+          Rule: Elimination + enol to keto
+        Parallel, substrategy 91:
+          Rule: Elimination2
+        Parallel, substrategy 92:
+          Rule: Dehydration of Amines
+        Parallel, substrategy 93:
+          Rule: Deydration of Amines (inverse)
+        Parallel, substrategy 94:
+          Rule: Hydration of C(=O)C
+        Parallel, substrategy 95:
+          Rule: Hydration of C=C(O)
+        Parallel, substrategy 96:
+          Rule: Enamine Hydration and Elimination
+        Parallel, substrategy 97:
+          Rule: Deamination of Vicinal Diamine
+        Parallel, substrategy 98:
+          Rule: Deamination of Vicinal Diamine, (inverse)
+        Parallel, substrategy 99:
+          Rule: Deamination 2
+        Parallel, substrategy 100:
+          Rule: Deamination 3
+        Parallel, substrategy 101:
+          Rule: Deamination 3 (inverse)
+        Parallel, substrategy 102:
+          Rule: Cyanohydrin Formation
+        Parallel, substrategy 103:
+          Rule: Strecker Synthesis
+        Parallel, substrategy 104:
+          Rule: Alpha-Beta Unsaturated Acid Decarboxylation
+        Parallel, substrategy 105:
+          Rule: Beta-gamma Unsaturated Acid Decarboxylation
+        Parallel, substrategy 106:
+          Rule: Mannich Addition
+        Parallel, substrategy 107:
+          Rule: Mannich Addition (reverse)
+        Parallel, substrategy 108:
+          Rule: Hemiacetal Formation for 5 membered rings
+        Parallel, substrategy 109:
+          Rule: Hemiacetal Formation for 6 membered rings
+        Parallel, substrategy 110:
+          Rule: Hemiacetal Formation for 7 membered rings
+        Parallel, substrategy 111:
+          Rule: Hemiacetal Formation for 5 membered rings, inverse
+        Parallel, substrategy 112:
+          Rule: Hemiacetal Formation for 6 membered rings, inverse
+        Parallel, substrategy 113:
+          Rule: Hemiacetal Formation for 7 membered rings, inverse
+        Parallel, substrategy 114:
+          Rule: Imine to Carbonyl
+        Parallel, substrategy 115:
+          Rule: Amidine to Amide Hydrolysis
+        Parallel, substrategy 116:
+          Rule: Imine to Enamine
+        Parallel, substrategy 117:
+          Rule: Nitrile Hydrolysis
+        Parallel, substrategy 118:
+          Rule: Transamination
+        Parallel, substrategy 119:
+          Rule: Transamination (inverse)
+        Parallel, substrategy 120:
+          Rule: Alpha-Keto Acid Decarboxylation
+        Parallel, substrategy 121:
+          Rule: Beta Decarboxylation
+        Parallel, substrategy 122:
+          Rule: Nitrile Ring Closure 5
+        Parallel, substrategy 123:
+          Rule: Nitrile Ring Closure 6
+        Parallel, substrategy 124:
+          Rule: Ring Closure 5 membered O, O
+        Parallel, substrategy 125:
+          Rule: Ring Closure 5 membered O, N
+        Parallel, substrategy 126:
+          Rule: Ring Closure 5 membered O, S
+        Parallel, substrategy 127:
+          Rule: Ring Closure 5 membered N, O
+        Parallel, substrategy 128:
+          Rule: Ring Closure 5 membered N, N
+        Parallel, substrategy 129:
+          Rule: Ring Closure 5 membered N, S
+        Parallel, substrategy 130:
+          Rule: Ring Closure 5 membered S, O
+        Parallel, substrategy 131:
+          Rule: Ring Closure 5 membered S, N
+        Parallel, substrategy 132:
+          Rule: Ring Closure 5 membered S, S
+        Parallel, substrategy 133:
+          Rule: Ring Closure 6 membered O, O
+        Parallel, substrategy 134:
+          Rule: Ring Closure 6 membered O, N
+        Parallel, substrategy 135:
+          Rule: Ring Closure 6 membered O, S
+        Parallel, substrategy 136:
+          Rule: Ring Closure 6 membered N, O
+        Parallel, substrategy 137:
+          Rule: Ring Closure 6 membered N, N
+        Parallel, substrategy 138:
+          Rule: Ring Closure 6 membered N, S
+        Parallel, substrategy 139:
+          Rule: Ring Closure 6 membered S, O
+        Parallel, substrategy 140:
+          Rule: Ring Closure 6 membered S, N
+        Parallel, substrategy 141:
+          Rule: Ring Closure 6 membered S, S
+        Parallel, substrategy 142:
+          Rule: Ring Closure 7 membered O, O
+        Parallel, substrategy 143:
+          Rule: Ring Closure 7 membered O, N
+        Parallel, substrategy 144:
+          Rule: Ring Closure 7 membered O, S
+        Parallel, substrategy 145:
+          Rule: Ring Closure 7 membered N, O
+        Parallel, substrategy 146:
+          Rule: Ring Closure 7 membered N, N
+        Parallel, substrategy 147:
+          Rule: Ring Closure 7 membered N, S
+        Parallel, substrategy 148:
+          Rule: Ring Closure 7 membered S, O
+        Parallel, substrategy 149:
+          Rule: Ring Closure 7 membered S, N
+        Parallel, substrategy 150:
+          Rule: Ring Closure 7 membered S, S
+        Parallel, substrategy 151:
+          Rule: Ring Closure 5 membered, inverse O, O
+        Parallel, substrategy 152:
+          Rule: Ring Closure 5 membered, inverse O, N
+        Parallel, substrategy 153:
+          Rule: Ring Closure 5 membered, inverse O, S
+        Parallel, substrategy 154:
+          Rule: Ring Closure 5 membered, inverse N, O
+        Parallel, substrategy 155:
+          Rule: Ring Closure 5 membered, inverse N, N
+        Parallel, substrategy 156:
+          Rule: Ring Closure 5 membered, inverse N, S
+        Parallel, substrategy 157:
+          Rule: Ring Closure 5 membered, inverse S, O
+        Parallel, substrategy 158:
+          Rule: Ring Closure 5 membered, inverse S, N
+        Parallel, substrategy 159:
+          Rule: Ring Closure 5 membered, inverse S, S
+        Parallel, substrategy 160:
+          Rule: Ring Closure 6 membered, inverse O, O
+        Parallel, substrategy 161:
+          Rule: Ring Closure 6 membered, inverse O, N
+        Parallel, substrategy 162:
+          Rule: Ring Closure 6 membered, inverse O, S
+        Parallel, substrategy 163:
+          Rule: Ring Closure 6 membered, inverse N, O
+        Parallel, substrategy 164:
+          Rule: Ring Closure 6 membered, inverse N, N
+        Parallel, substrategy 165:
+          Rule: Ring Closure 6 membered, inverse N, S
+        Parallel, substrategy 166:
+          Rule: Ring Closure 6 membered, inverse S, O
+        Parallel, substrategy 167:
+          Rule: Ring Closure 6 membered, inverse S, N
+        Parallel, substrategy 168:
+          Rule: Ring Closure 6 membered, inverse S, S
+        Parallel, substrategy 169:
+          Rule: Ring Closure 7 membered, inverse O, O
+        Parallel, substrategy 170:
+          Rule: Ring Closure 7 membered, inverse O, N
+        Parallel, substrategy 171:
+          Rule: Ring Closure 7 membered, inverse O, S
+        Parallel, substrategy 172:
+          Rule: Ring Closure 7 membered, inverse N, O
+        Parallel, substrategy 173:
+          Rule: Ring Closure 7 membered, inverse N, N
+        Parallel, substrategy 174:
+          Rule: Ring Closure 7 membered, inverse N, S
+        Parallel, substrategy 175:
+          Rule: Ring Closure 7 membered, inverse S, O
+        Parallel, substrategy 176:
+          Rule: Ring Closure 7 membered, inverse S, N
+        Parallel, substrategy 177:
+          Rule: Ring Closure 7 membered, inverse S, S
+        Parallel, substrategy 178:
+          Rule: Amine Nitrile Ring Closure 5
+        Parallel, substrategy 179:
+          Rule: Amine Nitrile Ring Closure 6
+        Parallel, substrategy 180:
+          Rule: Amine Imine Ring Closure 5
+        Parallel, substrategy 181:
+          Rule: Amine Imine Ring Closure 6
+        Parallel, substrategy 182:
+          Rule: Amidine Nitrile Ring Closure 6
+        Parallel, substrategy 183:
+          Rule: Amide Nitrile Ring Closure 6
+        Parallel, substrategy 184:
+          Rule: Amine Carbonyl Ring Closure, H, 5
+        Parallel, substrategy 185:
+          Rule: Amine Carbonyl Ring Closure, C, 5
+        Parallel, substrategy 186:
+          Rule: Amine Carbonyl Ring Closure, H, 6
+        Parallel, substrategy 187:
+          Rule: Amine Carbonyl Ring Closure, C, 6
+        Parallel, substrategy 188:
+          Rule: Michael Addition 0,0, 
+        Parallel, substrategy 189:
+          Rule: Michael Addition 0,1, 
+        Parallel, substrategy 190:
+          Rule: Michael Addition 0,2, 
+        Parallel, substrategy 191:
+          Rule: Michael Addition 1,0, 
+        Parallel, substrategy 192:
+          Rule: Michael Addition 1,1, 
+        Parallel, substrategy 193:
+          Rule: Michael Addition 1,2, 
+        Parallel, substrategy 194:
+          Rule: Michael Addition 2,0, 
+        Parallel, substrategy 195:
+          Rule: Michael Addition 2,1, 
+        Parallel, substrategy 196:
+          Rule: Michael Addition 2,2, 
+        Parallel, substrategy 197:
+          Rule: Michael Addition 3,0, 
+        Parallel, substrategy 198:
+          Rule: Michael Addition 3,1, 
+        Parallel, substrategy 199:
+          Rule: Michael Addition 3,2, 
+        Parallel, substrategy 200:
+          Rule: Michael Addition 0,0, (reverse)
+        Parallel, substrategy 201:
+          Rule: Michael Addition 0,1, (reverse)
+        Parallel, substrategy 202:
+          Rule: Michael Addition 0,2, (reverse)
+        Parallel, substrategy 203:
+          Rule: Michael Addition 2,0, (reverse)
+        Parallel, substrategy 204:
+          Rule: Michael Addition 2,1, (reverse)
+        Parallel, substrategy 205:
+          Rule: Michael Addition 2,2, (reverse)
+        Parallel, substrategy 206:
+          Rule: Strecker Degradation, HH
+        Parallel, substrategy 207:
+          Rule: Strecker Degradation, HC
+        Parallel, substrategy 208:
+          Rule: Strecker Degradation, CC
+Took 0.5360171794891357 seconds to complete round 1
+Original subset size: 16
+Starting round 2
+Sequence: 4 substrategies
+  Sequence, substrategy 1:
+    AddSubset:
+  Sequence, substrategy 2:
+    AddUniverse:
+  Sequence, substrategy 3:
+    AddSubset:
+  Sequence, substrategy 4:
+    RightPredicate: FuncWrapper(<function pred at 0x7f9e9cc729d0>)
+Code from ../main.py:67 >>>>>
+def pred(derivation):
+	"""
+	Keyword arguments:
+	d --- a derivation graph object
+	"""
+	for g in derivation.right:
+		if g.exactMass >= max_mass_limit:
+			return False
+		for allowed in allowed_structs:
+			if g.monomorphism(allowed) > 0:
+				return True
+		# Allow masses only lower than a certain maximum
+		for fb in forbidden:
+			if fb.monomorphism(g, labelSettings=
+			LabelSettings(LabelType.Term, LabelRelation.Specialisation)) > 0:
+				return False
+		#print(g)
+	return True
+<<<<< Code from ../main.py:67
+      Parallel: 208 substrategies
+        Parallel, substrategy 1:
+          Rule: Aldol Condensation
+        Parallel, substrategy 2:
+          Rule: Benzilic Acid Rearrangement
+        Parallel, substrategy 3:
+          Rule: Benzilic Acid Rearrangement (inverse)
+        Parallel, substrategy 4:
+          Rule: Retro Aldol
+        Parallel, substrategy 5:
+          Rule: Keto-enol migration twice
+        Parallel, substrategy 6:
+          Rule: Amadori/Heyns Rearrangement
+        Parallel, substrategy 7:
+          Rule: Ester Hydrolysis
+        Parallel, substrategy 8:
+          Rule: Cannizarro 1
+        Parallel, substrategy 9:
+          Rule: Cannizarro 2, glucose (oxidation)
+        Parallel, substrategy 10:
+          Rule: Cannizarro 2, glucose (reduction)
+        Parallel, substrategy 11:
+          Rule: Alkyne Addition, N, HH
+        Parallel, substrategy 12:
+          Rule: Alkyne Addition, N, HC
+        Parallel, substrategy 13:
+          Rule: Alkyne Addition, N, CC
+        Parallel, substrategy 14:
+          Rule: Alkyne Addition, S, H
+        Parallel, substrategy 15:
+          Rule: Alkyne Addition, S, C
+        Parallel, substrategy 16:
+          Rule: Alkyne Addition, C
+        Parallel, substrategy 17:
+          Rule: Knoevenagel C
+        Parallel, substrategy 18:
+          Rule: Knoevenagel H
+        Parallel, substrategy 19:
+          Rule: Knoevenagel C (inverse)
+        Parallel, substrategy 20:
+          Rule: Knoevenagel H (inv)
+        Parallel, substrategy 21:
+          Rule: DAMN Scission
+        Parallel, substrategy 22:
+          Rule: Cyanogen Ammonolysis
+        Parallel, substrategy 23:
+          Rule: Cyanamide Hydration
+        Parallel, substrategy 24:
+          Rule: Carbamylation, SC
+        Parallel, substrategy 25:
+          Rule: Carbamylation, SH
+        Parallel, substrategy 26:
+          Rule: Carbamylation, N, HH
+        Parallel, substrategy 27:
+          Rule: Carbamylation, N, HC
+        Parallel, substrategy 28:
+          Rule: Carbamylation, N, CC
+        Parallel, substrategy 29:
+          Rule: Cyanate from cyanogen
+        Parallel, substrategy 30:
+          Rule: Ketone-Catalyzed Decarboxylation
+        Parallel, substrategy 31:
+          Rule: Amadori Rearrangement
+        Parallel, substrategy 32:
+          Rule: Thial -> Thiene
+        Parallel, substrategy 33:
+          Rule: Sulfide to Nitrile Addition
+        Parallel, substrategy 34:
+          Rule: Thioamidine to Amide Hydrolysis
+        Parallel, substrategy 35:
+          Rule: Ketone/Aldehyde to Thioketone/Thial, HH
+        Parallel, substrategy 36:
+          Rule: Ketone/Aldehyde to Thioketone/Thial, HC
+        Parallel, substrategy 37:
+          Rule: Ketone/Aldehyde to Thioketone/Thial, CC
+        Parallel, substrategy 38:
+          Rule: HCN to Ketone
+        Parallel, substrategy 39:
+          Rule: Strecker Degradation Dicarbonyl, H, H, H, H
+        Parallel, substrategy 40:
+          Rule: Strecker Degradation Dicarbonyl, H, H, H, C
+        Parallel, substrategy 41:
+          Rule: Strecker Degradation Dicarbonyl, H, H, C, H
+        Parallel, substrategy 42:
+          Rule: Strecker Degradation Dicarbonyl, H, H, C, C
+        Parallel, substrategy 43:
+          Rule: Strecker Degradation Dicarbonyl, H, C, H, H
+        Parallel, substrategy 44:
+          Rule: Strecker Degradation Dicarbonyl, H, C, H, C
+        Parallel, substrategy 45:
+          Rule: Strecker Degradation Dicarbonyl, H, C, C, H
+        Parallel, substrategy 46:
+          Rule: Strecker Degradation Dicarbonyl, H, C, C, C
+        Parallel, substrategy 47:
+          Rule: Strecker Degradation Dicarbonyl, C, H, H, H
+        Parallel, substrategy 48:
+          Rule: Strecker Degradation Dicarbonyl, C, H, H, C
+        Parallel, substrategy 49:
+          Rule: Strecker Degradation Dicarbonyl, C, H, C, H
+        Parallel, substrategy 50:
+          Rule: Strecker Degradation Dicarbonyl, C, H, C, C
+        Parallel, substrategy 51:
+          Rule: Strecker Degradation Dicarbonyl, C, C, H, H
+        Parallel, substrategy 52:
+          Rule: Strecker Degradation Dicarbonyl, C, C, H, C
+        Parallel, substrategy 53:
+          Rule: Strecker Degradation Dicarbonyl, C, C, C, H
+        Parallel, substrategy 54:
+          Rule: Strecker Degradation Dicarbonyl, C, C, C, C
+        Parallel, substrategy 55:
+          Rule: Schiff Tautomerization
+        Parallel, substrategy 56:
+          Rule: Alkyne Addition, N, HH, inverse
+        Parallel, substrategy 57:
+          Rule: Alkyne Addition, S, H, inverse
+        Parallel, substrategy 58:
+          Rule: Alkyne Addition, C, inverse
+        Parallel, substrategy 59:
+          Rule: DAMN Scission, inverse
+        Parallel, substrategy 60:
+          Rule: Cyanogen Ammonolysis, inverse
+        Parallel, substrategy 61:
+          Rule: Cyanamide Hydration, inverse
+        Parallel, substrategy 62:
+          Rule: Carbamylation, SC, inverse
+        Parallel, substrategy 63:
+          Rule: Carbamylation, SH, inverse
+        Parallel, substrategy 64:
+          Rule: Carbamylation, N, HH, inverse
+        Parallel, substrategy 65:
+          Rule: Cyanate from cyanogen, inverse
+        Parallel, substrategy 66:
+          Rule: Ketone-Catalyzed Decarboxylation, inverse
+        Parallel, substrategy 67:
+          Rule: Amadori Rearrangement, inverse
+        Parallel, substrategy 68:
+          Rule: Thial -> Thiene, inverse
+        Parallel, substrategy 69:
+          Rule: Sulfide to Nitrile Addition, inverse
+        Parallel, substrategy 70:
+          Rule: Thioamidine to Amide Hydrolysis, inverse
+        Parallel, substrategy 71:
+          Rule: Ketone/Aldehyde to Thioketone/Thial, HH, inverse
+        Parallel, substrategy 72:
+          Rule: HCN to Ketone, inverse
+        Parallel, substrategy 73:
+          Rule: Strecker Degradation Dicarbonyl, H, H, H, H, inverse
+        Parallel, substrategy 74:
+          Rule: 5 Membered Ring Exoamine Hydrolysis
+        Parallel, substrategy 75:
+          Rule: 6 Membered Ring Exoamine Hydrolysis
+        Parallel, substrategy 76:
+          Rule: Ammonolysis of Esters
+        Parallel, substrategy 77:
+          Rule: Isocyanate Hydrolysis
+        Parallel, substrategy 78:
+          Rule: Cyanamidation, SC
+        Parallel, substrategy 79:
+          Rule: Cyanamidation, SH
+        Parallel, substrategy 80:
+          Rule: Cyanamidation, N, HH
+        Parallel, substrategy 81:
+          Rule: Cyanamidation, N, HC
+        Parallel, substrategy 82:
+          Rule: Cyanamidation, N, CC
+        Parallel, substrategy 83:
+          Rule: Nitrile Amination
+        Parallel, substrategy 84:
+          Rule: HCN Addition to Nitriles
+        Parallel, substrategy 85:
+          Rule: CN addition to iminonitriles
+        Parallel, substrategy 86:
+          Rule: CN addition to aminodinitriles
+        Parallel, substrategy 87:
+          Rule: Amide Hydrolysis
+        Parallel, substrategy 88:
+          Rule: Amide Formation Hydrolysis, C
+        Parallel, substrategy 89:
+          Rule: Alkene Addition, CN
+        Parallel, substrategy 90:
+          Rule: Elimination + enol to keto
+        Parallel, substrategy 91:
+          Rule: Elimination2
+        Parallel, substrategy 92:
+          Rule: Dehydration of Amines
+        Parallel, substrategy 93:
+          Rule: Deydration of Amines (inverse)
+        Parallel, substrategy 94:
+          Rule: Hydration of C(=O)C
+        Parallel, substrategy 95:
+          Rule: Hydration of C=C(O)
+        Parallel, substrategy 96:
+          Rule: Enamine Hydration and Elimination
+        Parallel, substrategy 97:
+          Rule: Deamination of Vicinal Diamine
+        Parallel, substrategy 98:
+          Rule: Deamination of Vicinal Diamine, (inverse)
+        Parallel, substrategy 99:
+          Rule: Deamination 2
+        Parallel, substrategy 100:
+          Rule: Deamination 3
+        Parallel, substrategy 101:
+          Rule: Deamination 3 (inverse)
+        Parallel, substrategy 102:
+          Rule: Cyanohydrin Formation
+        Parallel, substrategy 103:
+          Rule: Strecker Synthesis
+        Parallel, substrategy 104:
+          Rule: Alpha-Beta Unsaturated Acid Decarboxylation
+        Parallel, substrategy 105:
+          Rule: Beta-gamma Unsaturated Acid Decarboxylation
+        Parallel, substrategy 106:
+          Rule: Mannich Addition
+        Parallel, substrategy 107:
+          Rule: Mannich Addition (reverse)
+        Parallel, substrategy 108:
+          Rule: Hemiacetal Formation for 5 membered rings
+        Parallel, substrategy 109:
+          Rule: Hemiacetal Formation for 6 membered rings
+        Parallel, substrategy 110:
+          Rule: Hemiacetal Formation for 7 membered rings
+        Parallel, substrategy 111:
+          Rule: Hemiacetal Formation for 5 membered rings, inverse
+        Parallel, substrategy 112:
+          Rule: Hemiacetal Formation for 6 membered rings, inverse
+        Parallel, substrategy 113:
+          Rule: Hemiacetal Formation for 7 membered rings, inverse
+        Parallel, substrategy 114:
+          Rule: Imine to Carbonyl
+        Parallel, substrategy 115:
+          Rule: Amidine to Amide Hydrolysis
+        Parallel, substrategy 116:
+          Rule: Imine to Enamine
+        Parallel, substrategy 117:
+          Rule: Nitrile Hydrolysis
+        Parallel, substrategy 118:
+          Rule: Transamination
+        Parallel, substrategy 119:
+          Rule: Transamination (inverse)
+        Parallel, substrategy 120:
+          Rule: Alpha-Keto Acid Decarboxylation
+        Parallel, substrategy 121:
+          Rule: Beta Decarboxylation
+        Parallel, substrategy 122:
+          Rule: Nitrile Ring Closure 5
+        Parallel, substrategy 123:
+          Rule: Nitrile Ring Closure 6
+        Parallel, substrategy 124:
+          Rule: Ring Closure 5 membered O, O
+        Parallel, substrategy 125:
+          Rule: Ring Closure 5 membered O, N
+        Parallel, substrategy 126:
+          Rule: Ring Closure 5 membered O, S
+        Parallel, substrategy 127:
+          Rule: Ring Closure 5 membered N, O
+        Parallel, substrategy 128:
+          Rule: Ring Closure 5 membered N, N
+        Parallel, substrategy 129:
+          Rule: Ring Closure 5 membered N, S
+        Parallel, substrategy 130:
+          Rule: Ring Closure 5 membered S, O
+        Parallel, substrategy 131:
+          Rule: Ring Closure 5 membered S, N
+        Parallel, substrategy 132:
+          Rule: Ring Closure 5 membered S, S
+        Parallel, substrategy 133:
+          Rule: Ring Closure 6 membered O, O
+        Parallel, substrategy 134:
+          Rule: Ring Closure 6 membered O, N
+        Parallel, substrategy 135:
+          Rule: Ring Closure 6 membered O, S
+        Parallel, substrategy 136:
+          Rule: Ring Closure 6 membered N, O
+        Parallel, substrategy 137:
+          Rule: Ring Closure 6 membered N, N
+        Parallel, substrategy 138:
+          Rule: Ring Closure 6 membered N, S
+        Parallel, substrategy 139:
+          Rule: Ring Closure 6 membered S, O
+        Parallel, substrategy 140:
+          Rule: Ring Closure 6 membered S, N
+        Parallel, substrategy 141:
+          Rule: Ring Closure 6 membered S, S
+        Parallel, substrategy 142:
+          Rule: Ring Closure 7 membered O, O
+        Parallel, substrategy 143:
+          Rule: Ring Closure 7 membered O, N
+        Parallel, substrategy 144:
+          Rule: Ring Closure 7 membered O, S
+        Parallel, substrategy 145:
+          Rule: Ring Closure 7 membered N, O
+        Parallel, substrategy 146:
+          Rule: Ring Closure 7 membered N, N
+        Parallel, substrategy 147:
+          Rule: Ring Closure 7 membered N, S
+        Parallel, substrategy 148:
+          Rule: Ring Closure 7 membered S, O
+        Parallel, substrategy 149:
+          Rule: Ring Closure 7 membered S, N
+        Parallel, substrategy 150:
+          Rule: Ring Closure 7 membered S, S
+        Parallel, substrategy 151:
+          Rule: Ring Closure 5 membered, inverse O, O
+        Parallel, substrategy 152:
+          Rule: Ring Closure 5 membered, inverse O, N
+        Parallel, substrategy 153:
+          Rule: Ring Closure 5 membered, inverse O, S
+        Parallel, substrategy 154:
+          Rule: Ring Closure 5 membered, inverse N, O
+        Parallel, substrategy 155:
+          Rule: Ring Closure 5 membered, inverse N, N
+        Parallel, substrategy 156:
+          Rule: Ring Closure 5 membered, inverse N, S
+        Parallel, substrategy 157:
+          Rule: Ring Closure 5 membered, inverse S, O
+        Parallel, substrategy 158:
+          Rule: Ring Closure 5 membered, inverse S, N
+        Parallel, substrategy 159:
+          Rule: Ring Closure 5 membered, inverse S, S
+        Parallel, substrategy 160:
+          Rule: Ring Closure 6 membered, inverse O, O
+        Parallel, substrategy 161:
+          Rule: Ring Closure 6 membered, inverse O, N
+        Parallel, substrategy 162:
+          Rule: Ring Closure 6 membered, inverse O, S
+        Parallel, substrategy 163:
+          Rule: Ring Closure 6 membered, inverse N, O
+        Parallel, substrategy 164:
+          Rule: Ring Closure 6 membered, inverse N, N
+        Parallel, substrategy 165:
+          Rule: Ring Closure 6 membered, inverse N, S
+        Parallel, substrategy 166:
+          Rule: Ring Closure 6 membered, inverse S, O
+        Parallel, substrategy 167:
+          Rule: Ring Closure 6 membered, inverse S, N
+        Parallel, substrategy 168:
+          Rule: Ring Closure 6 membered, inverse S, S
+        Parallel, substrategy 169:
+          Rule: Ring Closure 7 membered, inverse O, O
+        Parallel, substrategy 170:
+          Rule: Ring Closure 7 membered, inverse O, N
+        Parallel, substrategy 171:
+          Rule: Ring Closure 7 membered, inverse O, S
+        Parallel, substrategy 172:
+          Rule: Ring Closure 7 membered, inverse N, O
+        Parallel, substrategy 173:
+          Rule: Ring Closure 7 membered, inverse N, N
+        Parallel, substrategy 174:
+          Rule: Ring Closure 7 membered, inverse N, S
+        Parallel, substrategy 175:
+          Rule: Ring Closure 7 membered, inverse S, O
+        Parallel, substrategy 176:
+          Rule: Ring Closure 7 membered, inverse S, N
+        Parallel, substrategy 177:
+          Rule: Ring Closure 7 membered, inverse S, S
+        Parallel, substrategy 178:
+          Rule: Amine Nitrile Ring Closure 5
+        Parallel, substrategy 179:
+          Rule: Amine Nitrile Ring Closure 6
+        Parallel, substrategy 180:
+          Rule: Amine Imine Ring Closure 5
+        Parallel, substrategy 181:
+          Rule: Amine Imine Ring Closure 6
+        Parallel, substrategy 182:
+          Rule: Amidine Nitrile Ring Closure 6
+        Parallel, substrategy 183:
+          Rule: Amide Nitrile Ring Closure 6
+        Parallel, substrategy 184:
+          Rule: Amine Carbonyl Ring Closure, H, 5
+        Parallel, substrategy 185:
+          Rule: Amine Carbonyl Ring Closure, C, 5
+        Parallel, substrategy 186:
+          Rule: Amine Carbonyl Ring Closure, H, 6
+        Parallel, substrategy 187:
+          Rule: Amine Carbonyl Ring Closure, C, 6
+        Parallel, substrategy 188:
+          Rule: Michael Addition 0,0, 
+        Parallel, substrategy 189:
+          Rule: Michael Addition 0,1, 
+        Parallel, substrategy 190:
+          Rule: Michael Addition 0,2, 
+        Parallel, substrategy 191:
+          Rule: Michael Addition 1,0, 
+        Parallel, substrategy 192:
+          Rule: Michael Addition 1,1, 
+        Parallel, substrategy 193:
+          Rule: Michael Addition 1,2, 
+        Parallel, substrategy 194:
+          Rule: Michael Addition 2,0, 
+        Parallel, substrategy 195:
+          Rule: Michael Addition 2,1, 
+        Parallel, substrategy 196:
+          Rule: Michael Addition 2,2, 
+        Parallel, substrategy 197:
+          Rule: Michael Addition 3,0, 
+        Parallel, substrategy 198:
+          Rule: Michael Addition 3,1, 
+        Parallel, substrategy 199:
+          Rule: Michael Addition 3,2, 
+        Parallel, substrategy 200:
+          Rule: Michael Addition 0,0, (reverse)
+        Parallel, substrategy 201:
+          Rule: Michael Addition 0,1, (reverse)
+        Parallel, substrategy 202:
+          Rule: Michael Addition 0,2, (reverse)
+        Parallel, substrategy 203:
+          Rule: Michael Addition 2,0, (reverse)
+        Parallel, substrategy 204:
+          Rule: Michael Addition 2,1, (reverse)
+        Parallel, substrategy 205:
+          Rule: Michael Addition 2,2, (reverse)
+        Parallel, substrategy 206:
+          Rule: Strecker Degradation, HH
+        Parallel, substrategy 207:
+          Rule: Strecker Degradation, HC
+        Parallel, substrategy 208:
+          Rule: Strecker Degradation, CC
+Took 4.741160154342651 seconds to complete round 2
+Original subset size: 110
+Starting round 3
+Sequence: 4 substrategies
+  Sequence, substrategy 1:
+    AddSubset:
+  Sequence, substrategy 2:
+    AddUniverse:
+  Sequence, substrategy 3:
+    AddSubset:
+  Sequence, substrategy 4:
+    RightPredicate: FuncWrapper(<function pred at 0x7f9e9cc729d0>)
+Code from ../main.py:67 >>>>>
+def pred(derivation):
+	"""
+	Keyword arguments:
+	d --- a derivation graph object
+	"""
+	for g in derivation.right:
+		if g.exactMass >= max_mass_limit:
+			return False
+		for allowed in allowed_structs:
+			if g.monomorphism(allowed) > 0:
+				return True
+		# Allow masses only lower than a certain maximum
+		for fb in forbidden:
+			if fb.monomorphism(g, labelSettings=
+			LabelSettings(LabelType.Term, LabelRelation.Specialisation)) > 0:
+				return False
+		#print(g)
+	return True
+<<<<< Code from ../main.py:67
+      Parallel: 208 substrategies
+        Parallel, substrategy 1:
+          Rule: Aldol Condensation
+        Parallel, substrategy 2:
+          Rule: Benzilic Acid Rearrangement
+        Parallel, substrategy 3:
+          Rule: Benzilic Acid Rearrangement (inverse)
+        Parallel, substrategy 4:
+          Rule: Retro Aldol
+        Parallel, substrategy 5:
+          Rule: Keto-enol migration twice
+        Parallel, substrategy 6:
+          Rule: Amadori/Heyns Rearrangement
+        Parallel, substrategy 7:
+          Rule: Ester Hydrolysis
+        Parallel, substrategy 8:
+          Rule: Cannizarro 1
+        Parallel, substrategy 9:
+          Rule: Cannizarro 2, glucose (oxidation)
+        Parallel, substrategy 10:
+          Rule: Cannizarro 2, glucose (reduction)
+        Parallel, substrategy 11:
+          Rule: Alkyne Addition, N, HH
+        Parallel, substrategy 12:
+          Rule: Alkyne Addition, N, HC
+        Parallel, substrategy 13:
+          Rule: Alkyne Addition, N, CC
+        Parallel, substrategy 14:
+          Rule: Alkyne Addition, S, H
+        Parallel, substrategy 15:
+          Rule: Alkyne Addition, S, C
+        Parallel, substrategy 16:
+          Rule: Alkyne Addition, C
+        Parallel, substrategy 17:
+          Rule: Knoevenagel C
+        Parallel, substrategy 18:
+          Rule: Knoevenagel H
+        Parallel, substrategy 19:
+          Rule: Knoevenagel C (inverse)
+        Parallel, substrategy 20:
+          Rule: Knoevenagel H (inv)
+        Parallel, substrategy 21:
+          Rule: DAMN Scission
+        Parallel, substrategy 22:
+          Rule: Cyanogen Ammonolysis
+        Parallel, substrategy 23:
+          Rule: Cyanamide Hydration
+        Parallel, substrategy 24:
+          Rule: Carbamylation, SC
+        Parallel, substrategy 25:
+          Rule: Carbamylation, SH
+        Parallel, substrategy 26:
+          Rule: Carbamylation, N, HH
+        Parallel, substrategy 27:
+          Rule: Carbamylation, N, HC
+        Parallel, substrategy 28:
+          Rule: Carbamylation, N, CC
+        Parallel, substrategy 29:
+          Rule: Cyanate from cyanogen
+        Parallel, substrategy 30:
+          Rule: Ketone-Catalyzed Decarboxylation
+        Parallel, substrategy 31:
+          Rule: Amadori Rearrangement
+        Parallel, substrategy 32:
+          Rule: Thial -> Thiene
+        Parallel, substrategy 33:
+          Rule: Sulfide to Nitrile Addition
+        Parallel, substrategy 34:
+          Rule: Thioamidine to Amide Hydrolysis
+        Parallel, substrategy 35:
+          Rule: Ketone/Aldehyde to Thioketone/Thial, HH
+        Parallel, substrategy 36:
+          Rule: Ketone/Aldehyde to Thioketone/Thial, HC
+        Parallel, substrategy 37:
+          Rule: Ketone/Aldehyde to Thioketone/Thial, CC
+        Parallel, substrategy 38:
+          Rule: HCN to Ketone
+        Parallel, substrategy 39:
+          Rule: Strecker Degradation Dicarbonyl, H, H, H, H
+        Parallel, substrategy 40:
+          Rule: Strecker Degradation Dicarbonyl, H, H, H, C
+        Parallel, substrategy 41:
+          Rule: Strecker Degradation Dicarbonyl, H, H, C, H
+        Parallel, substrategy 42:
+          Rule: Strecker Degradation Dicarbonyl, H, H, C, C
+        Parallel, substrategy 43:
+          Rule: Strecker Degradation Dicarbonyl, H, C, H, H
+        Parallel, substrategy 44:
+          Rule: Strecker Degradation Dicarbonyl, H, C, H, C
+        Parallel, substrategy 45:
+          Rule: Strecker Degradation Dicarbonyl, H, C, C, H
+        Parallel, substrategy 46:
+          Rule: Strecker Degradation Dicarbonyl, H, C, C, C
+        Parallel, substrategy 47:
+          Rule: Strecker Degradation Dicarbonyl, C, H, H, H
+        Parallel, substrategy 48:
+          Rule: Strecker Degradation Dicarbonyl, C, H, H, C
+        Parallel, substrategy 49:
+          Rule: Strecker Degradation Dicarbonyl, C, H, C, H
+        Parallel, substrategy 50:
+          Rule: Strecker Degradation Dicarbonyl, C, H, C, C
+        Parallel, substrategy 51:
+          Rule: Strecker Degradation Dicarbonyl, C, C, H, H
+        Parallel, substrategy 52:
+          Rule: Strecker Degradation Dicarbonyl, C, C, H, C
+        Parallel, substrategy 53:
+          Rule: Strecker Degradation Dicarbonyl, C, C, C, H
+        Parallel, substrategy 54:
+          Rule: Strecker Degradation Dicarbonyl, C, C, C, C
+        Parallel, substrategy 55:
+          Rule: Schiff Tautomerization
+        Parallel, substrategy 56:
+          Rule: Alkyne Addition, N, HH, inverse
+        Parallel, substrategy 57:
+          Rule: Alkyne Addition, S, H, inverse
+        Parallel, substrategy 58:
+          Rule: Alkyne Addition, C, inverse
+        Parallel, substrategy 59:
+          Rule: DAMN Scission, inverse
+        Parallel, substrategy 60:
+          Rule: Cyanogen Ammonolysis, inverse
+        Parallel, substrategy 61:
+          Rule: Cyanamide Hydration, inverse
+        Parallel, substrategy 62:
+          Rule: Carbamylation, SC, inverse
+        Parallel, substrategy 63:
+          Rule: Carbamylation, SH, inverse
+        Parallel, substrategy 64:
+          Rule: Carbamylation, N, HH, inverse
+        Parallel, substrategy 65:
+          Rule: Cyanate from cyanogen, inverse
+        Parallel, substrategy 66:
+          Rule: Ketone-Catalyzed Decarboxylation, inverse
+        Parallel, substrategy 67:
+          Rule: Amadori Rearrangement, inverse
+        Parallel, substrategy 68:
+          Rule: Thial -> Thiene, inverse
+        Parallel, substrategy 69:
+          Rule: Sulfide to Nitrile Addition, inverse
+        Parallel, substrategy 70:
+          Rule: Thioamidine to Amide Hydrolysis, inverse
+        Parallel, substrategy 71:
+          Rule: Ketone/Aldehyde to Thioketone/Thial, HH, inverse
+        Parallel, substrategy 72:
+          Rule: HCN to Ketone, inverse
+        Parallel, substrategy 73:
+          Rule: Strecker Degradation Dicarbonyl, H, H, H, H, inverse
+        Parallel, substrategy 74:
+          Rule: 5 Membered Ring Exoamine Hydrolysis
+        Parallel, substrategy 75:
+          Rule: 6 Membered Ring Exoamine Hydrolysis
+        Parallel, substrategy 76:
+          Rule: Ammonolysis of Esters
+        Parallel, substrategy 77:
+          Rule: Isocyanate Hydrolysis
+        Parallel, substrategy 78:
+          Rule: Cyanamidation, SC
+        Parallel, substrategy 79:
+          Rule: Cyanamidation, SH
+        Parallel, substrategy 80:
+          Rule: Cyanamidation, N, HH
+        Parallel, substrategy 81:
+          Rule: Cyanamidation, N, HC
+        Parallel, substrategy 82:
+          Rule: Cyanamidation, N, CC
+        Parallel, substrategy 83:
+          Rule: Nitrile Amination
+        Parallel, substrategy 84:
+          Rule: HCN Addition to Nitriles
+        Parallel, substrategy 85:
+          Rule: CN addition to iminonitriles
+        Parallel, substrategy 86:
+          Rule: CN addition to aminodinitriles
+        Parallel, substrategy 87:
+          Rule: Amide Hydrolysis
+        Parallel, substrategy 88:
+          Rule: Amide Formation Hydrolysis, C
+        Parallel, substrategy 89:
+          Rule: Alkene Addition, CN
+        Parallel, substrategy 90:
+          Rule: Elimination + enol to keto
+        Parallel, substrategy 91:
+          Rule: Elimination2
+        Parallel, substrategy 92:
+          Rule: Dehydration of Amines
+        Parallel, substrategy 93:
+          Rule: Deydration of Amines (inverse)
+        Parallel, substrategy 94:
+          Rule: Hydration of C(=O)C
+        Parallel, substrategy 95:
+          Rule: Hydration of C=C(O)
+        Parallel, substrategy 96:
+          Rule: Enamine Hydration and Elimination
+        Parallel, substrategy 97:
+          Rule: Deamination of Vicinal Diamine
+        Parallel, substrategy 98:
+          Rule: Deamination of Vicinal Diamine, (inverse)
+        Parallel, substrategy 99:
+          Rule: Deamination 2
+        Parallel, substrategy 100:
+          Rule: Deamination 3
+        Parallel, substrategy 101:
+          Rule: Deamination 3 (inverse)
+        Parallel, substrategy 102:
+          Rule: Cyanohydrin Formation
+        Parallel, substrategy 103:
+          Rule: Strecker Synthesis
+        Parallel, substrategy 104:
+          Rule: Alpha-Beta Unsaturated Acid Decarboxylation
+        Parallel, substrategy 105:
+          Rule: Beta-gamma Unsaturated Acid Decarboxylation
+        Parallel, substrategy 106:
+          Rule: Mannich Addition
+        Parallel, substrategy 107:
+          Rule: Mannich Addition (reverse)
+        Parallel, substrategy 108:
+          Rule: Hemiacetal Formation for 5 membered rings
+        Parallel, substrategy 109:
+          Rule: Hemiacetal Formation for 6 membered rings
+        Parallel, substrategy 110:
+          Rule: Hemiacetal Formation for 7 membered rings
+        Parallel, substrategy 111:
+          Rule: Hemiacetal Formation for 5 membered rings, inverse
+        Parallel, substrategy 112:
+          Rule: Hemiacetal Formation for 6 membered rings, inverse
+        Parallel, substrategy 113:
+          Rule: Hemiacetal Formation for 7 membered rings, inverse
+        Parallel, substrategy 114:
+          Rule: Imine to Carbonyl
+        Parallel, substrategy 115:
+          Rule: Amidine to Amide Hydrolysis
+        Parallel, substrategy 116:
+          Rule: Imine to Enamine
+        Parallel, substrategy 117:
+          Rule: Nitrile Hydrolysis
+        Parallel, substrategy 118:
+          Rule: Transamination
+        Parallel, substrategy 119:
+          Rule: Transamination (inverse)
+        Parallel, substrategy 120:
+          Rule: Alpha-Keto Acid Decarboxylation
+        Parallel, substrategy 121:
+          Rule: Beta Decarboxylation
+        Parallel, substrategy 122:
+          Rule: Nitrile Ring Closure 5
+        Parallel, substrategy 123:
+          Rule: Nitrile Ring Closure 6
+        Parallel, substrategy 124:
+          Rule: Ring Closure 5 membered O, O
+        Parallel, substrategy 125:
+          Rule: Ring Closure 5 membered O, N
+        Parallel, substrategy 126:
+          Rule: Ring Closure 5 membered O, S
+        Parallel, substrategy 127:
+          Rule: Ring Closure 5 membered N, O
+        Parallel, substrategy 128:
+          Rule: Ring Closure 5 membered N, N
+        Parallel, substrategy 129:
+          Rule: Ring Closure 5 membered N, S
+        Parallel, substrategy 130:
+          Rule: Ring Closure 5 membered S, O
+        Parallel, substrategy 131:
+          Rule: Ring Closure 5 membered S, N
+        Parallel, substrategy 132:
+          Rule: Ring Closure 5 membered S, S
+        Parallel, substrategy 133:
+          Rule: Ring Closure 6 membered O, O
+        Parallel, substrategy 134:
+          Rule: Ring Closure 6 membered O, N
+        Parallel, substrategy 135:
+          Rule: Ring Closure 6 membered O, S
+        Parallel, substrategy 136:
+          Rule: Ring Closure 6 membered N, O
+        Parallel, substrategy 137:
+          Rule: Ring Closure 6 membered N, N
+        Parallel, substrategy 138:
+          Rule: Ring Closure 6 membered N, S
+        Parallel, substrategy 139:
+          Rule: Ring Closure 6 membered S, O
+        Parallel, substrategy 140:
+          Rule: Ring Closure 6 membered S, N
+        Parallel, substrategy 141:
+          Rule: Ring Closure 6 membered S, S
+        Parallel, substrategy 142:
+          Rule: Ring Closure 7 membered O, O
+        Parallel, substrategy 143:
+          Rule: Ring Closure 7 membered O, N
+        Parallel, substrategy 144:
+          Rule: Ring Closure 7 membered O, S
+        Parallel, substrategy 145:
+          Rule: Ring Closure 7 membered N, O
+        Parallel, substrategy 146:
+          Rule: Ring Closure 7 membered N, N
+        Parallel, substrategy 147:
+          Rule: Ring Closure 7 membered N, S
+        Parallel, substrategy 148:
+          Rule: Ring Closure 7 membered S, O
+        Parallel, substrategy 149:
+          Rule: Ring Closure 7 membered S, N
+        Parallel, substrategy 150:
+          Rule: Ring Closure 7 membered S, S
+        Parallel, substrategy 151:
+          Rule: Ring Closure 5 membered, inverse O, O
+        Parallel, substrategy 152:
+          Rule: Ring Closure 5 membered, inverse O, N
+        Parallel, substrategy 153:
+          Rule: Ring Closure 5 membered, inverse O, S
+        Parallel, substrategy 154:
+          Rule: Ring Closure 5 membered, inverse N, O
+        Parallel, substrategy 155:
+          Rule: Ring Closure 5 membered, inverse N, N
+        Parallel, substrategy 156:
+          Rule: Ring Closure 5 membered, inverse N, S
+        Parallel, substrategy 157:
+          Rule: Ring Closure 5 membered, inverse S, O
+        Parallel, substrategy 158:
+          Rule: Ring Closure 5 membered, inverse S, N
+        Parallel, substrategy 159:
+          Rule: Ring Closure 5 membered, inverse S, S
+        Parallel, substrategy 160:
+          Rule: Ring Closure 6 membered, inverse O, O
+        Parallel, substrategy 161:
+          Rule: Ring Closure 6 membered, inverse O, N
+        Parallel, substrategy 162:
+          Rule: Ring Closure 6 membered, inverse O, S
+        Parallel, substrategy 163:
+          Rule: Ring Closure 6 membered, inverse N, O
+        Parallel, substrategy 164:
+          Rule: Ring Closure 6 membered, inverse N, N
+        Parallel, substrategy 165:
+          Rule: Ring Closure 6 membered, inverse N, S
+        Parallel, substrategy 166:
+          Rule: Ring Closure 6 membered, inverse S, O
+        Parallel, substrategy 167:
+          Rule: Ring Closure 6 membered, inverse S, N
+        Parallel, substrategy 168:
+          Rule: Ring Closure 6 membered, inverse S, S
+        Parallel, substrategy 169:
+          Rule: Ring Closure 7 membered, inverse O, O
+        Parallel, substrategy 170:
+          Rule: Ring Closure 7 membered, inverse O, N
+        Parallel, substrategy 171:
+          Rule: Ring Closure 7 membered, inverse O, S
+        Parallel, substrategy 172:
+          Rule: Ring Closure 7 membered, inverse N, O
+        Parallel, substrategy 173:
+          Rule: Ring Closure 7 membered, inverse N, N
+        Parallel, substrategy 174:
+          Rule: Ring Closure 7 membered, inverse N, S
+        Parallel, substrategy 175:
+          Rule: Ring Closure 7 membered, inverse S, O
+        Parallel, substrategy 176:
+          Rule: Ring Closure 7 membered, inverse S, N
+        Parallel, substrategy 177:
+          Rule: Ring Closure 7 membered, inverse S, S
+        Parallel, substrategy 178:
+          Rule: Amine Nitrile Ring Closure 5
+        Parallel, substrategy 179:
+          Rule: Amine Nitrile Ring Closure 6
+        Parallel, substrategy 180:
+          Rule: Amine Imine Ring Closure 5
+        Parallel, substrategy 181:
+          Rule: Amine Imine Ring Closure 6
+        Parallel, substrategy 182:
+          Rule: Amidine Nitrile Ring Closure 6
+        Parallel, substrategy 183:
+          Rule: Amide Nitrile Ring Closure 6
+        Parallel, substrategy 184:
+          Rule: Amine Carbonyl Ring Closure, H, 5
+        Parallel, substrategy 185:
+          Rule: Amine Carbonyl Ring Closure, C, 5
+        Parallel, substrategy 186:
+          Rule: Amine Carbonyl Ring Closure, H, 6
+        Parallel, substrategy 187:
+          Rule: Amine Carbonyl Ring Closure, C, 6
+        Parallel, substrategy 188:
+          Rule: Michael Addition 0,0, 
+        Parallel, substrategy 189:
+          Rule: Michael Addition 0,1, 
+        Parallel, substrategy 190:
+          Rule: Michael Addition 0,2, 
+        Parallel, substrategy 191:
+          Rule: Michael Addition 1,0, 
+        Parallel, substrategy 192:
+          Rule: Michael Addition 1,1, 
+        Parallel, substrategy 193:
+          Rule: Michael Addition 1,2, 
+        Parallel, substrategy 194:
+          Rule: Michael Addition 2,0, 
+        Parallel, substrategy 195:
+          Rule: Michael Addition 2,1, 
+        Parallel, substrategy 196:
+          Rule: Michael Addition 2,2, 
+        Parallel, substrategy 197:
+          Rule: Michael Addition 3,0, 
+        Parallel, substrategy 198:
+          Rule: Michael Addition 3,1, 
+        Parallel, substrategy 199:
+          Rule: Michael Addition 3,2, 
+        Parallel, substrategy 200:
+          Rule: Michael Addition 0,0, (reverse)
+        Parallel, substrategy 201:
+          Rule: Michael Addition 0,1, (reverse)
+        Parallel, substrategy 202:
+          Rule: Michael Addition 0,2, (reverse)
+        Parallel, substrategy 203:
+          Rule: Michael Addition 2,0, (reverse)
+        Parallel, substrategy 204:
+          Rule: Michael Addition 2,1, (reverse)
+        Parallel, substrategy 205:
+          Rule: Michael Addition 2,2, (reverse)
+        Parallel, substrategy 206:
+          Rule: Strecker Degradation, HH
+        Parallel, substrategy 207:
+          Rule: Strecker Degradation, HC
+        Parallel, substrategy 208:
+          Rule: Strecker Degradation, CC
+Took 156.07980370521545 seconds to complete round 3
+Original subset size: 926
+<class '_csv.reader'>
+Completed
+Dump file:  out/005_DG.dg
+End of code from 'glucose_degradation.py'
+
+real	2m45.604s
+user	2m45.312s
+sys	0m0.517s

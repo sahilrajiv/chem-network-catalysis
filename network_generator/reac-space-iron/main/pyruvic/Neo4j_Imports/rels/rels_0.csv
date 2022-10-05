@@ -1,0 +1,18 @@
+8_0	C(C(C)=O)(O)=O	-1	Alpha-Keto Acid Decarboxylation
+8_0	C(C)=O	1	Alpha-Keto Acid Decarboxylation
+8_0	C(=O)=O	1	Alpha-Keto Acid Decarboxylation
+10_0	C(C(C)=O)(O)=O	-1	Fe2 ---> Fe3 Alpha Keto Reduction of a Carboxylic Acid (Fe2+ to Fe3+)
+10_0	[H+]	-1	Fe2 ---> Fe3 Alpha Keto Reduction of a Carboxylic Acid (Fe2+ to Fe3+)
+10_0	[Fe+2]	-1	Fe2 ---> Fe3 Alpha Keto Reduction of a Carboxylic Acid (Fe2+ to Fe3+)
+10_0	[Fe+2]	-1	Fe2 ---> Fe3 Alpha Keto Reduction of a Carboxylic Acid (Fe2+ to Fe3+)
+10_0	[Fe+3]	1	Fe2 ---> Fe3 Alpha Keto Reduction of a Carboxylic Acid (Fe2+ to Fe3+)
+10_0	[Fe+3]	1	Fe2 ---> Fe3 Alpha Keto Reduction of a Carboxylic Acid (Fe2+ to Fe3+)
+10_0	C([C](C)O)(O)=O	1	Fe2 ---> Fe3 Alpha Keto Reduction of a Carboxylic Acid (Fe2+ to Fe3+)
+12_0	C(C(C)=O)(O)=O	-1	Fe2 ---> Fe3 Conversion of Alpha Keto Group of an ACID to Alpha Hydro group
+12_0	[H+]	-1	Fe2 ---> Fe3 Conversion of Alpha Keto Group of an ACID to Alpha Hydro group
+12_0	[H+]	-1	Fe2 ---> Fe3 Conversion of Alpha Keto Group of an ACID to Alpha Hydro group
+12_0	[Fe+2]	-1	Fe2 ---> Fe3 Conversion of Alpha Keto Group of an ACID to Alpha Hydro group
+12_0	[Fe+2]	-1	Fe2 ---> Fe3 Conversion of Alpha Keto Group of an ACID to Alpha Hydro group
+12_0	[Fe+3]	1	Fe2 ---> Fe3 Conversion of Alpha Keto Group of an ACID to Alpha Hydro group
+12_0	[Fe+3]	1	Fe2 ---> Fe3 Conversion of Alpha Keto Group of an ACID to Alpha Hydro group
+12_0	C(C(C)O)(O)=O	1	Fe2 ---> Fe3 Conversion of Alpha Keto Group of an ACID to Alpha Hydro group

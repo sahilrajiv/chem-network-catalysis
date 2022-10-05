@@ -1,0 +1,17 @@
+
+out/001_r_8_10300000_L.pdf: out/000_r_8_coord.tex out/001_r_8_10300000_L.tex
+	/usr/local/bin/../bin/mod_post --mode compileTikz "out/001_r_8_10300000_L" "out/000_r_8_coord" 1
+out/001_r_8_10300000_K.pdf: out/000_r_8_coord.tex out/001_r_8_10300000_K.tex
+	/usr/local/bin/../bin/mod_post --mode compileTikz "out/001_r_8_10300000_K" "out/000_r_8_coord" 1
+out/001_r_8_10300000_R.pdf: out/000_r_8_coord.tex out/001_r_8_10300000_R.tex
+	/usr/local/bin/../bin/mod_post --mode compileTikz "out/001_r_8_10300000_R" "out/000_r_8_coord" 1
+out/002_r_8_11300100_L.pdf: out/000_r_8_mol_coord.tex out/002_r_8_11300100_L.tex
+	/usr/local/bin/../bin/mod_post --mode compileTikz "out/002_r_8_11300100_L" "out/000_r_8_mol_coord" 1
+out/002_r_8_11300100_K.pdf: out/000_r_8_mol_coord.tex out/002_r_8_11300100_K.tex
+	/usr/local/bin/../bin/mod_post --mode compileTikz "out/002_r_8_11300100_K" "out/000_r_8_mol_coord" 1
+out/002_r_8_11300100_R.pdf: out/000_r_8_mol_coord.tex out/002_r_8_11300100_R.tex
+	/usr/local/bin/../bin/mod_post --mode compileTikz "out/002_r_8_11300100_R" "out/000_r_8_mol_coord" 1
+out/003_r_8_combined.svg: out/003_r_8_combined.dot
+	/usr/local/bin/../bin/mod_post --mode gv ruleCombined "out/003_r_8_combined" svg ""
+out/003_r_8_combined.pdf: out/003_r_8_combined.svg
+	/usr/local/bin/../bin/mod_post --mode svgToPdf "out/003_r_8_combined.svg" "out/003_r_8_combined.pdf"

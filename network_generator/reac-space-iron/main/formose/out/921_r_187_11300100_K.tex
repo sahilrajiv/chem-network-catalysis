@@ -1,0 +1,17 @@
+\begin{tikzpicture}[remember picture, scale=\modGraphScale, baseline={([yshift={-0.5ex}]current bounding box)}, solid]
+\input{\modInputPrefix/out/919_r_187_mol_coord.tex}
+\node[modStyleGraphVertex, text=gray, at=(\modIdPrefix v-coord-0)] (\modIdPrefix v-0) {H};
+\node[modStyleGraphVertex, text=gray, at=(\modIdPrefix v-coord-1)] (\modIdPrefix v-1) {H};
+\node[modStyleGraphVertex, text=blue, at=(\modIdPrefix v-coord-2)] (\modIdPrefix v-2) {N};
+\node[modStyleGraphVertex, at=(\modIdPrefix v-coord-3)] (\modIdPrefix v-3) {C};
+\node[modStyleGraphVertex, at=(\modIdPrefix v-coord-4)] (\modIdPrefix v-4) {\ensuremath{*}};
+\node[modStyleGraphVertex, at=(\modIdPrefix v-coord-5)] (\modIdPrefix v-5) {\ensuremath{*}};
+\node[modStyleGraphVertex, at=(\modIdPrefix v-coord-6)] (\modIdPrefix v-6) {C};
+\node[modStyleGraphVertex, at=(\modIdPrefix v-6.east), anchor=west] (\modIdPrefix v-6-aux) {H};
+\node[modStyleGraphVertex, at=(\modIdPrefix v-6-aux)] {\phantom{H}};
+\node[modStyleGraphVertex, text=red, at=(\modIdPrefix v-coord-8)] (\modIdPrefix v-8) {O};
+\modDrawSingleBond{2}{3}{1}{1}{}{}
+\modDrawGraphEdge{3}{4}{1}{1}{}{node[auto]{\ensuremath{*}}}
+\modDrawGraphEdge{4}{5}{1}{1}{}{node[auto]{\ensuremath{*}}}
+\modDrawSingleBond{5}{6}{1}{1}{}{}
+\end{tikzpicture}

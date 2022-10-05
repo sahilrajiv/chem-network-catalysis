@@ -1,0 +1,218 @@
+\BOOKMARK [2][-]{subsection.0.0.1}{Strecker Synthesis}{}% 1
+\BOOKMARK [2][-]{subsection.0.0.2}{Aldol Condensation}{}% 2
+\BOOKMARK [2][-]{subsection.0.0.3}{Benzilic Acid Rearrangement}{}% 3
+\BOOKMARK [2][-]{subsection.0.0.4}{Benzilic Acid Rearrangement \(inverse\)}{}% 4
+\BOOKMARK [2][-]{subsection.0.0.5}{Retro Aldol}{}% 5
+\BOOKMARK [2][-]{subsection.0.0.6}{Keto-enol migration twice}{}% 6
+\BOOKMARK [2][-]{subsection.0.0.7}{Amadori/Heyns Rearrangement}{}% 7
+\BOOKMARK [2][-]{subsection.0.0.8}{Ester Hydrolysis}{}% 8
+\BOOKMARK [2][-]{subsection.0.0.9}{Cannizarro 1}{}% 9
+\BOOKMARK [2][-]{subsection.0.0.10}{Cannizarro 2, HCHO \(oxidation\)}{}% 10
+\BOOKMARK [2][-]{subsection.0.0.11}{Cannizarro 2, HCHO \(reduction\)}{}% 11
+\BOOKMARK [2][-]{subsection.0.0.12}{Alkyne Addition, N, HH}{}% 12
+\BOOKMARK [2][-]{subsection.0.0.13}{Alkyne Addition, N, HC}{}% 13
+\BOOKMARK [2][-]{subsection.0.0.14}{Alkyne Addition, N, CC}{}% 14
+\BOOKMARK [2][-]{subsection.0.0.15}{Alkyne Addition, S, H}{}% 15
+\BOOKMARK [2][-]{subsection.0.0.16}{Alkyne Addition, S, C}{}% 16
+\BOOKMARK [2][-]{subsection.0.0.17}{Alkyne Addition, C}{}% 17
+\BOOKMARK [2][-]{subsection.0.0.18}{Knoevenagel C}{}% 18
+\BOOKMARK [2][-]{subsection.0.0.19}{Knoevenagel H}{}% 19
+\BOOKMARK [2][-]{subsection.0.0.20}{Knoevenagel C \(inverse\)}{}% 20
+\BOOKMARK [2][-]{subsection.0.0.21}{Knoevenagel H \(inv\)}{}% 21
+\BOOKMARK [2][-]{subsection.0.0.22}{DAMN Scission}{}% 22
+\BOOKMARK [2][-]{subsection.0.0.23}{Cyanogen Ammonolysis}{}% 23
+\BOOKMARK [2][-]{subsection.0.0.24}{Cyanamide Hydration}{}% 24
+\BOOKMARK [2][-]{subsection.0.0.25}{Carbamylation, SC}{}% 25
+\BOOKMARK [2][-]{subsection.0.0.26}{Carbamylation, SH}{}% 26
+\BOOKMARK [2][-]{subsection.0.0.27}{Carbamylation, N, HH}{}% 27
+\BOOKMARK [2][-]{subsection.0.0.28}{Carbamylation, N, HC}{}% 28
+\BOOKMARK [2][-]{subsection.0.0.29}{Carbamylation, N, CC}{}% 29
+\BOOKMARK [2][-]{subsection.0.0.30}{Cyanate from cyanogen}{}% 30
+\BOOKMARK [2][-]{subsection.0.0.31}{Ketone-Catalyzed Decarboxylation}{}% 31
+\BOOKMARK [2][-]{subsection.0.0.32}{Amadori Rearrangement}{}% 32
+\BOOKMARK [2][-]{subsection.0.0.33}{Thial -> Thiene}{}% 33
+\BOOKMARK [2][-]{subsection.0.0.34}{Sulfide to Nitrile Addition}{}% 34
+\BOOKMARK [2][-]{subsection.0.0.35}{Thioamidine to Amide Hydrolysis}{}% 35
+\BOOKMARK [2][-]{subsection.0.0.36}{Ketone/Aldehyde to Thioketone/Thial, HH}{}% 36
+\BOOKMARK [2][-]{subsection.0.0.37}{Ketone/Aldehyde to Thioketone/Thial, HC}{}% 37
+\BOOKMARK [2][-]{subsection.0.0.38}{Ketone/Aldehyde to Thioketone/Thial, CC}{}% 38
+\BOOKMARK [2][-]{subsection.0.0.39}{HCN to Ketone}{}% 39
+\BOOKMARK [2][-]{subsection.0.0.40}{Strecker Degradation Dicarbonyl, H, H, H, H}{}% 40
+\BOOKMARK [2][-]{subsection.0.0.41}{Strecker Degradation Dicarbonyl, H, H, H, C}{}% 41
+\BOOKMARK [2][-]{subsection.0.0.42}{Strecker Degradation Dicarbonyl, H, H, C, H}{}% 42
+\BOOKMARK [2][-]{subsection.0.0.43}{Strecker Degradation Dicarbonyl, H, H, C, C}{}% 43
+\BOOKMARK [2][-]{subsection.0.0.44}{Strecker Degradation Dicarbonyl, H, C, H, H}{}% 44
+\BOOKMARK [2][-]{subsection.0.0.45}{Strecker Degradation Dicarbonyl, H, C, H, C}{}% 45
+\BOOKMARK [2][-]{subsection.0.0.46}{Strecker Degradation Dicarbonyl, H, C, C, H}{}% 46
+\BOOKMARK [2][-]{subsection.0.0.47}{Strecker Degradation Dicarbonyl, H, C, C, C}{}% 47
+\BOOKMARK [2][-]{subsection.0.0.48}{Strecker Degradation Dicarbonyl, C, H, H, H}{}% 48
+\BOOKMARK [2][-]{subsection.0.0.49}{Strecker Degradation Dicarbonyl, C, H, H, C}{}% 49
+\BOOKMARK [2][-]{subsection.0.0.50}{Strecker Degradation Dicarbonyl, C, H, C, H}{}% 50
+\BOOKMARK [2][-]{subsection.0.0.51}{Strecker Degradation Dicarbonyl, C, H, C, C}{}% 51
+\BOOKMARK [2][-]{subsection.0.0.52}{Strecker Degradation Dicarbonyl, C, C, H, H}{}% 52
+\BOOKMARK [2][-]{subsection.0.0.53}{Strecker Degradation Dicarbonyl, C, C, H, C}{}% 53
+\BOOKMARK [2][-]{subsection.0.0.54}{Strecker Degradation Dicarbonyl, C, C, C, H}{}% 54
+\BOOKMARK [2][-]{subsection.0.0.55}{Strecker Degradation Dicarbonyl, C, C, C, C}{}% 55
+\BOOKMARK [2][-]{subsection.0.0.56}{Schiff Tautomerization}{}% 56
+\BOOKMARK [2][-]{subsection.0.0.57}{Alkyne Addition, N, HH, inverse}{}% 57
+\BOOKMARK [2][-]{subsection.0.0.58}{Alkyne Addition, S, H, inverse}{}% 58
+\BOOKMARK [2][-]{subsection.0.0.59}{Alkyne Addition, C, inverse}{}% 59
+\BOOKMARK [2][-]{subsection.0.0.60}{DAMN Scission, inverse}{}% 60
+\BOOKMARK [2][-]{subsection.0.0.61}{Cyanogen Ammonolysis, inverse}{}% 61
+\BOOKMARK [2][-]{subsection.0.0.62}{Cyanamide Hydration, inverse}{}% 62
+\BOOKMARK [2][-]{subsection.0.0.63}{Carbamylation, SC, inverse}{}% 63
+\BOOKMARK [2][-]{subsection.0.0.64}{Carbamylation, SH, inverse}{}% 64
+\BOOKMARK [2][-]{subsection.0.0.65}{Carbamylation, N, HH, inverse}{}% 65
+\BOOKMARK [2][-]{subsection.0.0.66}{Cyanate from cyanogen, inverse}{}% 66
+\BOOKMARK [2][-]{subsection.0.0.67}{Ketone-Catalyzed Decarboxylation, inverse}{}% 67
+\BOOKMARK [2][-]{subsection.0.0.68}{Amadori Rearrangement, inverse}{}% 68
+\BOOKMARK [2][-]{subsection.0.0.69}{Thial -> Thiene, inverse}{}% 69
+\BOOKMARK [2][-]{subsection.0.0.70}{Sulfide to Nitrile Addition, inverse}{}% 70
+\BOOKMARK [2][-]{subsection.0.0.71}{Thioamidine to Amide Hydrolysis, inverse}{}% 71
+\BOOKMARK [2][-]{subsection.0.0.72}{Ketone/Aldehyde to Thioketone/Thial, HH, inverse}{}% 72
+\BOOKMARK [2][-]{subsection.0.0.73}{HCN to Ketone, inverse}{}% 73
+\BOOKMARK [2][-]{subsection.0.0.74}{Strecker Degradation Dicarbonyl, H, H, H, H, inverse}{}% 74
+\BOOKMARK [2][-]{subsection.0.0.75}{5 Membered Ring Exoamine Hydrolysis}{}% 75
+\BOOKMARK [2][-]{subsection.0.0.76}{6 Membered Ring Exoamine Hydrolysis}{}% 76
+\BOOKMARK [2][-]{subsection.0.0.77}{Ammonolysis of Esters}{}% 77
+\BOOKMARK [2][-]{subsection.0.0.78}{Isocyanate Hydrolysis}{}% 78
+\BOOKMARK [2][-]{subsection.0.0.79}{Cyanamidation, SC}{}% 79
+\BOOKMARK [2][-]{subsection.0.0.80}{Cyanamidation, SH}{}% 80
+\BOOKMARK [2][-]{subsection.0.0.81}{Cyanamidation, N, HH}{}% 81
+\BOOKMARK [2][-]{subsection.0.0.82}{Cyanamidation, N, HC}{}% 82
+\BOOKMARK [2][-]{subsection.0.0.83}{Cyanamidation, N, CC}{}% 83
+\BOOKMARK [2][-]{subsection.0.0.84}{Nitrile Amination}{}% 84
+\BOOKMARK [2][-]{subsection.0.0.85}{HCN Addition to Nitriles}{}% 85
+\BOOKMARK [2][-]{subsection.0.0.86}{CN addition to iminonitriles}{}% 86
+\BOOKMARK [2][-]{subsection.0.0.87}{CN addition to aminodinitriles}{}% 87
+\BOOKMARK [2][-]{subsection.0.0.88}{Amide Hydrolysis}{}% 88
+\BOOKMARK [2][-]{subsection.0.0.89}{Amide Formation Hydrolysis, C}{}% 89
+\BOOKMARK [2][-]{subsection.0.0.90}{Alkene Addition, CN}{}% 90
+\BOOKMARK [2][-]{subsection.0.0.91}{Elimination + enol to keto}{}% 91
+\BOOKMARK [2][-]{subsection.0.0.92}{Elimination2}{}% 92
+\BOOKMARK [2][-]{subsection.0.0.93}{Dehydration of Amines}{}% 93
+\BOOKMARK [2][-]{subsection.0.0.94}{Deydration of Amines \(inverse\)}{}% 94
+\BOOKMARK [2][-]{subsection.0.0.95}{Hydration of C\(=O\)C}{}% 95
+\BOOKMARK [2][-]{subsection.0.0.96}{Hydration of C=C\(O\)}{}% 96
+\BOOKMARK [2][-]{subsection.0.0.97}{Enamine Hydration and Elimination}{}% 97
+\BOOKMARK [2][-]{subsection.0.0.98}{Deamination of Vicinal Diamine}{}% 98
+\BOOKMARK [2][-]{subsection.0.0.99}{Deamination of Vicinal Diamine, \(inverse\)}{}% 99
+\BOOKMARK [2][-]{subsection.0.0.100}{Deamination 2}{}% 100
+\BOOKMARK [2][-]{subsection.0.0.101}{Deamination 3}{}% 101
+\BOOKMARK [2][-]{subsection.0.0.102}{Deamination 3 \(inverse\)}{}% 102
+\BOOKMARK [2][-]{subsection.0.0.103}{Cyanohydrin Formation}{}% 103
+\BOOKMARK [2][-]{subsection.0.0.104}{Strecker Synthesis}{}% 104
+\BOOKMARK [2][-]{subsection.0.0.105}{Alpha-Beta Unsaturated Acid Decarboxylation}{}% 105
+\BOOKMARK [2][-]{subsection.0.0.106}{Beta-gamma Unsaturated Acid Decarboxylation}{}% 106
+\BOOKMARK [2][-]{subsection.0.0.107}{Mannich Addition}{}% 107
+\BOOKMARK [2][-]{subsection.0.0.108}{Mannich Addition \(reverse\)}{}% 108
+\BOOKMARK [2][-]{subsection.0.0.109}{Hemiacetal Formation for 5 membered rings}{}% 109
+\BOOKMARK [2][-]{subsection.0.0.110}{Hemiacetal Formation for 6 membered rings}{}% 110
+\BOOKMARK [2][-]{subsection.0.0.111}{Hemiacetal Formation for 7 membered rings}{}% 111
+\BOOKMARK [2][-]{subsection.0.0.112}{Hemiacetal Formation for 5 membered rings, inverse}{}% 112
+\BOOKMARK [2][-]{subsection.0.0.113}{Hemiacetal Formation for 6 membered rings, inverse}{}% 113
+\BOOKMARK [2][-]{subsection.0.0.114}{Hemiacetal Formation for 7 membered rings, inverse}{}% 114
+\BOOKMARK [2][-]{subsection.0.0.115}{Imine to Carbonyl}{}% 115
+\BOOKMARK [2][-]{subsection.0.0.116}{Amidine to Amide Hydrolysis}{}% 116
+\BOOKMARK [2][-]{subsection.0.0.117}{Imine to Enamine}{}% 117
+\BOOKMARK [2][-]{subsection.0.0.118}{Nitrile Hydrolysis}{}% 118
+\BOOKMARK [2][-]{subsection.0.0.119}{Transamination}{}% 119
+\BOOKMARK [2][-]{subsection.0.0.120}{Transamination \(inverse\)}{}% 120
+\BOOKMARK [2][-]{subsection.0.0.121}{Alpha-Keto Acid Decarboxylation}{}% 121
+\BOOKMARK [2][-]{subsection.0.0.122}{Beta Decarboxylation}{}% 122
+\BOOKMARK [2][-]{subsection.0.0.123}{Nitrile Ring Closure 5}{}% 123
+\BOOKMARK [2][-]{subsection.0.0.124}{Nitrile Ring Closure 6}{}% 124
+\BOOKMARK [2][-]{subsection.0.0.125}{Ring Closure 5 membered O, O}{}% 125
+\BOOKMARK [2][-]{subsection.0.0.126}{Ring Closure 5 membered O, N}{}% 126
+\BOOKMARK [2][-]{subsection.0.0.127}{Ring Closure 5 membered O, S}{}% 127
+\BOOKMARK [2][-]{subsection.0.0.128}{Ring Closure 5 membered N, O}{}% 128
+\BOOKMARK [2][-]{subsection.0.0.129}{Ring Closure 5 membered N, N}{}% 129
+\BOOKMARK [2][-]{subsection.0.0.130}{Ring Closure 5 membered N, S}{}% 130
+\BOOKMARK [2][-]{subsection.0.0.131}{Ring Closure 5 membered S, O}{}% 131
+\BOOKMARK [2][-]{subsection.0.0.132}{Ring Closure 5 membered S, N}{}% 132
+\BOOKMARK [2][-]{subsection.0.0.133}{Ring Closure 5 membered S, S}{}% 133
+\BOOKMARK [2][-]{subsection.0.0.134}{Ring Closure 6 membered O, O}{}% 134
+\BOOKMARK [2][-]{subsection.0.0.135}{Ring Closure 6 membered O, N}{}% 135
+\BOOKMARK [2][-]{subsection.0.0.136}{Ring Closure 6 membered O, S}{}% 136
+\BOOKMARK [2][-]{subsection.0.0.137}{Ring Closure 6 membered N, O}{}% 137
+\BOOKMARK [2][-]{subsection.0.0.138}{Ring Closure 6 membered N, N}{}% 138
+\BOOKMARK [2][-]{subsection.0.0.139}{Ring Closure 6 membered N, S}{}% 139
+\BOOKMARK [2][-]{subsection.0.0.140}{Ring Closure 6 membered S, O}{}% 140
+\BOOKMARK [2][-]{subsection.0.0.141}{Ring Closure 6 membered S, N}{}% 141
+\BOOKMARK [2][-]{subsection.0.0.142}{Ring Closure 6 membered S, S}{}% 142
+\BOOKMARK [2][-]{subsection.0.0.143}{Ring Closure 7 membered O, O}{}% 143
+\BOOKMARK [2][-]{subsection.0.0.144}{Ring Closure 7 membered O, N}{}% 144
+\BOOKMARK [2][-]{subsection.0.0.145}{Ring Closure 7 membered O, S}{}% 145
+\BOOKMARK [2][-]{subsection.0.0.146}{Ring Closure 7 membered N, O}{}% 146
+\BOOKMARK [2][-]{subsection.0.0.147}{Ring Closure 7 membered N, N}{}% 147
+\BOOKMARK [2][-]{subsection.0.0.148}{Ring Closure 7 membered N, S}{}% 148
+\BOOKMARK [2][-]{subsection.0.0.149}{Ring Closure 7 membered S, O}{}% 149
+\BOOKMARK [2][-]{subsection.0.0.150}{Ring Closure 7 membered S, N}{}% 150
+\BOOKMARK [2][-]{subsection.0.0.151}{Ring Closure 7 membered S, S}{}% 151
+\BOOKMARK [2][-]{subsection.0.0.152}{Ring Closure 5 membered, inverse O, O}{}% 152
+\BOOKMARK [2][-]{subsection.0.0.153}{Ring Closure 5 membered, inverse O, N}{}% 153
+\BOOKMARK [2][-]{subsection.0.0.154}{Ring Closure 5 membered, inverse O, S}{}% 154
+\BOOKMARK [2][-]{subsection.0.0.155}{Ring Closure 5 membered, inverse N, O}{}% 155
+\BOOKMARK [2][-]{subsection.0.0.156}{Ring Closure 5 membered, inverse N, N}{}% 156
+\BOOKMARK [2][-]{subsection.0.0.157}{Ring Closure 5 membered, inverse N, S}{}% 157
+\BOOKMARK [2][-]{subsection.0.0.158}{Ring Closure 5 membered, inverse S, O}{}% 158
+\BOOKMARK [2][-]{subsection.0.0.159}{Ring Closure 5 membered, inverse S, N}{}% 159
+\BOOKMARK [2][-]{subsection.0.0.160}{Ring Closure 5 membered, inverse S, S}{}% 160
+\BOOKMARK [2][-]{subsection.0.0.161}{Ring Closure 6 membered, inverse O, O}{}% 161
+\BOOKMARK [2][-]{subsection.0.0.162}{Ring Closure 6 membered, inverse O, N}{}% 162
+\BOOKMARK [2][-]{subsection.0.0.163}{Ring Closure 6 membered, inverse O, S}{}% 163
+\BOOKMARK [2][-]{subsection.0.0.164}{Ring Closure 6 membered, inverse N, O}{}% 164
+\BOOKMARK [2][-]{subsection.0.0.165}{Ring Closure 6 membered, inverse N, N}{}% 165
+\BOOKMARK [2][-]{subsection.0.0.166}{Ring Closure 6 membered, inverse N, S}{}% 166
+\BOOKMARK [2][-]{subsection.0.0.167}{Ring Closure 6 membered, inverse S, O}{}% 167
+\BOOKMARK [2][-]{subsection.0.0.168}{Ring Closure 6 membered, inverse S, N}{}% 168
+\BOOKMARK [2][-]{subsection.0.0.169}{Ring Closure 6 membered, inverse S, S}{}% 169
+\BOOKMARK [2][-]{subsection.0.0.170}{Ring Closure 7 membered, inverse O, O}{}% 170
+\BOOKMARK [2][-]{subsection.0.0.171}{Ring Closure 7 membered, inverse O, N}{}% 171
+\BOOKMARK [2][-]{subsection.0.0.172}{Ring Closure 7 membered, inverse O, S}{}% 172
+\BOOKMARK [2][-]{subsection.0.0.173}{Ring Closure 7 membered, inverse N, O}{}% 173
+\BOOKMARK [2][-]{subsection.0.0.174}{Ring Closure 7 membered, inverse N, N}{}% 174
+\BOOKMARK [2][-]{subsection.0.0.175}{Ring Closure 7 membered, inverse N, S}{}% 175
+\BOOKMARK [2][-]{subsection.0.0.176}{Ring Closure 7 membered, inverse S, O}{}% 176
+\BOOKMARK [2][-]{subsection.0.0.177}{Ring Closure 7 membered, inverse S, N}{}% 177
+\BOOKMARK [2][-]{subsection.0.0.178}{Ring Closure 7 membered, inverse S, S}{}% 178
+\BOOKMARK [2][-]{subsection.0.0.179}{Amine Nitrile Ring Closure 5}{}% 179
+\BOOKMARK [2][-]{subsection.0.0.180}{Amine Nitrile Ring Closure 6}{}% 180
+\BOOKMARK [2][-]{subsection.0.0.181}{Amine Imine Ring Closure 5}{}% 181
+\BOOKMARK [2][-]{subsection.0.0.182}{Amine Imine Ring Closure 6}{}% 182
+\BOOKMARK [2][-]{subsection.0.0.183}{Amidine Nitrile Ring Closure 6}{}% 183
+\BOOKMARK [2][-]{subsection.0.0.184}{Amide Nitrile Ring Closure 6}{}% 184
+\BOOKMARK [2][-]{subsection.0.0.185}{Amine Carbonyl Ring Closure, H, 5}{}% 185
+\BOOKMARK [2][-]{subsection.0.0.186}{Amine Carbonyl Ring Closure, C, 5}{}% 186
+\BOOKMARK [2][-]{subsection.0.0.187}{Amine Carbonyl Ring Closure, H, 6}{}% 187
+\BOOKMARK [2][-]{subsection.0.0.188}{Amine Carbonyl Ring Closure, C, 6}{}% 188
+\BOOKMARK [2][-]{subsection.0.0.189}{Michael Addition 0,0,}{}% 189
+\BOOKMARK [2][-]{subsection.0.0.190}{Michael Addition 0,1,}{}% 190
+\BOOKMARK [2][-]{subsection.0.0.191}{Michael Addition 0,2,}{}% 191
+\BOOKMARK [2][-]{subsection.0.0.192}{Michael Addition 1,0,}{}% 192
+\BOOKMARK [2][-]{subsection.0.0.193}{Michael Addition 1,1,}{}% 193
+\BOOKMARK [2][-]{subsection.0.0.194}{Michael Addition 1,2,}{}% 194
+\BOOKMARK [2][-]{subsection.0.0.195}{Michael Addition 2,0,}{}% 195
+\BOOKMARK [2][-]{subsection.0.0.196}{Michael Addition 2,1,}{}% 196
+\BOOKMARK [2][-]{subsection.0.0.197}{Michael Addition 2,2,}{}% 197
+\BOOKMARK [2][-]{subsection.0.0.198}{Michael Addition 3,0,}{}% 198
+\BOOKMARK [2][-]{subsection.0.0.199}{Michael Addition 3,1,}{}% 199
+\BOOKMARK [2][-]{subsection.0.0.200}{Michael Addition 3,2,}{}% 200
+\BOOKMARK [2][-]{subsection.0.0.201}{Michael Addition 0,0, \(reverse\)}{}% 201
+\BOOKMARK [2][-]{subsection.0.0.202}{Michael Addition 0,1, \(reverse\)}{}% 202
+\BOOKMARK [2][-]{subsection.0.0.203}{Michael Addition 0,2, \(reverse\)}{}% 203
+\BOOKMARK [2][-]{subsection.0.0.204}{Michael Addition 2,0, \(reverse\)}{}% 204
+\BOOKMARK [2][-]{subsection.0.0.205}{Michael Addition 2,1, \(reverse\)}{}% 205
+\BOOKMARK [2][-]{subsection.0.0.206}{Michael Addition 2,2, \(reverse\)}{}% 206
+\BOOKMARK [2][-]{subsection.0.0.207}{Strecker Degradation, HH}{}% 207
+\BOOKMARK [2][-]{subsection.0.0.208}{Strecker Degradation, HC}{}% 208
+\BOOKMARK [2][-]{subsection.0.0.209}{Strecker Degradation, CC}{}% 209
+\BOOKMARK [2][-]{subsection.0.0.210}{Fe2 \204> Fe3 Alpha Keto Reduction, conversion to amino acid}{}% 210
+\BOOKMARK [2][-]{subsection.0.0.211}{Fe2 \204> Fe3 Alpha Keto Reduction of a Carboxylic Acid \(Fe2+ to Fe3+\)}{}% 211
+\BOOKMARK [2][-]{subsection.0.0.212}{Fe3 \204> Fe2 Aldehyde to acid}{}% 212
+\BOOKMARK [2][-]{subsection.0.0.213}{Fe3 Complex Beta elimination from a sugar and Conversion to Acid}{}% 213
+\BOOKMARK [2][-]{subsection.0.0.214}{Fe3 \204> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group}{}% 214
+\BOOKMARK [2][-]{subsection.0.0.215}{Fe2 \204> Fe3 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group, inverse}{}% 215
+\BOOKMARK [2][-]{subsection.0.0.216}{Fe3 \204> Fe2 Conversion of Alpha Hydro Group of an ACID to Alpha Keto group}{}% 216
+\BOOKMARK [2][-]{subsection.0.0.217}{Fe2 \204> Fe3 Conversion of Alpha Keto Group of an ACID to Alpha Hydro group}{}% 217
+\BOOKMARK [0][-]{chapter.1}{Formose Reaction}{}% 218

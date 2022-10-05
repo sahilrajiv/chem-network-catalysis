@@ -1,0 +1,21 @@
+\begin{tikzpicture}[remember picture, scale=\modGraphScale, baseline={([yshift={-0.5ex}]current bounding box)}, solid]
+\input{\modInputPrefix/out/614_r_126_coord.tex}
+\node[modStyleGraphVertex, at=(\modIdPrefix v-coord-0)] (\modIdPrefix v-0) {N};
+\node[modStyleGraphVertex, at=(\modIdPrefix v-coord-1)] (\modIdPrefix v-1) {C};
+\node[modStyleGraphVertex, at=(\modIdPrefix v-coord-2)] (\modIdPrefix v-2) {N};
+\node[modStyleGraphVertex, at=(\modIdPrefix v-coord-3)] (\modIdPrefix v-3) {H};
+\node[modStyleGraphVertex, at=(\modIdPrefix v-coord-4)] (\modIdPrefix v-4) {H};
+\node[modStyleGraphVertex, at=(\modIdPrefix v-coord-5)] (\modIdPrefix v-5) {\ensuremath{*}};
+\node[modStyleGraphVertex, at=(\modIdPrefix v-coord-6)] (\modIdPrefix v-6) {\ensuremath{*}};
+\node[modStyleGraphVertex, at=(\modIdPrefix v-coord-7)] (\modIdPrefix v-7) {\ensuremath{*}};
+\node[modStyleGraphVertex, at=(\modIdPrefix v-coord-8)] (\modIdPrefix v-8) {\ensuremath{*}};
+\modDrawSingleBond{0}{1}{1}{1}{Green, text=Green}{}
+\modDrawSingleBond{0}{3}{1}{1}{Green, text=Green}{}
+\modDrawSingleBond{0}{4}{1}{1}{Green, text=Green}{}
+\modDrawDoubleBond{1}{2}{1}{1}{Green, text=Green}{}
+\modDrawGraphEdge{1}{8}{1}{1}{}{node[auto]{\ensuremath{*}}}
+\modDrawGraphEdge{2}{5}{1}{1}{}{node[auto]{\ensuremath{*}}}
+\modDrawGraphEdge{5}{6}{1}{1}{}{node[auto]{\ensuremath{*}}}
+\modDrawGraphEdge{6}{7}{1}{1}{}{node[auto]{\ensuremath{*}}}
+\modDrawGraphEdge{7}{8}{1}{1}{}{node[auto]{\ensuremath{*}}}
+\end{tikzpicture}

@@ -1,0 +1,15 @@
+\begin{tikzpicture}[remember picture, scale=\modGraphScale, baseline={([yshift={-0.5ex}]current bounding box)}, solid]
+\input{\modInputPrefix/out/389_r_77_mol_coord.tex}
+\node[modStyleGraphVertex, text=blue, at=(\modIdPrefix v-coord-1)] (\modIdPrefix v-1) {N};
+\node[modStyleGraphVertex, text=blue, at=(\modIdPrefix v-1.east), anchor=west] (\modIdPrefix v-1-aux) {H};
+\node[modStyleGraphVertex, at=(\modIdPrefix v-1-aux)] {\phantom{H}};
+\node[modStyleGraphVertex, at=(\modIdPrefix v-coord-2)] (\modIdPrefix v-2) {C};
+\node[modStyleGraphVertex, text=red, at=(\modIdPrefix v-coord-3)] (\modIdPrefix v-3) {O};
+\node[modStyleGraphVertex, text=gray, at=(\modIdPrefix v-coord-4)] (\modIdPrefix v-4) {H};
+\node[modStyleGraphVertex, text=red, at=(\modIdPrefix v-coord-5)] (\modIdPrefix v-5) {O};
+\node[modStyleGraphVertex, text=gray, at=(\modIdPrefix v-coord-6)] (\modIdPrefix v-6) {H};
+\modDrawDoubleBond{1}{2}{1}{1}{NavyBlue, text=NavyBlue}{}
+\modDrawDoubleBond{2}{3}{1}{1}{}{}
+\modDrawSingleBond{4}{5}{1}{1}{NavyBlue, text=NavyBlue}{}
+\modDrawSingleBond{5}{6}{1}{1}{NavyBlue, text=NavyBlue}{}
+\end{tikzpicture}

@@ -1,0 +1,82 @@
+,reaction_name,non_iron,iron_inclusive,ratio
+0,"Strecker Degradation Dicarbonyl, H, H, H, H",1.0,1,1.0
+1,Enamine Hydration and Elimination,1.0,1,1.0
+2,Deydration of Amines (inverse),1.0,1,1.0
+3,Beta-gamma Unsaturated Acid Decarboxylation,0.0,1,0.0
+4,Alpha-Beta Unsaturated Acid Decarboxylation,0.0,1,0.0
+5,"Alkyne Addition, N, HH, inverse",1.0,1,1.0
+6,"Amine Carbonyl Ring Closure, C, 5",2.0,2,1.0
+7,"Deamination of Vicinal Diamine, (inverse)",2.0,2,1.0
+8,"Amine Carbonyl Ring Closure, H, 6",2.0,2,1.0
+9,"Amine Carbonyl Ring Closure, C, 6",2.0,2,1.0
+10,"Amine Carbonyl Ring Closure, H, 5",2.0,2,1.0
+11,"Strecker Degradation Dicarbonyl, H, C, H, H",3.0,3,1.0
+12,Beta Decarboxylation,4.0,4,1.0
+13,"Strecker Degradation Dicarbonyl, H, C, C, C",4.0,4,1.0
+14,Alpha-Keto Acid Decarboxylation,3.0,4,1.3333333333333333
+15,Fe2 ---> Fe3 Alpha Keto Reduction of a Carboxylic Acid (Fe2+ to Fe3+),0.0,4,0.0
+16,Fe2 ---> Fe3 Conversion of Alpha Keto Group of an ACID to Alpha Hydro group,0.0,4,0.0
+17,"Fe2 ---> Fe3 Alpha Keto Reduction, conversion to amino acid",0.0,4,0.0
+18,"Strecker Degradation Dicarbonyl, C, H, H, H",4.0,4,1.0
+19,"Ring Closure 7 membered, inverse N, O",3.0,5,1.6666666666666667
+20,"Ring Closure 6 membered, inverse N, O",3.0,5,1.6666666666666667
+21,"Ring Closure 5 membered, inverse N, O",3.0,5,1.6666666666666667
+22,"Hemiacetal Formation for 7 membered rings, inverse",7.0,8,1.1428571428571428
+23,"Strecker Degradation Dicarbonyl, H, H, C, C",8.0,8,1.0
+24,Ketone-Catalyzed Decarboxylation,9.0,9,1.0
+25,"Strecker Degradation, HH",9.0,9,1.0
+26,"Hemiacetal Formation for 6 membered rings, inverse",8.0,10,1.25
+27,"Michael Addition 0,2, (reverse)",10.0,11,1.1
+28,"Ketone-Catalyzed Decarboxylation, inverse",11.0,11,1.0
+29,"Ring Closure 7 membered O, O",9.0,12,1.3333333333333333
+30,"Ring Closure 6 membered O, O",11.0,13,1.1818181818181819
+31,"Strecker Degradation Dicarbonyl, H, C, H, C",9.0,13,1.4444444444444444
+32,"Strecker Degradation Dicarbonyl, H, C, C, H",9.0,13,1.4444444444444444
+33,"Amadori Rearrangement, inverse",12.0,14,1.1666666666666667
+34,"Hemiacetal Formation for 5 membered rings, inverse",13.0,15,1.1538461538461537
+35,Ammonolysis of Esters,9.0,15,1.6666666666666667
+36,"Amide Formation Hydrolysis, C",9.0,15,1.6666666666666667
+37,"Michael Addition 0,0, ",14.0,16,1.1428571428571428
+38,Hydration of C=C(O),13.0,17,1.3076923076923077
+39,Fe3 ---> Fe2 Conversion of Alpha Hydro Group of an ACID to Alpha Keto group,0.0,18,0.0
+40,Benzilic Acid Rearrangement (inverse),15.0,21,1.4
+41,Deamination 3,21.0,21,1.0
+42,Cannizarro 1,13.0,21,1.6153846153846154
+43,"Strecker Degradation Dicarbonyl, H, H, H, C",13.0,22,1.6923076923076923
+44,"Strecker Degradation Dicarbonyl, H, H, C, H",13.0,22,1.6923076923076923
+45,Mannich Addition (reverse),22.0,23,1.0454545454545454
+46,"Ring Closure 5 membered O, O",17.0,23,1.3529411764705883
+47,"Fe2 ---> Fe3 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group, inverse",0.0,24,0.0
+48,"Michael Addition 0,2, ",23.0,25,1.0869565217391304
+49,Benzilic Acid Rearrangement,17.0,26,1.5294117647058822
+50,Fe3 Complex Beta elimination from a sugar and Conversion to Acid,0.0,31,0.0
+51,Deamination 3 (inverse),24.0,32,1.3333333333333333
+52,"Strecker Degradation Dicarbonyl, C, H, C, C",32.0,32,1.0
+53,Knoevenagel C (inverse),41.0,41,1.0
+54,Deamination 2,48.0,52,1.0833333333333333
+55,Dehydration of Amines,48.0,52,1.0833333333333333
+56,Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group,0.0,59,0.0
+57,Fe3 ---> Fe2 Aldehyde to acid,0.0,60,0.0
+58,Hemiacetal Formation for 7 membered rings,63.0,75,1.1904761904761905
+59,Transamination,54.0,87,1.6111111111111112
+60,"Strecker Degradation Dicarbonyl, C, H, C, H",52.0,88,1.6923076923076923
+61,"Strecker Degradation Dicarbonyl, C, H, H, C",52.0,88,1.6923076923076923
+62,Hemiacetal Formation for 6 membered rings,88.0,110,1.25
+63,"Cannizarro 2, glucose (reduction)",118.0,134,1.1355932203389831
+64,Hydration of C(=O)C,128.0,140,1.09375
+65,"Cannizarro 2, glucose (oxidation)",142.0,161,1.1338028169014085
+66,Knoevenagel H (inv),147.0,162,1.1020408163265305
+67,Hemiacetal Formation for 5 membered rings,144.0,169,1.1736111111111112
+68,Elimination2,175.0,200,1.1428571428571428
+69,Keto-enol migration twice,192.0,219,1.140625
+70,Amadori Rearrangement,207.0,241,1.1642512077294687
+71,Retro Aldol,224.0,253,1.1294642857142858
+72,Mannich Addition,445.0,483,1.0853932584269663
+73,Knoevenagel C,452.0,513,1.1349557522123894
+74,Elimination + enol to keto,509.0,581,1.1414538310412574
+75,Amadori/Heyns Rearrangement,523.0,594,1.135755258126195
+76,Aldol Condensation,592.0,697,1.177364864864865
+77,Knoevenagel H,615.0,814,1.3235772357723576
+78,"Strecker Degradation, HC",802.0,859,1.071072319201995
+79,"Strecker Degradation, CC",810.0,888,1.0962962962962963
+80,Transamination (inverse),1764.0,2028,1.1496598639455782

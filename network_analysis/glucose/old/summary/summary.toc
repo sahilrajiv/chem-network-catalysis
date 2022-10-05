@@ -1,0 +1,3 @@
+\babel@toc {english}{}
+\contentsline {subsection}{\numberline {0.0.1}Cannizarro 2, glucose (oxidation)}{2}{subsection.0.0.1}%
+\contentsline {chapter}{\numberline {1}Alkaline Glucose Degradation}{4}{chapter.1}%

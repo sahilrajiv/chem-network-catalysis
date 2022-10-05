@@ -1,0 +1,14 @@
+graph G {
+	0 [ label="C | C" ]
+	1 [ label="O | O" ]
+	2 [ label="C | C" ]
+	3 [ label="H | H" ]
+	4 [ label="* | *" ]
+	5 [ label="C | C" ]
+	0 -- 1 [ label="= | -" ]
+	0 -- 2 [ style=dotted label="-" ]
+	1 -- 3 [ style=dotted label="-" ]
+	2 -- 3 [ style=dashed label="-" ]
+	2 -- 4 [ label="- | -" ]
+	2 -- 5 [ label="- | -" ]
+}

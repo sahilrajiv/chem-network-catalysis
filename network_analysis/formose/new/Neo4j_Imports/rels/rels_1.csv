@@ -1,0 +1,259 @@
+8_0	C=O	-1	Aldol Condensation
+8_0	C(CO)=O	-1	Aldol Condensation
+8_0	C(C(CO)O)=O	1	Aldol Condensation
+8_1	C=O	-1	Knoevenagel H
+8_1	C(CO)=O	-1	Knoevenagel H
+8_1	C(C(CO)O)=O	1	Knoevenagel H
+10_0	C(CO)=O	-1	Aldol Condensation
+10_0	C(CO)=O	-1	Aldol Condensation
+10_0	C(C(C(CO)O)O)=O	1	Aldol Condensation
+10_1	C(CO)=O	-1	Knoevenagel H
+10_1	C(CO)=O	-1	Knoevenagel H
+10_1	C(C(C(CO)O)O)=O	1	Knoevenagel H
+11_0	C(CO)=O	-1	Keto-enol migration twice
+11_0	C(CO)=O	1	Keto-enol migration twice
+14_0	C=O	-1	Cannizarro 2, HCHO (oxidation)
+14_0	C=O	-1	Cannizarro 2, HCHO (oxidation)
+14_0	O	-1	Cannizarro 2, HCHO (oxidation)
+14_0	C(O)=O	1	Cannizarro 2, HCHO (oxidation)
+14_0	CO	1	Cannizarro 2, HCHO (oxidation)
+14_1	C=O	-1	Cannizarro 2, HCHO (reduction)
+14_1	C=O	-1	Cannizarro 2, HCHO (reduction)
+14_1	O	-1	Cannizarro 2, HCHO (reduction)
+14_1	C(O)=O	1	Cannizarro 2, HCHO (reduction)
+14_1	CO	1	Cannizarro 2, HCHO (reduction)
+16_0	C=O	-1	Cannizarro 2, HCHO (oxidation)
+16_0	C(CO)=O	-1	Cannizarro 2, HCHO (oxidation)
+16_0	O	-1	Cannizarro 2, HCHO (oxidation)
+16_0	C(O)=O	1	Cannizarro 2, HCHO (oxidation)
+16_0	C(CO)O	1	Cannizarro 2, HCHO (oxidation)
+18_0	C=O	-1	Cannizarro 2, HCHO (reduction)
+18_0	C(CO)=O	-1	Cannizarro 2, HCHO (reduction)
+18_0	O	-1	Cannizarro 2, HCHO (reduction)
+18_0	CO	1	Cannizarro 2, HCHO (reduction)
+18_0	C(CO)(O)=O	1	Cannizarro 2, HCHO (reduction)
+20_0	C(CO)=O	-1	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group
+20_0	[Fe+3]	-1	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group
+20_0	[Fe+3]	-1	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group
+20_0	[H+]	1	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group
+20_0	[H+]	1	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group
+20_0	[Fe+2]	1	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group
+20_0	[Fe+2]	1	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group
+20_0	C(C=O)=O	1	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group
+21_0	C(CO)=O	-1	Fe3 ---> Fe2 Aldehyde to acid
+21_0	[OH-]	-1	Fe3 ---> Fe2 Aldehyde to acid
+21_0	[Fe+3]	-1	Fe3 ---> Fe2 Aldehyde to acid
+21_0	[Fe+3]	-1	Fe3 ---> Fe2 Aldehyde to acid
+21_0	[H+]	1	Fe3 ---> Fe2 Aldehyde to acid
+21_0	[Fe+2]	1	Fe3 ---> Fe2 Aldehyde to acid
+21_0	[Fe+2]	1	Fe3 ---> Fe2 Aldehyde to acid
+21_0	C(CO)(O)=O	1	Fe3 ---> Fe2 Aldehyde to acid
+23_0	C(CO)=O	-1	Aldol Condensation
+23_0	C(C(CO)O)=O	-1	Aldol Condensation
+23_0	C(C(C(C(CO)O)O)O)=O	1	Aldol Condensation
+23_1	C(CO)=O	-1	Knoevenagel H
+23_1	C(C(CO)O)=O	-1	Knoevenagel H
+23_1	C(C(C(C(CO)O)O)O)=O	1	Knoevenagel H
+25_0	C(CO)=O	-1	Aldol Condensation
+25_0	C(C(C(CO)O)O)=O	-1	Aldol Condensation
+25_0	C(C(C(C(C(CO)O)O)O)O)=O	1	Aldol Condensation
+25_1	C(CO)=O	-1	Knoevenagel H
+25_1	C(C(C(CO)O)O)=O	-1	Knoevenagel H
+25_1	C(C(C(C(C(CO)O)O)O)O)=O	1	Knoevenagel H
+27_0	C(CO)=O	-1	Aldol Condensation
+27_0	C(C=O)=O	-1	Aldol Condensation
+27_0	C(C(C(C=O)O)O)=O	1	Aldol Condensation
+27_1	C(CO)=O	-1	Knoevenagel H
+27_1	C(C=O)=O	-1	Knoevenagel H
+27_1	C(C(C(C=O)O)O)=O	1	Knoevenagel H
+28_0	O	-1	Benzilic Acid Rearrangement
+28_0	C(C=O)=O	-1	Benzilic Acid Rearrangement
+28_0	C(CO)(O)=O	1	Benzilic Acid Rearrangement
+28_1	O	-1	Cannizarro 1
+28_1	C(C=O)=O	-1	Cannizarro 1
+28_1	C(CO)(O)=O	1	Cannizarro 1
+29_0	C(CO)(O)=O	-1	Benzilic Acid Rearrangement (inverse)
+29_0	O	1	Benzilic Acid Rearrangement (inverse)
+29_0	C(C=O)=O	1	Benzilic Acid Rearrangement (inverse)
+30_0	C(C(CO)O)=O	-1	Retro Aldol
+30_0	C=O	1	Retro Aldol
+30_0	C(CO)=O	1	Retro Aldol
+30_1	C(C(CO)O)=O	-1	Knoevenagel H (inv)
+30_1	C=O	1	Knoevenagel H (inv)
+30_1	C(CO)=O	1	Knoevenagel H (inv)
+31_0	C(C(C(CO)O)O)=O	-1	Retro Aldol
+31_0	C(CO)=O	1	Retro Aldol
+31_0	C(CO)=O	1	Retro Aldol
+31_1	C(C(C(CO)O)O)=O	-1	Knoevenagel H (inv)
+31_1	C(CO)=O	1	Knoevenagel H (inv)
+31_1	C(CO)=O	1	Knoevenagel H (inv)
+33_0	C(C(CO)O)=O	-1	Keto-enol migration twice
+33_0	C(CO)(CO)=O	1	Keto-enol migration twice
+35_0	C(C(C(CO)O)O)=O	-1	Keto-enol migration twice
+35_0	C(CO)(C(CO)O)=O	1	Keto-enol migration twice
+37_0	C=O	-1	Cannizarro 2, HCHO (oxidation)
+37_0	O	-1	Cannizarro 2, HCHO (oxidation)
+37_0	C(C(CO)O)=O	-1	Cannizarro 2, HCHO (oxidation)
+37_0	C(O)=O	1	Cannizarro 2, HCHO (oxidation)
+37_0	C(C(CO)O)O	1	Cannizarro 2, HCHO (oxidation)
+39_0	C=O	-1	Cannizarro 2, HCHO (oxidation)
+39_0	O	-1	Cannizarro 2, HCHO (oxidation)
+39_0	C(C(C(CO)O)O)=O	-1	Cannizarro 2, HCHO (oxidation)
+39_0	C(O)=O	1	Cannizarro 2, HCHO (oxidation)
+39_0	C(C(C(CO)O)O)O	1	Cannizarro 2, HCHO (oxidation)
+40_0	C=O	-1	Cannizarro 2, HCHO (oxidation)
+40_0	O	-1	Cannizarro 2, HCHO (oxidation)
+40_0	C(C=O)=O	-1	Cannizarro 2, HCHO (oxidation)
+40_0	C(CO)=O	1	Cannizarro 2, HCHO (oxidation)
+40_0	C(O)=O	1	Cannizarro 2, HCHO (oxidation)
+42_0	C=O	-1	Cannizarro 2, HCHO (reduction)
+42_0	O	-1	Cannizarro 2, HCHO (reduction)
+42_0	C(C(CO)O)=O	-1	Cannizarro 2, HCHO (reduction)
+42_0	CO	1	Cannizarro 2, HCHO (reduction)
+42_0	C(C(CO)O)(O)=O	1	Cannizarro 2, HCHO (reduction)
+44_0	C=O	-1	Cannizarro 2, HCHO (reduction)
+44_0	O	-1	Cannizarro 2, HCHO (reduction)
+44_0	C(C(C(CO)O)O)=O	-1	Cannizarro 2, HCHO (reduction)
+44_0	CO	1	Cannizarro 2, HCHO (reduction)
+44_0	C(C(C(CO)O)O)(O)=O	1	Cannizarro 2, HCHO (reduction)
+46_0	C=O	-1	Cannizarro 2, HCHO (reduction)
+46_0	O	-1	Cannizarro 2, HCHO (reduction)
+46_0	C(C=O)=O	-1	Cannizarro 2, HCHO (reduction)
+46_0	CO	1	Cannizarro 2, HCHO (reduction)
+46_0	C(C(O)=O)=O	1	Cannizarro 2, HCHO (reduction)
+48_0	C(C(CO)O)=O	-1	Knoevenagel C
+48_0	C(C(CO)O)=O	-1	Knoevenagel C
+48_0	C(C(CO)(C(C(CO)O)O)O)=O	1	Knoevenagel C
+48_1	C(C(CO)O)=O	-1	Knoevenagel H
+48_1	C(C(CO)O)=O	-1	Knoevenagel H
+48_1	C(C(CO)(C(C(CO)O)O)O)=O	1	Knoevenagel H
+50_0	C(C(CO)O)=O	-1	Knoevenagel C
+50_0	C(C=O)=O	-1	Knoevenagel C
+50_0	C(C(CO)(C(C=O)O)O)=O	1	Knoevenagel C
+50_1	C(C(CO)O)=O	-1	Knoevenagel H
+50_1	C(C=O)=O	-1	Knoevenagel H
+50_1	C(C(CO)(C(C=O)O)O)=O	1	Knoevenagel H
+52_0	C=O	-1	Knoevenagel C
+52_0	C(C(CO)O)=O	-1	Knoevenagel C
+52_0	C(C(CO)(CO)O)=O	1	Knoevenagel C
+52_1	C=O	-1	Knoevenagel H
+52_1	C(C(CO)O)=O	-1	Knoevenagel H
+52_1	C(C(CO)(CO)O)=O	1	Knoevenagel H
+54_0	C(CO)=O	-1	Knoevenagel C
+54_0	C(C(CO)O)=O	-1	Knoevenagel C
+54_0	C(C(CO)(C(CO)O)O)=O	1	Knoevenagel C
+54_1	C(CO)=O	-1	Knoevenagel H
+54_1	C(C(CO)O)=O	-1	Knoevenagel H
+54_1	C(C(CO)(C(CO)O)O)=O	1	Knoevenagel H
+56_0	C(C(C(CO)O)O)=O	-1	Knoevenagel C
+56_0	C(C=O)=O	-1	Knoevenagel C
+56_0	C(C(C(CO)O)(C(C=O)O)O)=O	1	Knoevenagel C
+56_1	C(C(C(CO)O)O)=O	-1	Knoevenagel H
+56_1	C(C=O)=O	-1	Knoevenagel H
+56_1	C(C(C(CO)O)(C(C=O)O)O)=O	1	Knoevenagel H
+57_0	C=O	-1	Knoevenagel C
+57_0	C(C(C(CO)O)O)=O	-1	Knoevenagel C
+57_0	C(C(CO)(C(CO)O)O)=O	1	Knoevenagel C
+57_1	C=O	-1	Knoevenagel H
+57_1	C(C(C(CO)O)O)=O	-1	Knoevenagel H
+57_1	C(C(CO)(C(CO)O)O)=O	1	Knoevenagel H
+59_0	C(CO)=O	-1	Knoevenagel C
+59_0	C(C(C(CO)O)O)=O	-1	Knoevenagel C
+59_0	C(C(C(CO)O)(C(CO)O)O)=O	1	Knoevenagel C
+59_1	C(CO)=O	-1	Knoevenagel H
+59_1	C(C(C(CO)O)O)=O	-1	Knoevenagel H
+59_1	C(C(C(CO)O)(C(CO)O)O)=O	1	Knoevenagel H
+61_0	C(C(CO)O)=O	-1	Knoevenagel H
+61_0	C(CO)(O)=O	-1	Knoevenagel H
+61_0	C(C(C(C(CO)O)O)O)(O)=O	1	Knoevenagel H
+63_0	C(C(C(CO)O)O)=O	-1	Knoevenagel H
+63_0	C(CO)(O)=O	-1	Knoevenagel H
+63_0	C(C(C(C(C(CO)O)O)O)O)(O)=O	1	Knoevenagel H
+65_0	C(CO)(O)=O	-1	Knoevenagel H
+65_0	C(C=O)=O	-1	Knoevenagel H
+65_0	C(C(C(C=O)O)O)(O)=O	1	Knoevenagel H
+66_0	C=O	-1	Knoevenagel H
+66_0	C(CO)(O)=O	-1	Knoevenagel H
+66_0	C(C(CO)O)(O)=O	1	Knoevenagel H
+67_0	C(CO)=O	-1	Knoevenagel H
+67_0	C(CO)(O)=O	-1	Knoevenagel H
+67_0	C(C(C(CO)O)O)(O)=O	1	Knoevenagel H
+69_0	C(C(CO)O)=O	-1	Elimination + enol to keto
+69_0	O	1	Elimination + enol to keto
+69_0	C(C(C)=O)=O	1	Elimination + enol to keto
+71_0	C(C(CO)O)=O	-1	Elimination + enol to keto
+71_0	O	1	Elimination + enol to keto
+71_0	C(CC=O)=O	1	Elimination + enol to keto
+73_0	C(C(C(CO)O)O)=O	-1	Elimination + enol to keto
+73_0	O	1	Elimination + enol to keto
+73_0	C(C(CCO)=O)=O	1	Elimination + enol to keto
+75_0	C(C(C(CO)O)O)=O	-1	Elimination + enol to keto
+75_0	O	1	Elimination + enol to keto
+75_0	C(CC(C=O)O)=O	1	Elimination + enol to keto
+77_0	C(C(C(CO)O)O)=O	-1	Elimination + enol to keto
+77_0	O	1	Elimination + enol to keto
+77_0	C(CC(CO)=O)=O	1	Elimination + enol to keto
+79_0	C(C(C(CO)O)O)=O	-1	Elimination + enol to keto
+79_0	O	1	Elimination + enol to keto
+79_0	C(C(C(C)=O)O)=O	1	Elimination + enol to keto
+81_0	C(CO)O	-1	Elimination + enol to keto
+81_0	O	1	Elimination + enol to keto
+81_0	C(C)=O	1	Elimination + enol to keto
+83_0	C(C(C(CO)O)O)=O	-1	Hemiacetal Formation for 5 membered rings
+83_0	C1C(C(C(O)O1)O)O	1	Hemiacetal Formation for 5 membered rings
+84_0	[Fe+3]	-1	Fe3 ---> Fe2 Conversion of Alpha Hydro Group of an ACID to Alpha Keto group
+84_0	[Fe+3]	-1	Fe3 ---> Fe2 Conversion of Alpha Hydro Group of an ACID to Alpha Keto group
+84_0	C(CO)(O)=O	-1	Fe3 ---> Fe2 Conversion of Alpha Hydro Group of an ACID to Alpha Keto group
+84_0	[H+]	1	Fe3 ---> Fe2 Conversion of Alpha Hydro Group of an ACID to Alpha Keto group
+84_0	[H+]	1	Fe3 ---> Fe2 Conversion of Alpha Hydro Group of an ACID to Alpha Keto group
+84_0	[Fe+2]	1	Fe3 ---> Fe2 Conversion of Alpha Hydro Group of an ACID to Alpha Keto group
+84_0	[Fe+2]	1	Fe3 ---> Fe2 Conversion of Alpha Hydro Group of an ACID to Alpha Keto group
+84_0	C(C(O)=O)=O	1	Fe3 ---> Fe2 Conversion of Alpha Hydro Group of an ACID to Alpha Keto group
+86_0	[Fe+3]	-1	Fe3 Complex Beta elimination from a sugar and Conversion to Acid
+86_0	C(C(CO)O)=O	-1	Fe3 Complex Beta elimination from a sugar and Conversion to Acid
+86_0	[Fe+3]	1	Fe3 Complex Beta elimination from a sugar and Conversion to Acid
+86_0	C(C(C)O)(O)=O	1	Fe3 Complex Beta elimination from a sugar and Conversion to Acid
+88_0	[Fe+3]	-1	Fe3 Complex Beta elimination from a sugar and Conversion to Acid
+88_0	C(C(C(CO)O)O)=O	-1	Fe3 Complex Beta elimination from a sugar and Conversion to Acid
+88_0	[Fe+3]	1	Fe3 Complex Beta elimination from a sugar and Conversion to Acid
+88_0	C(C(CCO)O)(O)=O	1	Fe3 Complex Beta elimination from a sugar and Conversion to Acid
+90_0	[Fe+3]	-1	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group
+90_0	[Fe+3]	-1	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group
+90_0	C(C(CO)O)=O	-1	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group
+90_0	[H+]	1	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group
+90_0	[H+]	1	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group
+90_0	[Fe+2]	1	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group
+90_0	[Fe+2]	1	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group
+90_0	C(C(CO)=O)=O	1	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group
+92_0	[Fe+3]	-1	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group
+92_0	[Fe+3]	-1	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group
+92_0	C(C(C(CO)O)O)=O	-1	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group
+92_0	[H+]	1	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group
+92_0	[H+]	1	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group
+92_0	[Fe+2]	1	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group
+92_0	[Fe+2]	1	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group
+92_0	C(C(C(CO)O)=O)=O	1	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group
+93_0	[H+]	-1	Fe2 ---> Fe3 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group, inverse
+93_0	[H+]	-1	Fe2 ---> Fe3 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group, inverse
+93_0	[Fe+2]	-1	Fe2 ---> Fe3 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group, inverse
+93_0	[Fe+2]	-1	Fe2 ---> Fe3 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group, inverse
+93_0	C(C=O)=O	-1	Fe2 ---> Fe3 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group, inverse
+93_0	C(CO)=O	1	Fe2 ---> Fe3 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group, inverse
+93_0	[Fe+3]	1	Fe2 ---> Fe3 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group, inverse
+93_0	[Fe+3]	1	Fe2 ---> Fe3 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group, inverse
+94_0	[OH-]	-1	Fe3 ---> Fe2 Aldehyde to acid
+94_0	[Fe+3]	-1	Fe3 ---> Fe2 Aldehyde to acid
+94_0	[Fe+3]	-1	Fe3 ---> Fe2 Aldehyde to acid
+94_0	C(C(CO)O)=O	-1	Fe3 ---> Fe2 Aldehyde to acid
+94_0	[H+]	1	Fe3 ---> Fe2 Aldehyde to acid
+94_0	[Fe+2]	1	Fe3 ---> Fe2 Aldehyde to acid
+94_0	[Fe+2]	1	Fe3 ---> Fe2 Aldehyde to acid
+94_0	C(C(CO)O)(O)=O	1	Fe3 ---> Fe2 Aldehyde to acid
+95_0	[OH-]	-1	Fe3 ---> Fe2 Aldehyde to acid
+95_0	[Fe+3]	-1	Fe3 ---> Fe2 Aldehyde to acid
+95_0	[Fe+3]	-1	Fe3 ---> Fe2 Aldehyde to acid
+95_0	C(C(C(CO)O)O)=O	-1	Fe3 ---> Fe2 Aldehyde to acid
+95_0	[H+]	1	Fe3 ---> Fe2 Aldehyde to acid
+95_0	[Fe+2]	1	Fe3 ---> Fe2 Aldehyde to acid
+95_0	[Fe+2]	1	Fe3 ---> Fe2 Aldehyde to acid
+95_0	C(C(C(CO)O)O)(O)=O	1	Fe3 ---> Fe2 Aldehyde to acid

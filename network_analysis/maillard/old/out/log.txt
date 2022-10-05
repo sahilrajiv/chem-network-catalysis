@@ -1,0 +1,241 @@
+Running VM ---------------------------------------------------------
+Executing code from 'maillard_reaction.py'
+Executing code from '../main.py'
+Executing code from '../rules/all.py' ('../../rules/all.py')
+Executing code from 'common.py' ('../../rules/common.py')
+End of code from 'common.py' ('../../rules/common.py')
+Executing code from 'aldolCondensation.py' ('../../rules/aldolCondensation.py')
+End of code from 'aldolCondensation.py' ('../../rules/aldolCondensation.py')
+Executing code from 'benzilicAcidRearrangement.py' ('../../rules/benzilicAcidRearrangement.py')
+End of code from 'benzilicAcidRearrangement.py' ('../../rules/benzilicAcidRearrangement.py')
+Executing code from 'retroAldol.py' ('../../rules/retroAldol.py')
+End of code from 'retroAldol.py' ('../../rules/retroAldol.py')
+Executing code from 'ketoEnolisation.py' ('../../rules/ketoEnolisation.py')
+End of code from 'ketoEnolisation.py' ('../../rules/ketoEnolisation.py')
+Executing code from 'heyns_rearrangement.py' ('../../rules/heyns_rearrangement.py')
+End of code from 'heyns_rearrangement.py' ('../../rules/heyns_rearrangement.py')
+Executing code from 'esterFormationHydrolysisExchange.py' ('../../rules/esterFormationHydrolysisExchange.py')
+Executing code from 'common.py' ('../../rules/common.py')
+Skipping inclusion (already included)
+End of code from 'common.py' ('../../rules/common.py')
+End of code from 'esterFormationHydrolysisExchange.py' ('../../rules/esterFormationHydrolysisExchange.py')
+Executing code from 'cannizarro1.py' ('../../rules/cannizarro1.py')
+End of code from 'cannizarro1.py' ('../../rules/cannizarro1.py')
+Executing code from 'cannizarro2.py' ('../../rules/cannizarro2.py')
+WARNING: No viable geometries for O with bonds D = 1.
+WARNING: No viable geometries for O with bonds S = 2.
+WARNING: No viable geometries for O with bonds S = 2.
+WARNING: No viable geometries for O with bonds S = 2.
+WARNING: No viable geometries for O with bonds S = 2.
+WARNING: No viable geometries for O with bonds S = 2.
+WARNING: No viable geometries for O with bonds D = 1.
+WARNING: No viable geometries for O with bonds S = 2.
+End of code from 'cannizarro2.py' ('../../rules/cannizarro2.py')
+Executing code from 'alkyneAddition.py' ('../../rules/alkyneAddition.py')
+Executing code from 'common.py' ('../../rules/common.py')
+Skipping inclusion (already included)
+End of code from 'common.py' ('../../rules/common.py')
+WARNING: No viable geometries for O with bonds D = 1.
+WARNING: No viable geometries for O with bonds S = 2.
+WARNING: No viable geometries for O with bonds S = 2.
+WARNING: No viable geometries for O with bonds S = 2.
+WARNING: No viable geometries for O with bonds S = 2.
+WARNING: No viable geometries for O with bonds S = 2.
+WARNING: No viable geometries for O with bonds D = 1.
+WARNING: No viable geometries for O with bonds S = 2.
+WARNING: No viable geometries for O with bonds D = 1.
+WARNING: No viable geometries for O with bonds S = 2.
+WARNING: No viable geometries for O with bonds S = 2.
+WARNING: No viable geometries for O with bonds S = 2.
+WARNING: No viable geometries for O with bonds S = 2.
+WARNING: No viable geometries for O with bonds S = 2.
+WARNING: No viable geometries for O with bonds S = 2.
+WARNING: No viable geometries for O with bonds S = 2.
+End of code from 'alkyneAddition.py' ('../../rules/alkyneAddition.py')
+Executing code from 'knoevenagel.py' ('../../rules/knoevenagel.py')
+End of code from 'knoevenagel.py' ('../../rules/knoevenagel.py')
+Executing code from 'damnScission.py' ('../../rules/damnScission.py')
+Executing code from 'common.py' ('../../rules/common.py')
+Skipping inclusion (already included)
+End of code from 'common.py' ('../../rules/common.py')
+End of code from 'damnScission.py' ('../../rules/damnScission.py')
+Executing code from 'cyanogenAmmonolysis.py' ('../../rules/cyanogenAmmonolysis.py')
+Executing code from 'common.py' ('../../rules/common.py')
+Skipping inclusion (already included)
+End of code from 'common.py' ('../../rules/common.py')
+End of code from 'cyanogenAmmonolysis.py' ('../../rules/cyanogenAmmonolysis.py')
+Executing code from 'cyanamideHydration.py' ('../../rules/cyanamideHydration.py')
+Executing code from 'common.py' ('../../rules/common.py')
+Skipping inclusion (already included)
+End of code from 'common.py' ('../../rules/common.py')
+End of code from 'cyanamideHydration.py' ('../../rules/cyanamideHydration.py')
+Executing code from 'carbamylation.py' ('../../rules/carbamylation.py')
+Executing code from 'common.py' ('../../rules/common.py')
+Skipping inclusion (already included)
+End of code from 'common.py' ('../../rules/common.py')
+End of code from 'carbamylation.py' ('../../rules/carbamylation.py')
+Executing code from 'cyanateFromCyanogen.py' ('../../rules/cyanateFromCyanogen.py')
+End of code from 'cyanateFromCyanogen.py' ('../../rules/cyanateFromCyanogen.py')
+Executing code from 'ketoneCatalyzedDecarboxylation.py' ('../../rules/ketoneCatalyzedDecarboxylation.py')
+End of code from 'ketoneCatalyzedDecarboxylation.py' ('../../rules/ketoneCatalyzedDecarboxylation.py')
+Executing code from 'amadoriRearrangement.py' ('../../rules/amadoriRearrangement.py')
+End of code from 'amadoriRearrangement.py' ('../../rules/amadoriRearrangement.py')
+Executing code from 'thialThiene.py' ('../../rules/thialThiene.py')
+End of code from 'thialThiene.py' ('../../rules/thialThiene.py')
+Executing code from 'sulfideToNitrileAddition.py' ('../../rules/sulfideToNitrileAddition.py')
+End of code from 'sulfideToNitrileAddition.py' ('../../rules/sulfideToNitrileAddition.py')
+Executing code from 'thioamidineToAmideHydrolysis.py' ('../../rules/thioamidineToAmideHydrolysis.py')
+End of code from 'thioamidineToAmideHydrolysis.py' ('../../rules/thioamidineToAmideHydrolysis.py')
+Executing code from 'ketoneAldehydeToThioketoneThial.py' ('../../rules/ketoneAldehydeToThioketoneThial.py')
+Executing code from 'common.py' ('../../rules/common.py')
+Skipping inclusion (already included)
+End of code from 'common.py' ('../../rules/common.py')
+End of code from 'ketoneAldehydeToThioketoneThial.py' ('../../rules/ketoneAldehydeToThioketoneThial.py')
+Executing code from 'hcnToKetone.py' ('../../rules/hcnToKetone.py')
+End of code from 'hcnToKetone.py' ('../../rules/hcnToKetone.py')
+Executing code from 'streckerDegradationDicarbonyl.py' ('../../rules/streckerDegradationDicarbonyl.py')
+Executing code from 'common.py' ('../../rules/common.py')
+Skipping inclusion (already included)
+End of code from 'common.py' ('../../rules/common.py')
+End of code from 'streckerDegradationDicarbonyl.py' ('../../rules/streckerDegradationDicarbonyl.py')
+Executing code from 'schiffTautomerization.py' ('../../rules/schiffTautomerization.py')
+End of code from 'schiffTautomerization.py' ('../../rules/schiffTautomerization.py')
+Aldol Condensation can not be inverted yet.
+Benzilic Acid Rearrangement can not be inverted yet.
+Benzilic Acid Rearrangement (inverse) can not be inverted yet.
+Retro Aldol can not be inverted yet.
+Keto-enol migration twice can not be inverted yet.
+Amadori/Heyns Rearrangement can not be inverted yet.
+Ester Hydrolysis can not be inverted yet.
+Cannizarro 1 can not be inverted yet.
+Cannizarro 2, glucose (oxidation) can not be inverted yet.
+Cannizarro 2, glucose (reduction) can not be inverted yet.
+Alkyne Addition, N, HC can not be inverted yet.
+Alkyne Addition, N, CC can not be inverted yet.
+Alkyne Addition, S, C can not be inverted yet.
+Knoevenagel C can not be inverted yet.
+Knoevenagel H can not be inverted yet.
+Knoevenagel C (inverse) can not be inverted yet.
+Knoevenagel H (inv) can not be inverted yet.
+Carbamylation, N, HC can not be inverted yet.
+Carbamylation, N, CC can not be inverted yet.
+Ketone/Aldehyde to Thioketone/Thial, HC can not be inverted yet.
+Ketone/Aldehyde to Thioketone/Thial, CC can not be inverted yet.
+Strecker Degradation Dicarbonyl, H, H, H, C can not be inverted yet.
+Strecker Degradation Dicarbonyl, H, H, C, H can not be inverted yet.
+Strecker Degradation Dicarbonyl, H, H, C, C can not be inverted yet.
+Strecker Degradation Dicarbonyl, H, C, H, H can not be inverted yet.
+Strecker Degradation Dicarbonyl, H, C, H, C can not be inverted yet.
+Strecker Degradation Dicarbonyl, H, C, C, H can not be inverted yet.
+Strecker Degradation Dicarbonyl, H, C, C, C can not be inverted yet.
+Strecker Degradation Dicarbonyl, C, H, H, H can not be inverted yet.
+Strecker Degradation Dicarbonyl, C, H, H, C can not be inverted yet.
+Strecker Degradation Dicarbonyl, C, H, C, H can not be inverted yet.
+Strecker Degradation Dicarbonyl, C, H, C, C can not be inverted yet.
+Strecker Degradation Dicarbonyl, C, C, H, H can not be inverted yet.
+Strecker Degradation Dicarbonyl, C, C, H, C can not be inverted yet.
+Strecker Degradation Dicarbonyl, C, C, C, H can not be inverted yet.
+Strecker Degradation Dicarbonyl, C, C, C, C can not be inverted yet.
+Executing code from 'ring_hydrol.py' ('../../rules/ring_hydrol.py')
+Executing code from 'common.py' ('../../rules/common.py')
+Skipping inclusion (already included)
+End of code from 'common.py' ('../../rules/common.py')
+End of code from 'ring_hydrol.py' ('../../rules/ring_hydrol.py')
+Executing code from 'ester_ammonolysis.py' ('../../rules/ester_ammonolysis.py')
+End of code from 'ester_ammonolysis.py' ('../../rules/ester_ammonolysis.py')
+Executing code from 'isocyanate_hydrolysis.py' ('../../rules/isocyanate_hydrolysis.py')
+End of code from 'isocyanate_hydrolysis.py' ('../../rules/isocyanate_hydrolysis.py')
+Executing code from 'cyanamidation.py' ('../../rules/cyanamidation.py')
+Executing code from 'common.py' ('../../rules/common.py')
+Skipping inclusion (already included)
+End of code from 'common.py' ('../../rules/common.py')
+End of code from 'cyanamidation.py' ('../../rules/cyanamidation.py')
+Executing code from 'nitrile_amination.py' ('../../rules/nitrile_amination.py')
+End of code from 'nitrile_amination.py' ('../../rules/nitrile_amination.py')
+Executing code from 'hcn_addition.py' ('../../rules/hcn_addition.py')
+End of code from 'hcn_addition.py' ('../../rules/hcn_addition.py')
+Executing code from 'amideFormationHydrolysis.py' ('../../rules/amideFormationHydrolysis.py')
+Executing code from 'common.py' ('../../rules/common.py')
+Skipping inclusion (already included)
+End of code from 'common.py' ('../../rules/common.py')
+End of code from 'amideFormationHydrolysis.py' ('../../rules/amideFormationHydrolysis.py')
+Executing code from 'alkeneAddition.py' ('../../rules/alkeneAddition.py')
+Executing code from 'common.py' ('../../rules/common.py')
+Skipping inclusion (already included)
+End of code from 'common.py' ('../../rules/common.py')
+End of code from 'alkeneAddition.py' ('../../rules/alkeneAddition.py')
+Executing code from 'elimination.py' ('../../rules/elimination.py')
+End of code from 'elimination.py' ('../../rules/elimination.py')
+Executing code from 'hydration.py' ('../../rules/hydration.py')
+End of code from 'hydration.py' ('../../rules/hydration.py')
+Executing code from 'deamination_addition.py' ('../../rules/deamination_addition.py')
+End of code from 'deamination_addition.py' ('../../rules/deamination_addition.py')
+Executing code from 'cyanohydrin_formation.py' ('../../rules/cyanohydrin_formation.py')
+End of code from 'cyanohydrin_formation.py' ('../../rules/cyanohydrin_formation.py')
+Executing code from 'strecker_synthesis.py' ('../../rules/strecker_synthesis.py')
+End of code from 'strecker_synthesis.py' ('../../rules/strecker_synthesis.py')
+Executing code from 'decarboxylation_reactions.py' ('../../rules/decarboxylation_reactions.py')
+End of code from 'decarboxylation_reactions.py' ('../../rules/decarboxylation_reactions.py')
+Executing code from 'mannich.py' ('../../rules/mannich.py')
+End of code from 'mannich.py' ('../../rules/mannich.py')
+Executing code from 'hemiacetalFormation.py' ('../../rules/hemiacetalFormation.py')
+End of code from 'hemiacetalFormation.py' ('../../rules/hemiacetalFormation.py')
+Executing code from 'imineToCarbonyl.py' ('../../rules/imineToCarbonyl.py')
+End of code from 'imineToCarbonyl.py' ('../../rules/imineToCarbonyl.py')
+Executing code from 'amidineToAmideHydrolysis.py' ('../../rules/amidineToAmideHydrolysis.py')
+End of code from 'amidineToAmideHydrolysis.py' ('../../rules/amidineToAmideHydrolysis.py')
+Executing code from 'imineToEnamine.py' ('../../rules/imineToEnamine.py')
+End of code from 'imineToEnamine.py' ('../../rules/imineToEnamine.py')
+Executing code from 'nitrile_hydrolysis.py' ('../../rules/nitrile_hydrolysis.py')
+End of code from 'nitrile_hydrolysis.py' ('../../rules/nitrile_hydrolysis.py')
+Executing code from 'transamination.py' ('../../rules/transamination.py')
+End of code from 'transamination.py' ('../../rules/transamination.py')
+Executing code from 'alphaKetoAcidDecarboxylation.py' ('../../rules/alphaKetoAcidDecarboxylation.py')
+End of code from 'alphaKetoAcidDecarboxylation.py' ('../../rules/alphaKetoAcidDecarboxylation.py')
+Executing code from 'betaDecarboxylation2.py' ('../../rules/betaDecarboxylation2.py')
+Executing code from 'common.py' ('../../rules/common.py')
+Skipping inclusion (already included)
+End of code from 'common.py' ('../../rules/common.py')
+End of code from 'betaDecarboxylation2.py' ('../../rules/betaDecarboxylation2.py')
+Executing code from 'ringClosure.py' ('../../rules/ringClosure.py')
+Executing code from 'common.py' ('../../rules/common.py')
+Skipping inclusion (already included)
+End of code from 'common.py' ('../../rules/common.py')
+End of code from 'ringClosure.py' ('../../rules/ringClosure.py')
+Executing code from 'michaelAddition.py' ('../../rules/michaelAddition.py')
+Executing code from 'common.py' ('../../rules/common.py')
+Skipping inclusion (already included)
+End of code from 'common.py' ('../../rules/common.py')
+End of code from 'michaelAddition.py' ('../../rules/michaelAddition.py')
+Executing code from 'streckerDegradation.py' ('../../rules/streckerDegradation.py')
+Executing code from 'common.py' ('../../rules/common.py')
+Skipping inclusion (already included)
+End of code from 'common.py' ('../../rules/common.py')
+End of code from 'streckerDegradation.py' ('../../rules/streckerDegradation.py')
+End of code from '../rules/all.py' ('../../rules/all.py')
+Executing code from 'mod_to_neo4j_exporter.py' ('../mod_to_neo4j_exporter.py')
+End of code from 'mod_to_neo4j_exporter.py' ('../mod_to_neo4j_exporter.py')
+Executing code from 'data_exporter.py' ('../data_exporter.py')
+End of code from 'data_exporter.py' ('../data_exporter.py')
+MW limit =  200
+End of code from '../main.py'
+Executing code from '../mod_to_neo4j_exporter.py'
+Skipping inclusion (already included)
+End of code from '../mod_to_neo4j_exporter.py'
+Starting round 1
+Took 0.6974506378173828 seconds to complete round 1
+Products in generation 1: 21
+Starting round 2
+Took 8.350639820098877 seconds to complete round 2
+Products in generation 2: 202
+Starting round 3
+Took 1372.3382115364075 seconds to complete round 3
+Products in generation 3: 2697
+<class '_csv.reader'>
+Completed
+Dump file:  out/005_DG.dg
+End of code from 'maillard_reaction.py'
+
+real	23m15.463s
+user	23m14.218s
+sys	0m1.370s

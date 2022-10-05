@@ -1,0 +1,2 @@
+\babel@toc {english}{}
+\contentsline {chapter}{\numberline {1}Pyruvic Acid}{2}{chapter.1}%

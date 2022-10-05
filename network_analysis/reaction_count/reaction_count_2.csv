@@ -1,0 +1,39 @@
+,reaction_name,non_iron,iron_inclusive,ratio
+0,"Hemiacetal Formation for 7 membered rings, inverse",5.0,14,2.8
+1,Alpha-Beta Unsaturated Acid Decarboxylation,12.0,23,1.9166666666666667
+2,Beta-gamma Unsaturated Acid Decarboxylation,29.0,52,1.793103448275862
+3,"Hemiacetal Formation for 6 membered rings, inverse",29.0,62,2.1379310344827585
+4,Fe3 Complex Beta elimination from a sugar and Conversion to Acid,0.0,70,0.0
+5,"Hemiacetal Formation for 5 membered rings, inverse",54.0,103,1.9074074074074074
+6,Cannizarro 1,54.0,154,2.8518518518518516
+7,Fe3 ---> Fe2 Aldehyde to acid,0.0,158,0.0
+8,Fe3 ---> Fe2 Conversion of Alpha Hydro Group of an ACID to Alpha Keto group,0.0,182,0.0
+9,"Ring Closure 7 membered O, O",40.0,194,4.85
+10,Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group,0.0,196,0.0
+11,Beta Decarboxylation,90.0,212,2.3555555555555556
+12,Fe2 ---> Fe3 Conversion of Alpha Keto Group of an ACID to Alpha Hydro group,0.0,218,0.0
+13,"Fe2 ---> Fe3 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group, inverse",0.0,235,0.0
+14,Alpha-Keto Acid Decarboxylation,127.0,251,1.9763779527559056
+15,Fe2 ---> Fe3 Alpha Keto Reduction of a Carboxylic Acid (Fe2+ to Fe3+),0.0,251,0.0
+16,Benzilic Acid Rearrangement,113.0,276,2.4424778761061945
+17,Hemiacetal Formation for 7 membered rings,87.0,321,3.689655172413793
+18,"Ring Closure 6 membered O, O",170.0,543,3.1941176470588237
+19,Benzilic Acid Rearrangement (inverse),264.0,546,2.0681818181818183
+20,Hydration of C=C(O),360.0,665,1.8472222222222223
+21,"Ring Closure 5 membered O, O",343.0,857,2.498542274052478
+22,Hemiacetal Formation for 6 membered rings,297.0,925,3.1144781144781146
+23,"Michael Addition 0,2, (reverse)",318.0,979,3.0786163522012577
+24,Hydration of C(=O)C,457.0,992,2.1706783369803064
+25,"Cannizarro 2, HCHO (reduction)",469.0,1007,2.1471215351812365
+26,Keto-enol migration twice,385.0,1032,2.6805194805194805
+27,Knoevenagel C (inverse),490.0,1036,2.1142857142857143
+28,Knoevenagel H (inv),475.0,1174,2.471578947368421
+29,Hemiacetal Formation for 5 membered rings,522.0,1563,2.9942528735632186
+30,"Cannizarro 2, HCHO (oxidation)",662.0,1680,2.5377643504531724
+31,Elimination + enol to keto,654.0,1763,2.6957186544342506
+32,Retro Aldol,944.0,2458,2.6038135593220337
+33,Elimination2,1298.0,3440,2.650231124807396
+34,Knoevenagel C,1843.0,4115,2.2327726532826913
+35,Knoevenagel H,1963.0,4510,2.297503820682629
+36,"Michael Addition 0,2, ",1902.0,5528,2.9064143007360674
+37,Aldol Condensation,2990.0,7582,2.5357859531772577

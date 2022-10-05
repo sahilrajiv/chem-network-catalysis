@@ -1,0 +1,10 @@
+compileTikz "out/001_r_8_10300000_L" "out/000_r_8_coord"
+compileTikz "out/001_r_8_10300000_K" "out/000_r_8_coord"
+compileTikz "out/001_r_8_10300000_R" "out/000_r_8_coord"
+compileTikz "out/002_r_8_11300100_L" "out/000_r_8_mol_coord"
+compileTikz "out/002_r_8_11300100_K" "out/000_r_8_mol_coord"
+compileTikz "out/002_r_8_11300100_R" "out/000_r_8_mol_coord"
+gv ruleCombined "out/003_r_8_combined" svg
+svgToPdf "out/003_r_8_combined"
+summaryRule "Cannizarro 2, glucose (oxidation)" "out/001_r_8_10300000" "out/002_r_8_11300100" "out/003_r_8_combined" "out/004_r_8_constraints.tex"
+summaryChapter "Maillard Reaction"

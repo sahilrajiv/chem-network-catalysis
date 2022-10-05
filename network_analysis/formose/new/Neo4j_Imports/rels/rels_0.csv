@@ -1,0 +1,50 @@
+8_0	C=O	-1	Aldol Condensation
+8_0	C(CO)=O	-1	Aldol Condensation
+8_0	C(C(CO)O)=O	1	Aldol Condensation
+8_1	C=O	-1	Knoevenagel H
+8_1	C(CO)=O	-1	Knoevenagel H
+8_1	C(C(CO)O)=O	1	Knoevenagel H
+10_0	C(CO)=O	-1	Aldol Condensation
+10_0	C(CO)=O	-1	Aldol Condensation
+10_0	C(C(C(CO)O)O)=O	1	Aldol Condensation
+10_1	C(CO)=O	-1	Knoevenagel H
+10_1	C(CO)=O	-1	Knoevenagel H
+10_1	C(C(C(CO)O)O)=O	1	Knoevenagel H
+11_0	C(CO)=O	-1	Keto-enol migration twice
+11_0	C(CO)=O	1	Keto-enol migration twice
+14_0	C=O	-1	Cannizarro 2, HCHO (oxidation)
+14_0	C=O	-1	Cannizarro 2, HCHO (oxidation)
+14_0	O	-1	Cannizarro 2, HCHO (oxidation)
+14_0	C(O)=O	1	Cannizarro 2, HCHO (oxidation)
+14_0	CO	1	Cannizarro 2, HCHO (oxidation)
+14_1	C=O	-1	Cannizarro 2, HCHO (reduction)
+14_1	C=O	-1	Cannizarro 2, HCHO (reduction)
+14_1	O	-1	Cannizarro 2, HCHO (reduction)
+14_1	C(O)=O	1	Cannizarro 2, HCHO (reduction)
+14_1	CO	1	Cannizarro 2, HCHO (reduction)
+16_0	C=O	-1	Cannizarro 2, HCHO (oxidation)
+16_0	C(CO)=O	-1	Cannizarro 2, HCHO (oxidation)
+16_0	O	-1	Cannizarro 2, HCHO (oxidation)
+16_0	C(O)=O	1	Cannizarro 2, HCHO (oxidation)
+16_0	C(CO)O	1	Cannizarro 2, HCHO (oxidation)
+18_0	C=O	-1	Cannizarro 2, HCHO (reduction)
+18_0	C(CO)=O	-1	Cannizarro 2, HCHO (reduction)
+18_0	O	-1	Cannizarro 2, HCHO (reduction)
+18_0	CO	1	Cannizarro 2, HCHO (reduction)
+18_0	C(CO)(O)=O	1	Cannizarro 2, HCHO (reduction)
+20_0	C(CO)=O	-1	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group
+20_0	[Fe+3]	-1	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group
+20_0	[Fe+3]	-1	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group
+20_0	[H+]	1	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group
+20_0	[H+]	1	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group
+20_0	[Fe+2]	1	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group
+20_0	[Fe+2]	1	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group
+20_0	C(C=O)=O	1	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group
+21_0	C(CO)=O	-1	Fe3 ---> Fe2 Aldehyde to acid
+21_0	[OH-]	-1	Fe3 ---> Fe2 Aldehyde to acid
+21_0	[Fe+3]	-1	Fe3 ---> Fe2 Aldehyde to acid
+21_0	[Fe+3]	-1	Fe3 ---> Fe2 Aldehyde to acid
+21_0	[H+]	1	Fe3 ---> Fe2 Aldehyde to acid
+21_0	[Fe+2]	1	Fe3 ---> Fe2 Aldehyde to acid
+21_0	[Fe+2]	1	Fe3 ---> Fe2 Aldehyde to acid
+21_0	C(CO)(O)=O	1	Fe3 ---> Fe2 Aldehyde to acid
